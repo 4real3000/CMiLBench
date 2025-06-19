@@ -75,15 +75,28 @@ pip install -r requirements.txt
 
 #### 1. API模型推理（API-based Inference）
 
+**第一步：配置API信息**
+
+在执行脚本中配置您的API密钥和地址：
+
 ```bash
-# 使用OpenAI API进行推理
+# 编辑推理脚本
+nano inference/infer_api.sh
+
+# 修改以下配置项（必需）：
+model_name="gpt-4o"                    # 您要使用的模型名称
+api_key="your_api_key_here"           # 🔑 替换为您的实际API密钥
+api_base="https://api.openai.com/v1"  # 🌐 替换为您的API地址
+api_delay="0.05"                      # API调用间隔（秒）
+BASE_PATH="/path/to/CMiLBench"        # 📁 修改为实际的数据集路径
+```
+
+**第二步：执行推理**
+
+```bash
+# 运行完整推理（所有任务、所有语言）
 cd inference
-python infer_api.py \
-    --model_name gpt-4o \
-    --api_key your_api_key_here \
-    --task_list tasks_bo.json \
-    --output_dir ./results \
-    --batch_size 1
+bash infer_api.sh
 ```
 
 #### 2. 本地模型推理（Local Model Inference）
