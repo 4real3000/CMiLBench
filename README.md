@@ -101,7 +101,7 @@ bash infer_api.sh
 
 #### 2. 本地模型推理（Local Model Inference）
 
-** 第一步：配置模型和数据集路径 **
+**第一步：配置模型和数据集路径**
 
 在执行脚本中配置您的本地模型和数据集路径：
 
@@ -122,7 +122,7 @@ gpu_memory_utilization=0.9             # GPU内存使用率
 tensor_parallel_size=1                 # 张量并行大小
 ```
 
-** 第二步：执行推理 **
+**第二步：执行推理**
 
 ```bash
 # 运行完整推理（所有任务、所有语言）
@@ -154,5 +154,22 @@ output/
 - `id`: 样本ID
 - `pred`: 模型预测结果
 - `gold`: 标准答案
+- 
 #### 3. 结果评估（Evaluation）
 
+#### 第一步：答案提取
+
+对推理结果进行标准化答案提取，为后续评估做准备：
+
+```bash
+# 编辑答案提取脚本
+nano evaluation/answer_extraction.py
+
+# 执行答案提取
+python evaluation/answer_extraction.py \
+    --base_path "/path/to/output"              # 📁 推理结果的基础路径
+    --output_dir "/path/to/extracted_answers"  # 📁 提取答案的输出目录
+    --model "gpt-4o"                          # 🎯 指定处理的模型（可选，不指定则处理所有模型）
+    --task "Text_Classification"              # 📋 指定处理的任务（可选，不指定则处理所有任务）
+    --language "bo"                           # 🌐 指定处理的语言（可选，不指定则处理所有语言）
+```
