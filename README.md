@@ -198,6 +198,27 @@ python evaluation/generative_evaluation.py \
     --resume                                                # 🔄 从断点继续（可选）
 ```
 
+#### 输出结果 ####
+
+评估完成后，结果将保存在以下目录结构中：
+```
+evaluation_results/
+├── {model_name}/
+│   ├── Minority_Culture_QA/
+│   │   ├── bo_evaluation.json
+│   │   ├── mn_evaluation.json
+│   │   ├── ug_evaluation.json
+│   │   ├── bo_checkpoint.json (临时文件)
+│   │   ├── bo_errors.log
+│   │   └── bo_error_ids.json
+│   └── Minority_Language_Instruction_QA/
+│       ├── bo_evaluation.json
+│       ├── mn_evaluation.json
+│       ├── ug_evaluation.json
+│       ├── bo_checkpoint.json (临时文件)
+│       ├── bo_errors.log
+│       └── bo_error_ids.json
+```
 #### 第三步：综合评估（Comprehensive Evaluation）
 
 使用综合评估脚本对所有任务进行多维度评估，计算准确率、ROUGE-L、BLEU、chrF++等指标，并生成详细的评估报告和模型排名：
