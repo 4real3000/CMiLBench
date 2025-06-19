@@ -1,4 +1,4 @@
-# CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Ethnic Minority Languages in China
+# CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Minority Languages in China
 
 <p align="center">
   <a href="README.md">
