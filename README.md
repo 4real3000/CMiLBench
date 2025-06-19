@@ -216,20 +216,9 @@ python evaluation/comprehensive_evaluation.py \
     --language "bo"                                    # 🌐 指定要评估的语言（可选，不指定则评估所有语言）
 ```
 
-###### 参数说明
+##### 评估指标说明
 
-| 参数 | 必需 | 说明 |
-|------|------|------|
-| `--input_dir` | ✅ | 答案提取结果的基础目录路径 |
-| `--output_dir` | ✅ | 综合评估结果的输出目录路径 |
-| `--llm_eval_dir` | ❌ | LLM评价结果目录（用于生成式任务评估） |
-| `--model` | ❌ | 指定要评估的模型名称，不指定则评估所有模型 |
-| `--task` | ❌ | 指定要评估的任务目录名，不指定则评估所有任务 |
-| `--language` | ❌ | 指定要评估的语言代码，不指定则评估所有语言 |
-
-#### 评估指标说明
-
-##### 基础任务评估指标
+###### 基础任务评估指标
 
 | 任务 | 英文名称 | 评估指标 | 说明 |
 |------|----------|----------|------|
@@ -240,7 +229,7 @@ python evaluation/comprehensive_evaluation.py \
 | 数学推理 | Math_Reasoning | 准确率 (Accuracy) | 数学计算结果正确率 |
 | 通用领域能力 | General_Domain_Competence | 准确率 (Accuracy) | 专业知识问答正确率 |
 
-##### 民族知识任务评估指标
+###### 民族知识任务评估指标
 
 | 任务 | 英文名称 | 评估指标 | 说明 |
 |------|----------|----------|------|
@@ -251,7 +240,7 @@ python evaluation/comprehensive_evaluation.py \
 | 民族领域能力 | Minority_Domain_Competence | 准确率 (Accuracy) | 民族特色领域知识正确率 |
 | 民族语言生成 | Minority_Language_Instruction_QA | LLM 多维度评分 | 基于流畅性、准确性、文化适宜性的综合评分 |
 
-##### 安全对齐任务评估指标
+###### 安全对齐任务评估指标
 
 | 任务 | 英文名称 | 评估指标 | 说明 |
 |------|----------|----------|------|
@@ -261,7 +250,7 @@ python evaluation/comprehensive_evaluation.py \
 | 服务安全评估 | Service_Safety_Evaluation | 准确率 (Accuracy) | 服务安全性判断正确率 |
 | 价值观一致性评估 | Value_Alignment_Assessment | 准确率 (Accuracy) | 价值观一致性评估正确率 |
 
-#### 输出结果
+###### 输出结果
 
 综合评估完成后，将在输出目录中生成以下文件：
 
@@ -273,7 +262,7 @@ comprehensive_results/
 └── ranking_report.txt             # 📄 可读排名报告
 ```
 
-#### 文件内容说明
+##### 文件内容说明
 
 **📊 `evaluation_summary.csv` - 详细评估汇总表**
 包含每个模型在每个任务上的详细评估结果：
