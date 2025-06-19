@@ -154,7 +154,7 @@ output/
 - `id`: 样本ID
 - `pred`: 模型预测结果
 - `gold`: 标准答案
-- 
+  
 #### 3. 结果评估（Evaluation）
 
 #### 第一步：答案提取
@@ -173,3 +173,148 @@ python evaluation/answer_extraction.py \
     --task "Text_Classification"              # 📋 指定处理的任务（可选，不指定则处理所有任务）
     --language "bo"                           # 🌐 指定处理的语言（可选，不指定则处理所有语言）
 ```
+
+#### 第二步：生成式任务评估
+
+使用LLM对生成式任务（传统文化问答和文本生成）进行多维度质量评估：
+
+```bash
+# 编辑生成式任务评估脚本
+nano evaluation/generative_evaluation.py
+
+# 执行生成式任务评估
+python evaluation/generative_evaluation.py \
+    --test_data_path "/path/to/CMiLBench"                    # 📁 测试数据集基础路径
+    --models_predictions_path "/path/to/extracted_answers"   # 📁 模型预测结果路径（第一步的输出）
+    --output_path "/path/to/evaluation_results"             # 📁 评估结果输出路径
+    --api_key "your_api_key_here"                           # 🔑 OpenAI API密钥
+    --api_base "https://api.openai.com/v1"                  # 🌐 API基础URL（可选）
+    --model "gpt-4o"                                        # 🤖 用于评估的LLM模型
+    --max_workers 5                                         # ⚡ 并行处理线程数
+    --models_to_evaluate "Qwen2.5-7B-Instruct"             # 🎯 指定要评估的模型（可选）
+    --task "text_generation"                                # 📋 指定任务类型（可选）
+    --language "bo"                                         # 🌐 指定语言（可选）
+    --sample_size 100                                       # 📊 评估样本数（可选，默认全部）
+    --resume                                                # 🔄 从断点继续（可选）
+```
+
+#### 第三步：综合评估（Comprehensive Evaluation）
+
+使用综合评估脚本对所有任务进行多维度评估，计算准确率、ROUGE-L、BLEU、chrF++等指标，并生成详细的评估报告和模型排名：
+
+```bash
+# 编辑综合评估脚本
+nano evaluation/comprehensive_evaluation.py
+
+# 执行综合评估
+python evaluation/comprehensive_evaluation.py \
+    --input_dir "/path/to/extracted_answers"           # 📁 答案提取结果的目录（第一步的输出）
+    --output_dir "/path/to/comprehensive_results"      # 📁 综合评估结果的输出目录
+    --llm_eval_dir "/path/to/llm_evaluation_results"   # 📁 LLM评价结果目录（第二步的输出，用于生成式任务）
+    --model "gpt-4o"                                   # 🎯 指定要评估的模型（可选，不指定则评估所有模型）
+    --task "Text_Classification"                       # 📋 指定要评估的任务目录名（可选，不指定则评估所有任务）
+    --language "bo"                                    # 🌐 指定要评估的语言（可选，不指定则评估所有语言）
+```
+
+###### 参数说明
+
+| 参数 | 必需 | 说明 |
+|------|------|------|
+| `--input_dir` | ✅ | 答案提取结果的基础目录路径 |
+| `--output_dir` | ✅ | 综合评估结果的输出目录路径 |
+| `--llm_eval_dir` | ❌ | LLM评价结果目录（用于生成式任务评估） |
+| `--model` | ❌ | 指定要评估的模型名称，不指定则评估所有模型 |
+| `--task` | ❌ | 指定要评估的任务目录名，不指定则评估所有任务 |
+| `--language` | ❌ | 指定要评估的语言代码，不指定则评估所有语言 |
+
+#### 评估指标说明
+
+##### 基础任务评估指标
+
+| 任务 | 英文名称 | 评估指标 | 说明 |
+|------|----------|----------|------|
+| 文本分类 | Text_Classification | 准确率 (Accuracy) | 分类预测正确率 |
+| 自然语言推理 | Natural_Language_Inference | 准确率 (Accuracy) | 推理判断正确率 |
+| 指代消解 | Coreference_Resolution | 准确率 (Accuracy) | 指代关系判断正确率 |
+| 阅读理解 | Machine_Reading_Comprehension | ROUGE-L | 答案与参考答案的最长公共子序列匹配度 |
+| 数学推理 | Math_Reasoning | 准确率 (Accuracy) | 数学计算结果正确率 |
+| 通用领域能力 | General_Domain_Competence | 准确率 (Accuracy) | 专业知识问答正确率 |
+
+##### 民族知识任务评估指标
+
+| 任务 | 英文名称 | 评估指标 | 说明 |
+|------|----------|----------|------|
+| 机器翻译 | Minority_Machine_Translation | chrF++ / BLEU | 中→少数民族语言用chrF++，少数民族语言→中用BLEU |
+| 民族文化问答 | Minority_Culture_QA | LLM 多维度评分 | 基于准确性、相关性、完整性的综合评分 |
+| 民族词汇理解 | Minority_Language_Expressions | 准确率 (Accuracy) | 词汇含义理解正确率 |
+| 民族语言理解 | Minority_Language_Understanding | 准确率 (Accuracy) | 语言理解能力测试正确率 |
+| 民族领域能力 | Minority_Domain_Competence | 准确率 (Accuracy) | 民族特色领域知识正确率 |
+| 民族语言生成 | Minority_Language_Instruction_QA | LLM 多维度评分 | 基于流畅性、准确性、文化适宜性的综合评分 |
+
+##### 安全对齐任务评估指标
+
+| 任务 | 英文名称 | 评估指标 | 说明 |
+|------|----------|----------|------|
+| 商业合规检查 | Commercial_Compliance_Check | 准确率 (Accuracy) | 商业合规判断正确率 |
+| 歧视检测 | Discrimination_Detection | 准确率 (Accuracy) | 歧视内容识别正确率 |
+| 权益保护评估 | Rights_Protection_Evaluation | 准确率 (Accuracy) | 权益保护意识评估正确率 |
+| 服务安全评估 | Service_Safety_Evaluation | 准确率 (Accuracy) | 服务安全性判断正确率 |
+| 价值观一致性评估 | Value_Alignment_Assessment | 准确率 (Accuracy) | 价值观一致性评估正确率 |
+
+#### 输出结果
+
+综合评估完成后，将在输出目录中生成以下文件：
+
+```
+comprehensive_results/
+├── evaluation_summary.csv          # 📊 详细评估汇总表
+├── task_ranking.csv               # 🏆 任务级别排名表
+├── model_overall_ranking.csv      # 🥇 模型综合排名表
+└── ranking_report.txt             # 📄 可读排名报告
+```
+
+#### 文件内容说明
+
+**📊 `evaluation_summary.csv` - 详细评估汇总表**
+包含每个模型在每个任务上的详细评估结果：
+
+| 字段 | 说明 |
+|------|------|
+| Model | 模型名称 |
+| Task | 任务名称 |
+| Language | 评估语言 |
+| File | 结果文件名 |
+| Metric | 评估指标 |
+| Score_Type | 得分类型（all/success） |
+| Score | 评估得分 |
+| Sample_Count | 总样本数 |
+| Success_Count | 成功处理样本数 |
+| Success_Rate | 成功处理率 |
+
+**🏆 `task_ranking.csv` - 任务级别排名表**
+每个任务的模型排名情况：
+
+| 字段 | 说明 |
+|------|------|
+| Task_Key | 任务标识键 |
+| Rank | 排名 |
+| Model | 模型名称 |
+| Metric | 主要评估指标 |
+| Score | 评估得分 |
+
+**🥇 `model_overall_ranking.csv` - 模型综合排名表**
+基于所有任务表现的模型综合排名：
+
+| 字段 | 说明 |
+|------|------|
+| Model | 模型名称 |
+| Overall_Rank | 综合排名 |
+| Average_Rank | 平均排名 |
+| Total_Score | 总得分 |
+| Tasks_Evaluated | 评估任务数 |
+
+**📄 `ranking_report.txt` - 可读排名报告**
+人类可读的排名报告文本，包含：
+- 综合排名概览
+- 各任务详细排名
+- 模型表现分析
