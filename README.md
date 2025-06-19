@@ -1,5 +1,23 @@
 # CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Ethnic Minority Languages in China
 
+<p align="center">
+  <!-- Language Switch Buttons -->
+  <a href="#chinese">
+    <img src="https://img.shields.io/badge/lang-中文-red.svg?style=flat-square" alt="Chinese">
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/lang-English-blue.svg?style=flat-square" alt="English">
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-green.svg?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Tasks-17-orange.svg?style=flat-square" alt="Tasks">
+  <img src="https://img.shields.io/badge/Languages-3-purple.svg?style=flat-square" alt="Languages">
+</p>
+
+<a id="english"></a>🇺🇸 English
+
 ## 基准简介
 
 **CMiLBench** 是一个层次化的多任务评测基准，专为中国少数民族语言（藏语 `bo`、蒙古语 `mn`、维吾尔语 `ug`）设计。该基准旨在系统评估大语言模型在低资源语言环境下的理解、生成与安全对齐能力。
