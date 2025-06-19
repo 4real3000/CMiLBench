@@ -84,11 +84,11 @@ pip install -r requirements.txt
 nano inference/infer_api.sh
 
 # 修改以下配置项（必需）：
-model_name="gpt-4o"                    # 您要使用的模型名称
-api_key="your_api_key_here"           # 🔑 替换为您的实际API密钥
-api_base="https://api.openai.com/v1"  # 🌐 替换为您的API地址
-api_delay="0.05"                      # API调用间隔（秒）
-BASE_PATH="/path/to/CMiLBench"        # 📁 修改为实际的数据集路径
+model_name="gpt-4o"                   # 您要使用的模型名称
+api_key="your_api_key_here"           # 替换为您的实际API密钥
+api_base="https://api.openai.com/v1"  # 替换为您的API地址
+BASE_PATH="/path/to/CMiLBench"        # 修改为实际的数据集路径
+INFER_SCRIPT="/path/to/infer_vllm.py" # 推理脚本路径
 ```
 
 **第二步：执行推理**
@@ -101,61 +101,58 @@ bash infer_api.sh
 
 #### 2. 本地模型推理（Local Model Inference）
 
+** 第一步：配置模型和数据集路径 **
+
+在执行脚本中配置您的本地模型和数据集路径：
+
 ```bash
-# 使用vLLM进行本地模型推理
-python infer_vllm.py \
-    --model_name Qwen/Qwen2.5-7B-Instruct \
-    --task_list tasks_mn.json \
-    --output_dir ./results \
-    --tensor_parallel_size 1
+# 编辑推理脚本
+nano inference/infer_vllm.sh
+
+# 修改以下配置项（必需）：
+model_type="qwen"                      # 模型类型: qwen, aya, llama, mistral, gemma
+model_path="/path/to/your/model"       # 替换为您的本地模型路径
+model_name="gpt-4o"                    # 您要使用的模型名称
+BASE_PATH="/path/to/CMiLBench"         # 修改为实际的数据集路径
+INFER_SCRIPT="/path/to/infer_vllm.py"  # 推理脚本路径
+
+# GPU配置（可选）：
+export CUDA_VISIBLE_DEVICES=0          # 指定使用的GPU
+gpu_memory_utilization=0.9             # GPU内存使用率
+tensor_parallel_size=1                 # 张量并行大小
 ```
 
-#### 3. 批量推理（Batch Inference）
+** 第二步：执行推理 **
 
 ```bash
-# API模型批量推理
-bash infer_api.sh
-
-# 本地模型批量推理
+# 运行完整推理（所有任务、所有语言）
+cd inference
 bash infer_vllm.sh
 ```
+#### 输出结果 ####
 
-#### 4. 结果评估（Evaluation）
+推理完成后，结果将保存在以下目录结构中：
 
-```bash
-# 综合评估
-cd evaluation
-python comprehensive_evaluation.py \
-    --result_dir ../inference/results \
-    --output_dir ./evaluation_results
-
-# LLM-as-a-Judge评估
-python llm_evaluation.py \
-    --result_dir ../inference/results \
-    --judge_model gpt-4 \
-    --api_key your_api_key_here
+```
+output/
+├── {model_name}/
+│   ├── Foundation_Tasks/
+│   │   ├── Text_Classification/{lang}/
+│   │   ├── Natural_Language_Inference/{lang}/
+│   │   └── ...
+│   ├── Chinese_Minority_Knowledge_Tasks/
+│   │   ├── Minority_Culture_QA/{lang}/
+│   │   ├── Minority_Machine_Translation/{lang}/
+│   │   └── ...
+│   └── Safety_Alignment_Tasks/
+│       ├── Commercial_Compliance_Check/{lang}/
+│       ├── Discrimination_Detection/{lang}/
+│       └── ...
 ```
 
-### 数据格式说明（Data Format）
-
-每个任务目录包含三种语言的数据文件：
-- `bo.json` - 藏语数据
-- `mn.json` - 蒙古语数据
-- `ug.json` - 维吾尔语数据
-
-数据格式示例：
-```json
-[
-    {
-        "id": "sample_001",
-        "question": "问题文本",
-        "answer": "参考答案",
-        "metadata": {
-            "language": "bo",
-            "task_type": "classification"
-        }
-    }
-]
-```
-
+每个任务的结果文件包含：
+- `id`: 样本ID
+- `pred`: 模型预测结果
+- `gold`: 标准答案
+#### 3. 结果评估（Evaluation）
 
