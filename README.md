@@ -129,7 +129,6 @@ tensor_parallel_size=1                 # 张量并行大小
 cd inference
 bash infer_vllm.sh
 ```
-#### 输出结果 ####
 
 推理完成后，结果将保存在以下目录结构中：
 
@@ -157,7 +156,7 @@ output/
   
 #### 3. 结果评估（Evaluation）
 
-#### 第一步：答案提取
+##### 第一步：答案提取
 
 对推理结果进行标准化答案提取，为后续评估做准备：
 
@@ -174,7 +173,19 @@ python evaluation/answer_extraction.py \
     --language "bo"                           # 🌐 指定处理的语言（可选，不指定则处理所有语言）
 ```
 
-#### 第二步：生成式任务评估
+提取完成后，结果将保存在以下目录结构中：
+
+output_dir/
+├── {model_name}/
+│   ├── {task_name}/
+│   │   └── {language}/
+│   │       └── *.json                    # 处理后的数据文件
+├── processed_files_map.json              # 处理文件映射表
+├── extraction_failed_ids.json            # 提取失败ID记录
+├── extraction_statistics.json            # 提取统计数据
+└── extraction_report.txt                 # 可读统计报告
+
+##### 第二步：生成式任务评估
 
 使用LLM对生成式任务（传统文化问答和文本生成）进行多维度质量评估：
 
@@ -197,8 +208,6 @@ python evaluation/generative_evaluation.py \
     --sample_size 100                                       # 📊 评估样本数（可选，默认全部）
     --resume                                                # 🔄 从断点继续（可选）
 ```
-
-#### 输出结果 ####
 
 评估完成后，结果将保存在以下目录结构中：
 ```
@@ -236,41 +245,6 @@ python evaluation/comprehensive_evaluation.py \
     --task "Text_Classification"                       # 📋 指定要评估的任务目录名（可选，不指定则评估所有任务）
     --language "bo"                                    # 🌐 指定要评估的语言（可选，不指定则评估所有语言）
 ```
-
-##### 评估指标说明
-
-###### 基础任务评估指标
-
-| 任务 | 英文名称 | 评估指标 | 说明 |
-|------|----------|----------|------|
-| 文本分类 | Text_Classification | 准确率 (Accuracy) | 分类预测正确率 |
-| 自然语言推理 | Natural_Language_Inference | 准确率 (Accuracy) | 推理判断正确率 |
-| 指代消解 | Coreference_Resolution | 准确率 (Accuracy) | 指代关系判断正确率 |
-| 阅读理解 | Machine_Reading_Comprehension | ROUGE-L | 答案与参考答案的最长公共子序列匹配度 |
-| 数学推理 | Math_Reasoning | 准确率 (Accuracy) | 数学计算结果正确率 |
-| 通用领域能力 | General_Domain_Competence | 准确率 (Accuracy) | 专业知识问答正确率 |
-
-###### 民族知识任务评估指标
-
-| 任务 | 英文名称 | 评估指标 | 说明 |
-|------|----------|----------|------|
-| 机器翻译 | Minority_Machine_Translation | chrF++ / BLEU | 中→少数民族语言用chrF++，少数民族语言→中用BLEU |
-| 民族文化问答 | Minority_Culture_QA | LLM 多维度评分 | 基于准确性、相关性、完整性的综合评分 |
-| 民族词汇理解 | Minority_Language_Expressions | 准确率 (Accuracy) | 词汇含义理解正确率 |
-| 民族语言理解 | Minority_Language_Understanding | 准确率 (Accuracy) | 语言理解能力测试正确率 |
-| 民族领域能力 | Minority_Domain_Competence | 准确率 (Accuracy) | 民族特色领域知识正确率 |
-| 民族语言生成 | Minority_Language_Instruction_QA | LLM 多维度评分 | 基于流畅性、准确性、文化适宜性的综合评分 |
-
-###### 安全对齐任务评估指标
-
-| 任务 | 英文名称 | 评估指标 | 说明 |
-|------|----------|----------|------|
-| 商业合规检查 | Commercial_Compliance_Check | 准确率 (Accuracy) | 商业合规判断正确率 |
-| 歧视检测 | Discrimination_Detection | 准确率 (Accuracy) | 歧视内容识别正确率 |
-| 权益保护评估 | Rights_Protection_Evaluation | 准确率 (Accuracy) | 权益保护意识评估正确率 |
-| 服务安全评估 | Service_Safety_Evaluation | 准确率 (Accuracy) | 服务安全性判断正确率 |
-| 价值观一致性评估 | Value_Alignment_Assessment | 准确率 (Accuracy) | 价值观一致性评估正确率 |
-
 ###### 输出结果
 
 综合评估完成后，将在输出目录中生成以下文件：
@@ -282,8 +256,6 @@ comprehensive_results/
 ├── model_overall_ranking.csv      # 🥇 模型综合排名表
 └── ranking_report.txt             # 📄 可读排名报告
 ```
-
-##### 文件内容说明
 
 **📊 `evaluation_summary.csv` - 详细评估汇总表**
 包含每个模型在每个任务上的详细评估结果：
