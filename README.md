@@ -71,18 +71,6 @@ conda activate cmilbench
 pip install -r requirements.txt
 ```
 
-#### 方法二：使用现有环境
-
-```bash
-# 如果您已有配置好的环境（如eval）
-conda activate eval  # 或您的环境名
-cd CMiLBench
-
-# 验证环境
-python --version      # 应显示 Python 3.11.11
-python -c "import torch; print(f'PyTorch: {torch.__version__}')"  # 应显示 2.6.0+cu124
-```
-
 ### 开始评测
 
 #### 1. API模型推理（API-based Inference）
