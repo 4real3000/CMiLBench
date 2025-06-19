@@ -1,3 +1,5 @@
+# CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Ethnic Minority Languages in China
+
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/lang-English-blue.svg?style=flat-square" alt="Chinese">
@@ -6,8 +8,6 @@
     <img src="https://img.shields.io/badge/lang-中文-red.svg?style=flat-square" alt="English">
   </a>
 </p>
-
-# CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Ethnic Minority Languages in China
 
 ## Benchmark Introduction
 
