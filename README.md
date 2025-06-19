@@ -12,7 +12,7 @@ CMiLBench 包含以下三大任务类别，共计 17 个子任务，覆盖语言
 
 ### 任务分布总览图
 
-![task_categories_overview](./assets/task_categories_overview.png)
+![task_categories_overview](./assets/category.png)
 
 > 图示展示了 CMiLBench 的三大任务类别与 17 个子任务之间的映射关系（如图3所示，示意图需放置在 `assets/` 文件夹中）。
 
