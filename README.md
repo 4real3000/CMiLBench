@@ -75,6 +75,7 @@ cd CMiLBench
 # 2. Create conda environment
 conda create -n cmilbench python=3.11
 conda activate cmilbench
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
 
 # 3. Install dependencies
 pip install -r requirements.txt
