@@ -1,4 +1,4 @@
-# CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Minority Languages in China
+![task_categories_overview](./assets/show.png)
 
 <p align="center">
   <a href="README.md">
@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/lang-中文-red.svg?style=flat-square" alt="English">
   </a>
 </p>
-
-![task_categories_overview](./assets/show.png)
 
 ## Benchmark Introduction
 
