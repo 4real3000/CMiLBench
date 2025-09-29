@@ -9,6 +9,8 @@
   </a>
 </p>
 
+![task_categories_overview](./assets/show.png)
+
 ## Benchmark Introduction
 
 **CMiLBench** is a hierarchical multitask evaluation benchmark specifically designed for Chinese ethnic minority languages (Tibetan `bo`, Mongolian `mn`, Uyghur `ug`). This benchmark aims to systematically evaluate large language models' understanding, generation, and safety alignment capabilities in low-resource language environments.
