@@ -1,0 +1,5208 @@
+[
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_54",
+    "span1_text": "ཁྱོ་ག་",
+    "span1_index": 19,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཅིའི་ཕྱིར་ཡིན་པ་མི་ཤེས།ཉེ་ལམ་ནས་བཟུང་མཛེས་མ་ལི་དབྱིན་གྱིས་ཁོ་མོའི་ཁྱོ་གར་ཇེ་ཆེར་འགྲོ་བཞིན་ཡོད། མོས་ཉིན་གང་བོར་གཞོང་གཏོར་ནས་ཕོར་པ་གཏོར་ནས་གཤེ་གཤེ་བྱས། སྙིང་རྗེ་བའི་ལའོ་ཀའོ་ཡིས་མགོ་སྔར་ལས་དམའ་རུ་སྦས་ཡོད།ཕལ་ཆེར་ཁོས་མི་མཐོང་དཀའ་བའི་བྱ་བ་ངན་པ་ཅི་ཞིག་བསྒྲུབས་ཡོད་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_55",
+    "span1_text": "ལའོ་ཀའོ་",
+    "span1_index": 45,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཅིའི་ཕྱིར་ཡིན་པ་མི་ཤེས།ཉེ་ལམ་ནས་བཟུང་མཛེས་མ་ལི་དབྱིན་གྱིས་ཁོ་མོའི་ཁྱོ་གར་ཇེ་ཆེར་འགྲོ་བཞིན་ཡོད། མོས་ཉིན་གང་བོར་གཞོང་གཏོར་ནས་ཕོར་པ་གཏོར་ནས་གཤེ་གཤེ་བྱས། སྙིང་རྗེ་བའི་ལའོ་ཀའོ་ཡིས་མགོ་སྔར་ལས་དམའ་རུ་སྦས་ཡོད།ཕལ་ཆེར་ཁོས་མི་མཐོང་དཀའ་བའི་བྱ་བ་ངན་པ་ཅི་ཞིག་བསྒྲུབས་ཡོད་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_62",
+    "span1_text": "ཆར་རླུང་གི་སྒྲ་",
+    "span1_index": 24,
+    "span2_text": "དེ།",
+    "span2_index": 30,
+    "text": "མོས་རང་ཤུགས་ཀྱིས་དུག་གིས་དུག་ལ་རྒོལ་བ་དང་།ཐད་ཀར་རོལ་མྱོང་གི་རྣམ་འགྱུར་ཐོག་ནས་ཁོ་མོ་སུན་པའི་ཆར་རླུང་གི་སྒྲ་ཚོར་བཞིན་ཡོད། མོས་དེ་ནི་ཡིད་དབང་འཕྲོག་པའི་མཚན་མོའི་རོལ་དབྱངས་ཆུང་ཆུང་དེ་དག་དང་།ཡང་ན་རིམ་པ་རྙོག་འཛིང་ཆེ་བའི་མཉམ་སྒྲོག་རོལ་དབྱངས་དེ་དག་ལ་བསམ་ཚོད་བྱས་ཏེ།“བཟི་བའི”ཁྲོད་གཉིད་པའི་རེ་ངན་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_73",
+    "span1_text": "འཚོ་བའི་སློབ་དེབ་",
+    "span1_index": 29,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "འོན་ཀྱང་མིས་ཏག་ཏག་སྐབས་དེར་གཞི་ནས་འཇིག་རྟེན་དང་མི་ཚེ་ངོ་མ་ཤེས་རྟོགས་བྱེད་འགོ་བརྩམས་ཡོད་ཀྱང་སྲིད། འཚོ་བའི་སློབ་དེབ་ནི་སློབ་གྲྭའི་སློབ་དེབ་དང་འདྲ་བར་ཁེར་རྐྱང་གཏན་ནས་མེད།དེས་མི་རྣམས་ལ་འཚར་ལོངས་ཡོང་བར་ཁྲིད་པའི་བྱེད་སྟངས་ནི་རྒྱུན་དུ་གདུག་རྩུབ་ཆེ་བ་ཞིག་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_80",
+    "span1_text": "བྱིས་པ་ཚོ།",
+    "span1_index": 51,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 71,
+    "text": "ཀའོ་མའོ་དང་ཧྲེ་ཁུ་གྲོང་ཚོའི་མི་སེར་ཚང་མས་སྐུ་ཞབས་དཀའ་སྡུག་འདིར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། ཁོང་གིས་ཉེ་བའི་ལོ་འགའི་རིང་ལ་རི་གྲོང་ཆུང་ཆུང་གཉིས་ཀྱི་ཕྲུ་གུ་རེ་རེ་བཞིན་རྫོང་གྲོང་གི་ཕྲུ་གུ་ལས་སད་པར་སྦྱོང་བརྡར་བྱས། བྱིས་པ་རྣམས་སློབ་ཆུང་མཐར་ཕྱིན་རྗེས།སློབ་འབྲིང་ལ་རྒྱུགས་ལེན་མི་ཐུབ་མཁན་ཕལ་ཆེར་མེད། ཁོ་ཚོས་ཁོ་ལ་ཐུགས་རྗེ་ཆེ་ཞུས་པ་དང་།རྒྱུན་དུ་རང་ཉིད་ཀྱི་བྱིས་པ་དགེ་རྒན་ཀའོ་དང་ལུའུ་དགེ་རྒན་ལ་ཟ་འཐུང་དུ་འཇུག་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_87",
+    "span1_text": "ཀའོ་ཀོང་ཧོའུ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 24,
+    "text": "ཀའོ་ཀོང་ཧོའུ་ཡི་མིག་ལ་མིག་ཆུ་བཞུར་ནས་ཡོང་ནས་དཔུང་པ་རིང་པོ་གཉིས་ཀྱིས་བུ་པང་དུ་བཟུང་སྟེ་ཁོའི་གདོང་ཐོག་འོ་བྱས་ཏེ།ཁྱོད་ཨ་ནེ་དང་མཉམ་དུ་འགྲོ།ཨ་ཕ་མི་འགྲོ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_100",
+    "span1_text": "ཁྱི་ཕྲུག་",
+    "span1_index": 2,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_115",
+    "span1_text": "ཕྲུ་གུ་",
+    "span1_index": 11,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 34,
+    "text": "ཐོག་ཁང་འོག་ཏུ་སླེབས་མ་ཐག་ཁྱིམ་གྱི་བྲན་གཡོག་གི་ཕྲུ་གུ་འགའ་ཡིས་ང་བསྐོར་བྱས། ཕ་མ་གཉིས་ཀྱིས་རྒྱུན་དུ་ང་ལ་ལྟོས།ཁོ་ཚོ་ཚང་མ་ཁྱོད་ཀྱི་ཕྱུགས་རིགས་ཡིན་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_121",
+    "span1_text": "བུ་མོ་ཚོ།",
+    "span1_index": 8,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 17,
+    "text": "སྐྱེས་པ་ཚོའི་དམིགས་ཡུལ་ནི་བུ་མོ་ཚོའི་ལྭ་བ་དེ་ཡིན།ཁོ་ཚོས་ནམ་མཁའ་དྭངས་པའི་འོག་ཏུ་མཛེས་སྡུག་ལྡན་པའི་ནུ་མ་མངོན་དུ་འཇུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_123",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 13,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 22,
+    "text": "དཔེར་ན།མགོ་མི་ཚོས་ཉལ་བའི་བུད་མེད་ལ་འབུལ་བ་དང་།ངས་གུར་ནང་དུ་ཁོ་ཚོ་དང་དགའ་པོ་བྱེད་ཀྱི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_137",
+    "span1_text": "ལྕེ་",
+    "span1_index": 6,
+    "span2_text": "དེ།",
+    "span2_index": 40,
+    "text": "གྲིའི་འོད་འོད་འཚེར་རྗེས།ལྕེ་དེ་སྐྲག་པའི་ཙི་གུ་ཞིག་དང་འདྲ་བར་ཉེས་ཆད་ཕོག་མཁན་གྱི་ཁ་དང་ཉེས་ཆད་ལག་བསྟར་བྱེད་མཁན་གྱི་ལག་པའི་བར་ནས་ལྡིང་ཡོང་གི་ཡོད།དེ་ལ་བལྟས་ན།དེ་ནི་གནམ་ལ་འགྲོ་འདོད་ཡོད་མོད།འོན་ཀྱང་དེ་ཡར་ཅུང་ཙམ་མ་གཏོགས་མཆོང་མ་ཐུབ་པར་མགོ་སྟེང་གི་མཐོ་ཚད་ལ་མ་སླེབས་པར་མར་ལྷུང་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_141",
+    "span1_text": "མའེ་ཆི་ཐུའུ་སི་",
+    "span1_index": 22,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 46,
+    "text": "རྒྱ་མིའི་སྲིད་དབང་སྟོབས་ལྡན་དུ་གྱུར་སྐབས།ང་ཚོས་དཀའ་སྡུག་མི་ཉུང་བ་ཞིག་མྱོང་ཡོད།དེའང་མའེ་ཆི་ཐུའུ་སི་ནམ་ཡང་སྟོབས་ལྡན་དུ་མི་རུང་བའི་རྒྱུ་རྐྱེན་གཙོ་བོ་ཡིན། རྗེས་སུ་ཁོ་ཚོས་གསར་བརྗེ་བྱས་པ་དང་།ཁོ་ཚོས་དམག་འཁྲུག་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_156",
+    "span1_text": "ལམ་",
+    "span1_index": 8,
+    "span2_text": "དེ།",
+    "span2_index": 65,
+    "text": "གཡང་གཟར་གྱི་རྩེ་ལ་སླེབས་ཉེར་ཡོད་དུས།ལམ་གློ་བུར་དུ་གཡང་གཟར་གྱི་དཀྱིལ་དུ་གྱུར། གཡང་གཟར་ཧྲིལ་པོ་ནི་དམར་པོ་ཡིན་མོད།རྐང་འོག་གི་ལམ་ནི་ནག་པོ་ཞིག་ཡིན་པས།བྲག་རྡོ་དམར་པོའི་དཀྱིལ་དུ་ནུས་ཤུགས་ཡོད་རྒུས་ཡར་ལ་ཀྱག་ཀྱོག་བྱེད་བཞིན་ཡོད། ངས་ལམ་འདིའི་ངག་རྒྱུན་ཐོས་མྱོང་། སྔོན་ཆད་དེ་ནི་བྲག་རྡོ་དམར་པོའི་ནང་དུ་སྦས་ཡོད་པས།རྣམ་པ་མེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_160",
+    "span1_text": "ལག་རྩལ་པ་",
+    "span1_index": 53,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 63,
+    "text": "གུང་ཁྲན་ཏང་གིས་མི་ཚང་མར་གཏན་འཇགས་ཀྱི་ས་ཆ་ཞིག་བཀོད་སྒྲིག་བྱས་ཡོད། ལྕགས་མོ་བ་གྲོང་ཚོ་འདིར་བསྡད་ཡོད། དེ་ཡང་ཉིན་དེ་ནས་བཟུང་ཁོ་ཆེད་ལས་ཀྱི་ལྕགས་བཟོ་བ་མ་རེད། དེ་སྔར།ལག་ཤེས་པ་གང་སར་འགྲོ་འོང་བྱེད་བཞིན་ཡོད།ཁོ་ཚོར་འཁྱམས་པའི་སེམས་ཤིག་ཡོད་པ་ཕུད།ད་དུང་དེ་ལྟར་བྱས་ན་ད་གཟོད་ལས་ཀ་འདང་ངེས་ཤིག་རྙེད་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_162",
+    "span1_text": "བླ་མ་འགའ་།",
+    "span1_index": 4,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 17,
+    "text": "ཨ་ཁུ་ཡིས་བླ་མ་འགའ་ཞིག་ཁྲིད་ནས་རི་ལས་བབས་ནས་ཁོ་ཚོས་འབྲུག་མགོ་ཐོག་ཏུ་ལྷུང་ཟེར།དེ་ལྟར་མ་བྱས་ན་འབྲུག་ངན་པ་འདི་འཕུར་ན་འཇིག་རྟེན་སྟེང་དུ་གོད་ཆག་ཅིག་འབྱུང་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_169",
+    "span1_text": "ལིའུ་ཅིན་ཙང་",
+    "span1_index": 36,
+    "span2_text": "ཁོ་",
+    "span2_index": 55,
+    "text": "ལོ་འདི་དག་གི་རིང་ལ།བླ་མའི་ཨ་ཁུ་ལ་ཐོབ་པའི་རྡོ་རྗེ་ཕ་ལམ་གང་འདྲ་ཞིག་ཀྱང་དེའི་སྟེང་དུ་བསྒར་ཡོད་པས།ཕལ་ཆེར་སྟོང་ཆ་ཅི་ཡང་མེད། ལིའུ་ཅིན་ཙང་གི་མིག་ཁོའི་རྐེད་པར་ལྷུང་སྐབས།ངས་ཨ་ཁུ་ལ“ཁོས་ཁྱོད་ཀྱི་གཅེས་ཕྲུག་ལ་དགའ་སོང་ཟེར”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_176",
+    "span1_text": "ཧན་ཡུའེ་",
+    "span1_index": 38,
+    "span2_text": "མོ་",
+    "span2_index": 46,
+    "text": "ལིའུ་ཅིན་ཙང་གིས་འགྱེལ་བའི་ལྕགས་བཟོ་བ་སྲུང་བཞིན་ཡོད།ང་གྲོང་དུ་ཐེངས་གཅིག་ལོག་ནས་སྨན་བཅོས་ཀྱི་ཐབས་ཤེས་ཅུང་ཙམ་ཡོད་པའི་ཨ་ཁུ་ཕྱིར་ཡོང་ནས་ཁོང་གི་ནད་སྨན་བཅོས་བྱེད་དུ་བཅུག ང་ཁྱིམ་དུ་ལོག་སྐབས།ཧན་ཡུའེ་ད་དུང་ལས་ཚོགས་ལ་ཞུགས་མེད། མོ་ད་དུང་ཧ་ཅང་ལྷིང་འཇགས་ཀྱི་རྣམ་པ་ཞིག་ཡིན།ང་ཉིན་འདི་དག་གི་རིང་ལ་ས་ཆ་གང་དུ་ཕྱིན་པ་མི་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_190",
+    "span1_text": "བརྩེ་དུང་རྙིང་པ་",
+    "span1_index": 27,
+    "span2_text": "ཁོ་",
+    "span2_index": 53,
+    "text": "དགོང་མོ།ངའི་རྨི་ལམ་དུ་མོ་མཐོང་བྱུང་།ངའི་སྔོན་ཆད་ཀྱི་ཧན་ཡོད། ཁོ་མོས་རྨི་ལམ་གྱི་ནང་དུ་ང་ལ་བཤད་རྒྱུར།སྔོན་ཆད་ཀྱི་བརྩེ་དུང་རྙིང་པས་ཁོ་མོར་སླར་ཡང་སེམས་འགུལ་ཐེབས་སུ་བཅུག་པ་དེ་ནི་ཁོ་བཟང་བའི་རྐྱེན་གྱིས་མ་ཡིན་པར།འཚོ་བ་ཧ་ཅང་རྒྱུན་ལྡན་ཡིན་པས།ཁོའི་ལུས་སྟེང་དུ་ཉུང་མཐར་ཡང་མཐའ་འཁོར་གྱི་སྐྱེས་པ་ཚང་མར་མེད་པའི་སྨྱོ་སེམས་དང་གསོན་ཤུགས་ཡོད་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_194",
+    "span1_text": "ས་རྡུལ་",
+    "span1_index": 35,
+    "span2_text": "དེ་དག་",
+    "span2_index": 47,
+    "text": "རྡུལ་གྱིས་མཐོང་ལམ་བཀབ་པས།ངས་རྒྱང་ཐག་རིང་བའི་རླངས་འཁོར་མཐོང་མི་ཐུབ་པ་དང་།ཡལ་འགྲོ་བཞིན་པའི་འདས་ཟིན་པའི་ཚེ་སྲོག་མཐོང་མི་ཐུབ། ས་རྡུལ་མིག་གི་ནང་དུ་འཕྱུར།ངས་མིག་ཆུ་བཀོལ་ནས་དེ་དག་བཀྲུ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_198",
+    "span1_text": "ཉིན་འདི་དག་།",
+    "span1_index": 21,
+    "span2_text": "དེ།",
+    "span2_index": 26,
+    "text": "གནམ་རྒན་མ། ཉིན་འདི་དག་ལ་དོན་དག་ག་ཚོད་བྱུང་བར་བསམ་བློ་གཏོང་རོགས། ང་ཉིན་མོ་འདི་དག་ལ་དགའ།དེས་མ་མཐར་ཡང་སྤྱིར་བཏང་གི་སུན་སྣང་གི་འཚོ་བའི་སྟེང་གི་སུན་སྣང་མེད་པར་བཟོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_201",
+    "span1_text": "གྲི་",
+    "span1_index": 11,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "མི་འཇིག་རྟེན་དུ་ཡོང་སྐབས།ཞེན་པ་དང་དགའ་དགོས།གྲི་ལ་ཡང་མི་ཞིག་དང་འདྲ་བའི་ལས་དབང་དང་ལེན་ས་ཡོད། ཡ་མཚན་ཆེ་བ་ཞིག་ནི།ང་སྐྲག་མེད།ངའི་བྲང་ཁ་ནས་དེའི་གྲང་ངར་གྱི་རྣོ་གྲི་གསལ་པོར་ཚོར་ཡོད་པ་ཙམ་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_217",
+    "span1_text": "ཉེན་རྟོག་པ་",
+    "span1_index": 69,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 75,
+    "text": "སྒོ་ར་མདུན་གྱི་ལམ་ནས་འགྲོ་སྐབས།ངས་མི་མང་པོ་ཞིག་ཀེ་ཁྱིམ་གྱི་སྒོའི་མདུན་དུ་བསྐོར་ནས་བསྡད་ཡོད་པ་མཐོང་བྱུང་།མི་རྣམས་ཀྱི་ངོ་གདོང་ལ་ཡ་མཚན་གྱི་རྣམ་འགྱུར་ཞིག་ཡོད་པ་དང་།སྐད་གྲགས་ཀྱི་སྒྲ་ཁ་བའི་སྟེང་དུ་ལྷུང་ཡོད།རྣམ་པ་དེ་ནི་གྲིབ་ནག་ཞིག་དང་འདྲ་བར་སྒོ་རའི་ནང་གི་དགུན་ཁ་སྐམ་པོ་དང་སྟོང་སངས་མེད་པར་གྱུར་ཡོད། ཉེན་རྟོག་པ་ཡང་སླེབས་ཡོད།ཁོང་ཚོ་སྤོ་འགུལ་བྱེད་ཐུབ་པའི་སྡོང་བོ་སྔོ་ལྗང་ཞིག་དང་འདྲ་བས།རྣམ་འགྱུར་སྐྱིད་པོ་ཞིག་ལ།ཁ་བ་དཀར་པོས་ཁེངས་པའི་ས་སྟེང་དུ་སྣང་མེད་ངང་ཕར་འགྲོ་ཚུར་འོང་བྱས་ཏེ།ལྟད་མོ་ལྟ་མཁན་གྱི་མི་ཚོགས་ལ“ཕར་སོང་།རྒྱབ་ཕྱོགས་སུ་ལངས་རོགས”ཞེས་སྐད་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_218",
+    "span1_text": "ལམ་ཆུང་",
+    "span1_index": 9,
+    "span2_text": "དེ།",
+    "span2_index": 33,
+    "text": "ངས་ནམ་ཡང་སྲང་ལམ་གྱི་ལམ་ཆུང་ནི་ཁྱིམ་གཞིས་ཞིག་ཡིན་པར་འདོད།ཁྱོད་ཀྱི་ཀླད་པའི་རྣམ་ཤེས་ལ་ལོག་ས་མེད་པ་དང་འཚོ་ས་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་མགྲོན་ཁང་ཡིན། ཁྱོད་ཀྱི་གཉེན་ཉེ་རྒྱང་ཐག་རིང་བ་དང་ཁེར་རྐྱང་ལ་རོགས་རམ་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་གྲོགས་པོ་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_221",
+    "span1_text": "ལམ་ངོས་",
+    "span1_index": 6,
+    "span2_text": "དེ།",
+    "span2_index": 23,
+    "text": "འོན་ཀྱང་སྐབས་དེར་ལམ་ངོས་ནི་རྣམ་པ་གཞན་ཞིག་ཡིན།ཉིན་གུང་ཉི་འོད་འོག་ཏུ་དེ་མེ་ལོང་དང་འདྲ་བར་འཇམ་འདྲེད་འོད་འཚེར་བ་དང་།གོས་པ་ནག་པོའི་རླབས་རླབས་དེ་རིགས་གཡུག་གཡུག་བྱེད་པ།རྒྱ་སེ་མེ་ཏོག་གི་འོད་འཁྱིལ་དེ་གཞུང་ལམ་འདིའི་ཕྱོགས་གཉིས་སུ་ཁྱབ་ནས་ཁེངས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_246",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 42,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 60,
+    "text": "ལམ་ཐོག་ང་དང་འཕྲད་པའི་བུད་མེད་རེ་རེ་ནི་ངའི་ཨ་མ་དང་འདྲ་བས།ང་ལ་གྲང་མོ་དང་དྲོ་སྐྱིད་འདྲི་བཞིན་ཡོད།རྟག་ཏུ་ང་ལྟོགས་པའམ་ཡང་ན་ནད་ཕོག་པར་སེམས་ཁྲལ་བྱེད་བཞིན་ཡོད། ང་ལ་འཕྲད་པའི་སྐྱེས་པ་ཡོད་ཚད་དང་།ཚང་མ་ལེ་ཧྥུང་དང་འདྲ།གལ་ཏེ་ངས་སེམས་ཆུང་མ་བྱས་པར་འགྱེལ་སོང་ན།ཁོ་ཚོས་སྔོན་ལ་བྲེལ་འཚུབ་ངང་གོམ་པ་འགའ་ལ་རྒྱུགས་ནས་ང་ས་སྟེང་ནས་པང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_252",
+    "span1_text": "གངས་མི་",
+    "span1_index": 55,
+    "span2_text": "མོ་",
+    "span2_index": 69,
+    "text": "ངས་སྒོ་རའི་མདུན་གྱི་ནུ་མའི་འབྲས་སྐྲན་ཕོག་པའི་ཀེ་ཧྲི་བུད་མེད་དེའི་ཁྱིམ་གྱི་ཡ་རབ་འོག་ནས་རྡོ་སོལ་ཟླུམ་རིལ་ནག་པོ་འགའ་བརྐུས་ནས་ཁ་བ་མིར་མིག་བཙུགས།རང་ཉིད་ཀྱི་ཁྱིམ་གྱི་ཐབ་ཚང་ནས་པད་ཚལ་གྱི་ལོ་མ་འགའ་བདམས་ནས་ཁ་བ་མིར་སྐྲ་གྱོན་པར་མ་ཟད།ཤོག་བུའི་ཕྱི་ཤུན་གྱིས་ཁོ་མོར་དམག་ཞྭ་ཞིག་བཟོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_254",
+    "span1_text": "ཧོ་ཡ་མ་",
+    "span1_index": 34,
+    "span2_text": "མོ་",
+    "span2_index": 39,
+    "text": "སྨན་ཁང་ནས་ཁབ་རྒྱག་ཚར་པ་དང་སྨན་བཀོད་ནས་ཕྱིར་ལོག ཨ་མ་སྡེ་ཁག་ལ་སོང་ནས་ལས་ཚོགས་ལ་སོང་། མ་འགྲོ་བའི་སྔོན་ལ།མོས་ང་ཡ་མ་ཧོ་ལ་མངགས་བཅོལ་བྱས་ཏེ།ཁོ་མོས་ང་ལ་ལྟ་རྟོག་བྱེད་དུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_256",
+    "span1_text": "མོ་ཧྥེ་",
+    "span1_index": 10,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "ཡོང་བ་ནི་ཏའེ་ཨེར་གྱིས་སྔོན་དཔག་བྱས་པ་ལྟར་ཏག་ཏག་མོ་ཧྥེ་རེད། མོ་ཧྥེ་ནི་གསར་འགོད་པ་ཞིག་ཡིན།སྔོན་ཆད་ཏའེ་ཨེར་གྱི་ཨ་ཕ་ཡོད་དུས།ཁོ་རྒྱུན་དུ་ཁྱིམ་དུ་ཡོང་ནས་དེ་ནས་ཕྱིར་སོང་ནས་སྲན་ཕུའུ་རྡོག་ཆེད་དོན་བཅར་འདྲི་བྲིས་ནས་དགེ་རྒན་ཆེ་མོ་བ་ཏའེ་ཡི་གནས་ཚུལ་གསར་ཤོས་གནས་ཚུལ་སྤེལ་བ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_263",
+    "span1_text": "ཏའེ་ཨེར།",
+    "span1_index": 8,
+    "span2_text": "ཁོ་",
+    "span2_index": 46,
+    "text": "ལས་ཀ་བཙལ་བའི་དོན་དག་དྲན་དུས།ཏའེ་ཨེར་གྱི་སེམས་ལ་གདུག་རྩུབ་བྱས། ཁྱི་སྐྱེས་པ་འདི་དག་ལ་དུས་རྒྱུན་སྐད་ཆ་བཟང་པོ་མང་པོ་ཞིག་བཤད་ཀྱི་ཡོད་པས།སྐད་ཆ་མང་པོ་བཤད་ཀྱི་ཡོད་མོད།འོན་ཀྱང་དངོས་གནས་དོན་དག་ཡོད་ན་ཁོའི་མགོ་ནས་རྙེད་ན་ཁོས་རྫུན་མ་བྱེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_265",
+    "span1_text": "མོ་ཧྥེ་",
+    "span1_index": 2,
+    "span2_text": "མོ་",
+    "span2_index": 30,
+    "text": "དེ་ནས་མོ་ཧྥེས་ཁ་བསྡུས།ཧེ་ཧེ་དགོད་བཞིན་ཡོད། མའེ་སན་གྱིས་ཁོ་ལ་ལན་མི་ཐོན་པ་མཐོང་རྗེས།སྒྲ་མེད་པའི་སྒོ་ནས་ཁོ་མོར་འཕྱ་སྨོད་བྱེད་ཕོད།“འདི་ཡང་ཉིན་གཅིག་དང་ཉིན་གཉིས་ཙམ་མ་རེད།བཟའ་ཚང་ཁ་བྲལ་ན་འགྲིག་གི་རེད”ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_266",
+    "span1_text": "མའེ་སན་",
+    "span1_index": 14,
+    "span2_text": "མོ་",
+    "span2_index": 30,
+    "text": "དེ་ནས་མོ་ཧྥེས་ཁ་བསྡུས།ཧེ་ཧེ་དགོད་བཞིན་ཡོད། མའེ་སན་གྱིས་ཁོ་ལ་ལན་མི་ཐོན་པ་མཐོང་རྗེས།སྒྲ་མེད་པའི་སྒོ་ནས་ཁོ་མོར་འཕྱ་སྨོད་བྱེད་ཕོད།“འདི་ཡང་ཉིན་གཅིག་དང་ཉིན་གཉིས་ཙམ་མ་རེད།བཟའ་ཚང་ཁ་བྲལ་ན་འགྲིག་གི་རེད”ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_268",
+    "span1_text": "མོ་ཧྥེ་",
+    "span1_index": 8,
+    "span2_text": "མོ་",
+    "span2_index": 38,
+    "text": "ཏའེ་ཨེར་གྱིས་དོན་དངོས་སུ་མོ་ཧྥེ་ཡི་བག་ཕེབས་དང་བག་ཕེབས་ཀྱི་ཕྱི་ངོས་འོག་ཏུ་སྦས་པའི་དངོས་པོ་ཤེས་ཡོད། ལོ་གཉིས་ཀྱི་སྔོན་ལ་མོ་ཧྥེ་ཡིས་སྲོག་ཉེན་མེད་ངང་ཁོ་མོ་བརྩོན་ལེན་བྱེད་མྱོང་ཞིང་།ལོ་གཅིག་དང་ཟླ་བ་གཉིས་རིང་ལ་རྗེས་འདེད་བྱས་ཡོད།ཕྱིས་སུ་མའེ་སན་བློ་རྩེ་གཅིག་ཏུ་མེད་པའི་སྒོ་ནས་ཁོ་ལ་དགའ་བས།ད་གཟོད་དེ་དག་ཚང་མ་མཇུག་སྒྲིལ་སོང་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_288",
+    "span1_text": "སུས་སུའི་བུ་།",
+    "span1_index": 1,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "“སུ་ཞིག་གི་བུ་”ཏའེ་ཨེར་སྔ་མོ་ནས་དགྲ་བོའི་བཙན་རྫོང་དུ་འཛེགས་ནས་རིག་གནས་ལས་རིགས་དང་སྒྱུ་རྩལ་ལས་རིགས་སུ་བཙན་ཤེད་དང་གཡོ་འཕྲུལ་བྱེད་བཞིན་ཡོད། མཁས་པ་དང་།གླུ་མཁན།གློག་བརྙན་འཁྲབ་སྟོན་པ་སོགས་མིང་གྲགས་ནས་རྒྱལ་ཁ་ཐོབ་འདོད་མཁན་ཚང་མ་སྔོན་ལ་ཁོའི་སར་ཕྱིན་པ་དང་།དེ་ལྟར་མ་བྱས་ན་རྒྱལ་ཁ་ཐོབ་ན་མི་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_298",
+    "span1_text": "མི་རྒྱུག་",
+    "span1_index": 4,
+    "span2_text": "དེ།",
+    "span2_index": 47,
+    "text": "མོས་མི་རྒྱུན་ལ་བལྟས་སྟེ།མི་རྒྱུན་དེ་ནི་སྣང་མེད་ཀྱི་རླུང་དང་ཧ་ཅང་འདྲ་སྟེ།གནའ་རབས་ནས་ད་ལྟའི་བར་དུ་བཞུར་བཞིན་ཡོད།ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོའི་ཤར་ཕྱོགས་ཀྱི་ཉིའུ་གཡོད་གྲོང་ཁྱེར་ནས་རྒྱ་མཚོ་ཆེན་མོ་བརྒལ་ནས་པེ་ཅིང་དུ་བཞུར་བཞིན་ཡོད། དེས་སྔོན་ཆད་ཀྱི་མི་རྣམས་ཀྱི་དགའ་སྤྲོ་དང་སྐྱོ་གདུང་འཁྱེར་ནས་ལོ་ཟླ་ཡུན་རིང་འཁྱེར་ནས་སྲས་མོ་ཏའེ་ཨེར་གྱི་འགྲམ་ནས་སྣང་མེད་དུ་འདྲེད་རྗེས།སྲས་མོ་ཏའེ་ཨེར་གྱི་ཡོད་ཚད་དང་བསྟུན་ནས་རྒྱང་རིང་དང་མ་འོངས་པར་བསྐྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_302",
+    "span1_text": "མིག་",
+    "span1_index": 54,
+    "span2_text": "དེ།",
+    "span2_index": 57,
+    "text": "རླུང་སྒོམ་དགེ་རྒན་གྱི་མིག་མདངས་ཏའེ་ཨེར་གྱི་ལུས་སྟེང་དུ་སྐད་ཅིག་ཙམ་བསྡད་རྗེས།ཁྱོད་རྟག་ཏུ་མགོ་ན་བ་ཡིན་ནམ།གལ་ཏེ་ཁྱོད་འཐད་པ་ཡིན་ན།ངས་ཁྱོད་ལ་རོགས་རམ་བྱེད་ཐུབ།ཏའེ་ཨེར་གྱིས་མགོ་བཀྱག་ནས་ཁོའི་མིག་ལ་བལྟས་ཚེ།དེ་ལ་རྒྱལ་འཐབ་བྱེད་མཁན་ལྟ་བུའི་འགོག་ཐབས་མེད་པའི་དྲོ་ཉམས་ཤིག་འཕྱུར་ཞིང་།རྣམ་འགྱུར་དེ་ནི་སྒྲ་མེད་པའི་དམག་བཀའ་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "hard",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_2",
+    "span1_text": "མང་ཚོགས་",
+    "span1_index": 12,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 35,
+    "text": "“ཕྱི་རྒྱལ་གྱི་མི་”འདི་འདྲ་ཁ་ཤས་མང་ཚོགས་ཀྱི་བར་དུ་ལངས་ནས་བྱ་ཁྱུ་ཞིག་ཏུ་ལངས་པ་དང་འདྲ་བར་རང་ཉིད་ཀྱི་ཁྱད་འཕགས་ཀྱི་འདུ་ཤེས་སྦ་གསང་སྤུ་ཙམ་ཡང་བྱེད་ཀྱི་ཡོད། ཁོ་ཚོ་སྤྱིར་བཏང་མིན་པའི་ཚལ་གཞོང་གི་རྒྱབ་ཏུ་གྲལ་བསྒྲིགས་ཡོད།མི་གྲངས་ཧ་ཅང་ཉུང་ཉུང་ཡིན་མོད།འོན་ཀྱང་མི་རྣམས་ཧ་ཅང་ཡིད་དབང་འཕྲོག་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_4",
+    "span1_text": "རས་རྩུབ་རྙིང་པ་",
+    "span1_index": 20,
+    "span2_text": "དེ།",
+    "span2_index": 46,
+    "text": "ལོས་ཡིན།ཁོ་རང་ཉིད་ཀྱི་ལྭ་བ་ནི་སྔར་བཞིན་རྣམ་པ་རྙིང་པ་ཡིན། ཁྱིམ་གཅིག་གིས་འཐག་པའི་རས་རགས་པོ་རྙིང་པ་དེ་ཅིན་པོ་ཨ་མས་ཁོ་ལ་ལས་གོས་ཀྱི་རྣམ་པའི་ཐོག་ནས་དྲས་པ་ཡིན་མོད།འོན་ཀྱང་དེའི་ངོ་བོའི་ཐོག་གི་ས་གཤིས་དེ་སྔར་བཞིན་འགེབས་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_6",
+    "span1_text": "མེས་པོ་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་",
+    "span2_index": 30,
+    "text": "མན་དབྱིན་གྱི་མེས་པོ་རྣམས་ཀྱིས་སྔོན་ཆད་“ཕ་ཀུན་”བྱས་མྱོང་། མེས་པོ་རྣམས་ཀྱི་ལག་ཏུ་རྒྱུད་འདིར་སྙན་གྲགས་འགའ་ཡོད་མྱོང་། ཁོའི་མེས་པོའི་ནང་དུ་ཐོན།ཐ་མག་ཆེན་པོ་འཐེན་ན་ཁྱིམ་ལས་ཅུང་ཙམ་འཐེན་ཚར་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_7",
+    "span1_text": "ཧྲའོ་ཕིང་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 28,
+    "text": "ཧྲའོ་ཕིང་གིས་སྔར་བཞིན་རྨོ་བོར་ཁོའི་གཅེན་གཅུང་གི་དོན་དག་ཇི་ལྟར་གསལ་པོར་བཤད་མི་ཤེས།ཁོས་ནོར་འཁྲུལ་ཅུང་ཙམ་བཟོས་པས།གཞན་གྱིས་ཁོ་ལ་ངལ་རྩོལ་སློབ་གསོའི་བྱེད་དུ་བཅུག་པ་མ་རེད།ཞེས་ཁ་ནས་བཤད་རྒྱུ་ཀ་མེད་བྱུང་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_10",
+    "span1_text": "ཧའོ་ཧུང་མེ་",
+    "span1_index": 6,
+    "span2_text": "མོ་",
+    "span2_index": 26,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་ཧའོ་ཧུང་མེ་ནི་དོན་དངོས་སུ་འཛིན་གྲྭའི་ནང་གི་ཆེས་མཛེས་པའི་བུ་མོ་ཡིན་པ་ཤེས། ཁོ་མོས་གྱོན་པ་རུལ་པོ་གྱོན་པ་དང་།དེའི་ཐོག་ཚལ་གྱི་མདོག་ཀྱང་བསྣན་པས།ད་གཟོད་མི་ཚང་མས་དོན་དེ་མ་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_13",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 43,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 47,
+    "text": "ལོ་ཚོད་དེ་རིགས་ཀྱི་གཞོན་ནུ་སྐྱེས་པ་རྣམས་ལ་རིག་གནས་ཅུང་ཙམ་ཐོབ་མ་ཐག་ཡིན་པས།རྒྱུན་དུ་“ཕྱི་རྒྱལ་གྱི་བུ་མོ་”ཁ་ཤས་ལ་བརྩེ་བཀུར་བྱ་རྒྱུར་དགའ་པོ་བྱེད་ཀྱི་ཡོད། ལྷག་པར་དུ་གྲོང་གསེབ་ནས་ཡོང་མ་ཐག་པའི་སྐྱེས་པ་རྣམས་ཁོ་ཚོའི་མིག་ནང་གྲོང་ཁྱེར་གྱི་ལས་བྱེད་པའི་བུ་མོ་ཚང་མ་འཇིག་རྟེན་གྱི་ལྷ་མོ་དང་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_14",
+    "span1_text": "ཟམ་ཆུང་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 25,
+    "text": "གྲོང་ཚོའི་ནང་ད་ཆ་ཚེ་རིང་ཤོས་ཀྱི་མི་ཞིག་གིས་ཀྱང་ཟམ་པ་ཆུང་ཆུང་དེ་ལོ་ངོ་ག་དུས་བསྐྲུན་པ་མི་ཤེས། དེ་ལོ་ལྟར་གཡོ་འགུལ་བྱེད་བཞིན་ཡོད་མོད།འོན་ཀྱང་ལོ་ལྟར་གནས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_20",
+    "span1_text": "སུན་ཧྲའོ་ཕིང་",
+    "span1_index": 2,
+    "span2_text": "ཁོ་",
+    "span2_index": 31,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་བལྟས་མྱོང་བའི་དཔེ་ཆ་ནི།ཧའོ་ཧུང་མེ་ལ་གཡར་ནས་བལྟ་དགོས། ཁོས་ཁོ་མོར་དཔེ་ཆ་གཡར་པའམ་ཡང་ན་ཁོ་མོས་ཁོ་ལ་དཔེ་ཆ་ཕྱིར་སྤྲད་པ་གང་ཡིན་རུང་།མི་གཉིས་ཀྱིས་ཁ་རོག་གེར་སྒྲུབ་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_22",
+    "span1_text": "ཧྲའོ་ཕིང་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཧྲའོ་ཕིན་གྱིས་གློ་བུར་དུ་སྐད་ཆ་ཡང་བཤད་མི་ཐུབ། འོན་ཀྱང་ཨ་ཅེ་རུན་ཡེ་མདུན་དུ་སོང་ནས་སྔར་བཞིན་དགོད་བཞིན་དུ“ངས་རུན་ཧྲེང་ལ་ཁྱོད་ངའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་དུ་བོད་དུ་བཅུག་ཡོད།ཁྱོད་ཅིའི་ཕྱིར་མི་ཡོང་བ་ཡིན”ཞེས་བཤད།“ང་...”ཁོས་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_24",
+    "span1_text": "རུན་ཧྲེང་",
+    "span1_index": 33,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཧྲའོ་ཕིན་གྱིས་གློ་བུར་དུ་སྐད་ཆ་ཡང་བཤད་མི་ཐུབ། འོན་ཀྱང་ཨ་ཅེ་རུན་ཡེ་མདུན་དུ་སོང་ནས་སྔར་བཞིན་དགོད་བཞིན་དུ“ངས་རུན་ཧྲེང་ལ་ཁྱོད་ངའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་དུ་བོད་དུ་བཅུག་ཡོད།ཁྱོད་ཅིའི་ཕྱིར་མི་ཡོང་བ་ཡིན”ཞེས་བཤད།“ང་...”ཁོས་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_29",
+    "span1_text": "རུན་ཧྲེང་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་",
+    "span2_index": 21,
+    "text": "ཧྲའོ་ཕིང་དང་རུན་ཡེ་གཉིས་ཀྱིས་ཁོ་མོའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་གྱི་སྒོ་རའི་ནང་དུ་འཛུལ་དུས།རུན་ཧྲེང་ཡོང་ནས་ཁོ་ལ་བཤད་རྒྱུར།ང་ཉལ་ཁང་དུ་སོང་ནས་ཁྱོད་ཐེངས་གཉིས་བཙལ་སོང་།ཁྱོད་གང་དུ་བུད་སོང་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_31",
+    "span1_text": "ཨ་ཕ་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "སྨན་པ་ཞུས་ཀྱིས་སྐད་ཆེན་པོས་“ཨ་ཕ།ཁྱོད་ཀྱིས་སྲིང་ལྭ་བ་མི་གྱོན་དོན་ཅི་ཡིན།ཆམ་ནད་ལ་གཟབ་གཟབ་བྱེད་དགོས”ཞེས་སྐད་བརྒྱབས།ཡང་རྒན་རྒོན་ཞིག་གིས་“ང་གྲང་མེད།...”ཅེས་ལན་བརྒྱབ།ཧྲའོ་ཕིན་གྱིས་ཚོད་དཔག་བྱས་ན་དེ་ནི་ཁོས་ད་གིན་མེ་ཏོག་ལྡེབས་ཀྱི་མེ་ཏོག་སྟེགས་བུའི་འགྲམ་དུ་མཐོང་བའི་ས་ཕོག་པའི་རྒན་རྒོན་དེ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_33",
+    "span1_text": "ཧྲའོ་ཕིང་",
+    "span1_index": 53,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "སྨན་པ་ཞུས་ཀྱིས་སྐད་ཆེན་པོས་“ཨ་ཕ།ཁྱོད་ཀྱིས་སྲིང་ལྭ་བ་མི་གྱོན་དོན་ཅི་ཡིན།ཆམ་ནད་ལ་གཟབ་གཟབ་བྱེད་དགོས”ཞེས་སྐད་བརྒྱབས།ཡང་རྒན་རྒོན་ཞིག་གིས་“ང་གྲང་མེད།...”ཅེས་ལན་བརྒྱབ།ཧྲའོ་ཕིན་གྱིས་ཚོད་དཔག་བྱས་ན་དེ་ནི་ཁོས་ད་གིན་མེ་ཏོག་ལྡེབས་ཀྱི་མེ་ཏོག་སྟེགས་བུའི་འགྲམ་དུ་མཐོང་བའི་ས་ཕོག་པའི་རྒན་རྒོན་དེ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_44",
+    "span1_text": "ཧྲའོ་ཕིང་དང་ལན་ཞང་།",
+    "span1_index": 16,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 45,
+    "text": "ང་ཕྱིར་ཡོང་རྗེས།ངེད་གཉིས་ཀྱིས་ངལ་རྩོལ་བྱས།ངེས་པར་དུ་ཧྲའོ་ཕིང་དང་ལན་ཞང་གི་དཔེ་ཆ་འདོན་སྤྲོད་བྱེད་དགོས། ཁོ་གཉིས་ལ་ནུས་པ་ཡོད་ན།གང་དུ་རྒྱུགས་ལེན་ཐུབ་ན།ང་ཚོས་ཁོ་ཚོ་གང་དུ་མཁོ་སྤྲོད་བྱེད་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_45",
+    "span1_text": "མི་གཉིས་།",
+    "span1_index": 6,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 45,
+    "text": "ང་ཕྱིར་ཡོང་རྗེས།ངེད་གཉིས་ཀྱིས་ངལ་རྩོལ་བྱས།ངེས་པར་དུ་ཧྲའོ་ཕིང་དང་ལན་ཞང་གི་དཔེ་ཆ་འདོན་སྤྲོད་བྱེད་དགོས། ཁོ་གཉིས་ལ་ནུས་པ་ཡོད་ན།གང་དུ་རྒྱུགས་ལེན་ཐུབ་ན།ང་ཚོས་ཁོ་ཚོ་གང་དུ་མཁོ་སྤྲོད་བྱེད་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_47",
+    "span1_text": "པའེ་མིང་ཁྲོན་དང་ཨ་ཁུ་ཞུས་ཀྲི་ཀུང་།",
+    "span1_index": 31,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 54,
+    "text": "ཕུ་བོ་ཧྲའོ་ཨན་ལགས།ཁྱོད་ཀྱིས་ཐད་ཀར་ངའི་ཨ་ཕ་གཉིས་པའི་འཕྲིན་ཡིག་ང་ལ་བྱིན།ང་སང་ཉིན་ཁྱོད་དང་མཉམ་དུ་ཧྲི་ཀེ་དུས་ཆེན་ལ་འགྲོ་དགོས། ང་དང་ཨ་ཁུ་པའེ་མིང་ཁྲོན།ཞུས་ཀྲི་ཀུང་བཅས་ཚང་མ་རྒྱུས་མངའ་ཆེན་པོ་ཡོད།སྐབས་དེར་ང་ལ་འཕྲིན་ཡིག་ཁོ་ཚོར་སྤྲོད་དུ་འཇུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_48",
+    "span1_text": "ཕུ་བོ་",
+    "span1_index": 17,
+    "span2_text": "ཁོ་",
+    "span2_index": 34,
+    "text": "ལོས་ཡིན།ཕུལ་དུ་བྱུང་བའི་མི་ལ་རྟག་ཏུ་བཀྲ་མི་ཤིས་པའི་ལས་དབང་འཕྲད་ཀྱི་ཡོད། ཕུ་བོ་ཏག་ཏག་འདི་འདྲ་རེད། ལོ་གཉིས་ཀྱི་སྔོན་དུ།གཅེན་མོ་ནད་ཀྱིས་ཤི་བ་དང་།ཁོ་གཅིག་པུས་ལོ་ལྔ་ལ་སླེབས་པའི་ལིན་ལིན་ཁྲིད་ནས་འཚོ་བ་རོལ་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_52",
+    "span1_text": "ལའོ་ཀའོ་",
+    "span1_index": 43,
+    "span2_text": "མོ་",
+    "span2_index": 84,
+    "text": "མོས་ཀའོ་ཀོང་ཧོའུ་ལ་སྙིང་རྗེ་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། བྱང་སེམས་བཟང་པོ་འདིས་ཉིན་གང་བོར་སློབ་གྲྭའི་དོན་དག་ལ་ངལ་རྩོལ་བྱེད་ཀྱི་ཡོད་པ་མ་ཟད།ད་དུང་ཁྱིམ་ལས་ཀྱང་བྱེད་དགོས།ལི་དབྱིན་གྱི་འུར་ཟ་དང་དམོད་ཚིག་ལ་ཉན་དགོས། ལའོ་ཀའོ་ཡིས་ཁོ་མོར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད།རྟག་ཏུ་བཅད་པའི་མེ་ཤིང་ཁོ་མོའི་སྒོའི་མདུན་དུ་སྤུངས་ནས་ཁོ་མོར་འབྲུ་རིགས་ཉོ་བ་དང་།ཕྱེ་བརྡར་བ།ཆུ་འཁུལ་བ་སོགས་ལ་རོགས་རམ་བྱེད་ཀྱི་ཡོད།དེ་དག་ཚང་མས་ཁོ་མོའི་སེམས་ལ་སེམས་འགུལ་ཆེན་པོ་ཐེབས་ཀྱི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_56",
+    "span1_text": "ལུའུ་རུའོ་ཆིན་",
+    "span1_index": 8,
+    "span2_text": "མོ་",
+    "span2_index": 86,
+    "text": "དུས་ཡུན་ངེས་ཅན་ཞིག་འགོར་རྗེས།ལུའུ་རུའོ་ཆིན་གྱིས་ཁོ་མོ་གཟའ་ཉི་མར་འགའ་ལ་རྫོང་སྒོར་ལོག་མེད་པ་ཤེས། ཅིའི་ཕྱིར་ཡིན་པ་མི་ཤེས།ཕུ་བོ་ཡང་ཉེ་ལམ་མོའི་འདིར་མ་ཡོང་། མོའི་སེམས་ལ་ཛ་དྲག་ཏུ་གྱུར།ཕུ་བོ་སམ་ཡང་ན་ལིན་ལིན་ལ་དོན་དག་ཅི་ཞིག་བྱུང་བ་ཡིན་ནམ། ཁོ་མོས་གློ་བུར་དུ་ཁོ་མོའི་གཉེན་ཉེ་དེ་གཉིས་ཡོང་བ་དྲན་ཞིང་།ཁོ་མོ་མྱུར་དུ་རྫོང་གྲོང་དུ་ལོག་ནས་བལྟ་རུ་འགྲོ་དགོས་པར་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_60",
+    "span1_text": "བུ་མོ་",
+    "span1_index": 6,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ཁོ་མོ་ནི་སྤྱང་གྲུང་ལྡན་པའི་བུ་མོ་ཞིག་རེད།སྐབས་དེར་མོས་གོ་སྐབས་དང་བསྟུན་ནས་དམག་དཔོན་ཁོ་མོའི་དོང་ནང་དུ་ཁྱེར་ནས་ཕུ་བོ་ཡིས་ཁོ་མོར་སྤྲད་པའི་སིལ་ཏོག་བླངས་ནས་བྱིས་པའི་ལག་ཏུ་བཅུག་སྟེ།ཁོ་ལ་“ཁྱོད་ཀྱིས་ཟ་དགོས་ལ།ཨ་ཕར་ཡང་ཟ་དགོས།ཆོག་གམ”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_64",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 11,
+    "span2_text": "མོ་",
+    "span2_index": 22,
+    "text": "ལུའུ་རུའོ་ཆིན་གྱིས་བུད་མེད་ཞིག་གིས་སྙིང་རྗེ་འདི་འདྲ་ཞིག་ལ་སླེབས་སྲིད་པ་ནམ་ཡང་མ་ཤེས། མོས་མི་གཞན་གྱིས་བཤད་པར།ལི་དབྱིན་ནི་མ་གཞི་ཁྱོ་གས་ཡིད་མི་ཚིམ་མོད།འོན་ཀྱང་སྤྱིར་བཏང་དུ་བཤད་ན་ད་དུང་སྐྱིད་པོ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_77",
+    "span1_text": "མི་སེར་",
+    "span1_index": 7,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 71,
+    "text": "ཀའོ་མའོ་དང་ཧྲེ་ཁུ་གྲོང་ཚོའི་མི་སེར་ཚང་མས་སྐུ་ཞབས་དཀའ་སྡུག་འདིར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། ཁོང་གིས་ཉེ་བའི་ལོ་འགའི་རིང་ལ་རི་གྲོང་ཆུང་ཆུང་གཉིས་ཀྱི་ཕྲུ་གུ་རེ་རེ་བཞིན་རྫོང་གྲོང་གི་ཕྲུ་གུ་ལས་སད་པར་སྦྱོང་བརྡར་བྱས། བྱིས་པ་རྣམས་སློབ་ཆུང་མཐར་ཕྱིན་རྗེས།སློབ་འབྲིང་ལ་རྒྱུགས་ལེན་མི་ཐུབ་མཁན་ཕལ་ཆེར་མེད། ཁོ་ཚོས་ཁོ་ལ་ཐུགས་རྗེ་ཆེ་ཞུས་པ་དང་།རྒྱུན་དུ་རང་ཉིད་ཀྱི་བྱིས་པ་དགེ་རྒན་ཀའོ་དང་ལུའུ་དགེ་རྒན་ལ་ཟ་འཐུང་དུ་འཇུག་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_78",
+    "span1_text": "རི་གྲོང་ཆུང་ཆུང་གི་བྱིས་པ།",
+    "span1_index": 28,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 71,
+    "text": "ཀའོ་མའོ་དང་ཧྲེ་ཁུ་གྲོང་ཚོའི་མི་སེར་ཚང་མས་སྐུ་ཞབས་དཀའ་སྡུག་འདིར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། ཁོང་གིས་ཉེ་བའི་ལོ་འགའི་རིང་ལ་རི་གྲོང་ཆུང་ཆུང་གཉིས་ཀྱི་ཕྲུ་གུ་རེ་རེ་བཞིན་རྫོང་གྲོང་གི་ཕྲུ་གུ་ལས་སད་པར་སྦྱོང་བརྡར་བྱས། བྱིས་པ་རྣམས་སློབ་ཆུང་མཐར་ཕྱིན་རྗེས།སློབ་འབྲིང་ལ་རྒྱུགས་ལེན་མི་ཐུབ་མཁན་ཕལ་ཆེར་མེད། ཁོ་ཚོས་ཁོ་ལ་ཐུགས་རྗེ་ཆེ་ཞུས་པ་དང་།རྒྱུན་དུ་རང་ཉིད་ཀྱི་བྱིས་པ་དགེ་རྒན་ཀའོ་དང་ལུའུ་དགེ་རྒན་ལ་ཟ་འཐུང་དུ་འཇུག་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_81",
+    "span1_text": "ལའོ་ཀྲང་ཁྱིམ་ཚང་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 33,
+    "text": "ལའོ་ཀྲང་ཁྱིམ་ཚང་ཧ་ཅང་བྱང་སེམས་ལྡན་པ་དང་།ཚང་མས་དགེ་རྒན་ཀའོ་ཡི་སྒོར་མོ་ལེན་ག་འདྲ་བྱེད་ཐུབ་ཟེར། ཁོ་ཁང་པའི་ནང་དུ་བསྡད་རུང་། བྱིས་པ་བཞག་ན།ཁོ་ཚོས་ནུས་ཤུགས་ཡོད་རྒུས་བདག་སྐྱོང་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_88",
+    "span1_text": "བུ་",
+    "span1_index": 20,
+    "span2_text": "ཁོ་",
+    "span2_index": 24,
+    "text": "ཀའོ་ཀོང་ཧོའུ་ཡི་མིག་ལ་མིག་ཆུ་བཞུར་ནས་ཡོང་ནས་དཔུང་པ་རིང་པོ་གཉིས་ཀྱིས་བུ་པང་དུ་བཟུང་སྟེ་ཁོའི་གདོང་ཐོག་འོ་བྱས་ཏེ།ཁྱོད་ཨ་ནེ་དང་མཉམ་དུ་འགྲོ།ཨ་ཕ་མི་འགྲོ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_89",
+    "span1_text": "མཚན་མོ་",
+    "span1_index": 0,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_94",
+    "span1_text": "འཇིག་རྟེན་",
+    "span1_index": 44,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_98",
+    "span1_text": "ཚང་མ།",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 18,
+    "text": "ཚང་མས་དགེ་རྒན་ཀའོ་དང་གསར་དུ་ཡོང་བའི་དགེ་རྒན་ལུའུ་ལ་བསྟོད་བསྔགས་བྱས་ཏེ།ཁོ་ཚོ་ནི་སྐུ་ཞབས་བཟང་པོ་ཞིག་རེད་ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_99",
+    "span1_text": "དགེ་རྒན་ཀའོ་དང་གསར་དུ་ཡོང་བའི་དགེ་རྒན་ལུའུ་།",
+    "span1_index": 6,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 18,
+    "text": "ཚང་མས་དགེ་རྒན་ཀའོ་དང་གསར་དུ་ཡོང་བའི་དགེ་རྒན་ལུའུ་ལ་བསྟོད་བསྔགས་བྱས་ཏེ།ཁོ་ཚོ་ནི་སྐུ་ཞབས་བཟང་པོ་ཞིག་རེད་ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_112",
+    "span1_text": "ནུ་མ་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 27,
+    "text": "ནུ་མ་གྱིས“བདག་པོ་ལགས།ཐེངས་འདིར་ང་ལ་བཟོད་མི་ཐུབ”ཅེས་བཤད་རྒྱུར།ཨ་མས་ཁོ་མོ་རང་གིས་རང་གི་གདན་ལ་རྡུང་དུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_114",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 24,
+    "span2_text": "མོ་",
+    "span2_index": 27,
+    "text": "ནུ་མ་གྱིས“བདག་པོ་ལགས།ཐེངས་འདིར་ང་ལ་བཟོད་མི་ཐུབ”ཅེས་བཤད་རྒྱུར།ཨ་མས་ཁོ་མོ་རང་གིས་རང་གི་གདན་ལ་རྡུང་དུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_116",
+    "span1_text": "ཁྱིམ་བྲན་པོ་",
+    "span1_index": 8,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 34,
+    "text": "ཐོག་ཁང་འོག་ཏུ་སླེབས་མ་ཐག་ཁྱིམ་གྱི་བྲན་གཡོག་གི་ཕྲུ་གུ་འགའ་ཡིས་ང་བསྐོར་བྱས། ཕ་མ་གཉིས་ཀྱིས་རྒྱུན་དུ་ང་ལ་ལྟོས།ཁོ་ཚོ་ཚང་མ་ཁྱོད་ཀྱི་ཕྱུགས་རིགས་ཡིན་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_124",
+    "span1_text": "གཡོག་མོ་",
+    "span1_index": 28,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 31,
+    "text": "བུད་མེད་ཐུའུ་སིས་རྐང་པ་ཡར་བཀྱག་མ་ཐག་སྔོན་ལ་རྟ་རྒྱབ་ནས་མར་བསྡད། དེ་ནས་རྟ་ནག་པོའི་སྟེང་གི་མེ་མདའ་ཡོད་པའི་གྱོན་གོས་དམར་པོ་ཅན་གྱི་གཡོག་མོ་གཉིས་ཡིན། ཁོ་མོ་ཚོ་གཉིས་ཀྱིས་རྟ་དཀར་པོའི་རྐང་ཐག་བཟུང་བ་དང་།གཅིག་གིས་ས་ལ་པུས་ཙོག་བྱས། རྟའི་རྒྱབ་ཐོག་གི་བུ་མོ་དེས་མགོ་རས་ཡར་བསྒྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_126",
+    "span1_text": "མི་འདི་ཚོ།",
+    "span1_index": 53,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 62,
+    "text": "སྲན་དཔོན་ཆེན་པོས་ཐུའུ་སིའི་ལྕམ་མོ་ལ་ཅི་ཞིག་བཤད་འདོད་མོད།འོན་ཀྱང་ཁོས་ད་དུང་བསམ་བློ་མ་བཏང་རྗེས།ཐུའུ་སིས་“ལྡབ་གཉིས་ཡིན་ནམ།ཁྱོད་ཀྱིས་ལྡབ་གཉིས་ཡིན་ནམ།ལྡབ་གཉིས་ཀྱི་ལྡབ་གཉིས་ནི་མི་འདི་དག་ལ་སྟོང་པ་དང་མི་མཚུངས།ངས་ཁོ་ཚོས་རིན་གོང་ལྡབ་བཅུ་སྤྲོད་འདོད་པའི་བར་སྒུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_128",
+    "span1_text": "གཡོག་པ་",
+    "span1_index": 2,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 77,
+    "text": "ངའི་ལས་འོག་རྣམས་ལ་མེ་མདའ་འཁྱེར་ཡོད་པའི་མིས་བལྟས་ཡོང་གི་རེད། ལྟོས།འདི་ནི་བདག་དང་གཡོག་པ་གཉིས་ཀྱི་མི་འདྲ་ས་རེད། གནས་ཚུལ་འདི་འདྲའི་འོག་ཏུ།སྲོག་པོ་ཡང་བུད་མེད་མཛེས་སྡུག་ལྡན་པའི་ཁྱུ་ཞིག་གིས་བསྐོར་ཡོད། སྙིང་རྗེ་བའི་གཡོག་པ་དེ་དག་གི་འགྲམ་དུ་སོང་ན།ངོ་གདོང་ལ་བལྟས་ནས་ངས་ཁོ་ཚོ་ལྟོགས་ཡོད་པ་ཤེས་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_135",
+    "span1_text": "ཁུ་སིམ་པ་",
+    "span1_index": 13,
+    "span2_text": "དེ།",
+    "span2_index": 29,
+    "text": "མི་མང་པོ་ཞིག་མཉམ་དུ་འཛོམས་ནས་གྲུབ་པའི་ཁུ་སིམ་མིན་པ་དེ་ནི་སྤྱིར་བཏང་གི་ཁུ་སིམ་མིན་པ་ཞིག་མ་རེད།མི་རྣམས་ཀྱིས་དེའི་གནོན་ཤུགས་ཧ་ཅང་ཆེན་པོ་ཚོར་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_140",
+    "span1_text": "རྒྱ་མིའི་སྲིད་དབང་",
+    "span1_index": 1,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 46,
+    "text": "རྒྱ་མིའི་སྲིད་དབང་སྟོབས་ལྡན་དུ་གྱུར་སྐབས།ང་ཚོས་དཀའ་སྡུག་མི་ཉུང་བ་ཞིག་མྱོང་ཡོད།དེའང་མའེ་ཆི་ཐུའུ་སི་ནམ་ཡང་སྟོབས་ལྡན་དུ་མི་རུང་བའི་རྒྱུ་རྐྱེན་གཙོ་བོ་ཡིན། རྗེས་སུ་ཁོ་ཚོས་གསར་བརྗེ་བྱས་པ་དང་།ཁོ་ཚོས་དམག་འཁྲུག་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_142",
+    "span1_text": "ཕུ་བོ་",
+    "span1_index": 12,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ངའི་གློ་བུར་དུ་དྲན་དོན།ལྷོ་ཕྱོགས་སུ་དམག་འཐབ་བྱེད་བཞིན་པའི་ཕུ་བོ་ནི་དུས་ཡུན་འདི་འདྲ་རིང་ལ་བུ་མོ་ལ་མི་ཐུག་མི་སྲིད། གལ་ཏེ་མི་ཞིག་གིས་ཁོ་ལ་ནུ་བོ་དང་བུ་མོ་ཞིག་གཉིས་ཀྱིས་ཉིན་གཉིས་གསུམ་ལ་ཉལ་རྗེས་ད་གཟོད་དོན་དག་དེ་དྲན་ན།ཁོས་གད་མོ་ཆེན་པོས་“ངོ་མ་གླེན་པ་ཞིག་རེད”ཅེས་བཤད་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_145",
+    "span1_text": "མི་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "མི་གླེན་པ་ཞིག་ཏུ་གྱུར་ན།གདོང་གི་སྐྱི་པགས་དམ་པོར་འགྱུར། མི་ཞིག་གླེན་པ་ཡིན་མིན་ལ་བལྟ་དགོས།ཁོའི་འཛུམ་མདངས་ལ་བལྟས་ན་ཆོག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_147",
+    "span1_text": "གླེན་པ་",
+    "span1_index": 22,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "མི་གླེན་པ་ཞིག་ཏུ་གྱུར་ན།གདོང་གི་སྐྱི་པགས་དམ་པོར་འགྱུར། མི་ཞིག་གླེན་པ་ཡིན་མིན་ལ་བལྟ་དགོས།ཁོའི་འཛུམ་མདངས་ལ་བལྟས་ན་ཆོག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_148",
+    "span1_text": "དོ་དམ་པ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དོ་དམ་པའི་བཀའ་ནི་ཁ་གཅིག་ནས་ལྷམ་བཟོ་པའི་སར་བསླེབས། ལྷམ་བཟོ་པས་ལྷམ་གསར་རྐྱང་ཞིག་བཟུང་ནས་བཟོ་ཁང་ནས་ཕྱིར་བརྒྱུར། ཁོའི་གདོང་གི་འཛུམ་མདངས་ནི་ལྷག་བསམ་ཡིན། འདི་ཁྲོམ་ར་དུ་བཏོད་རྗེས།ཁོས་སྒེར་གྱི་ལས་ཀ་མི་ཉུང་བ་ཞིག་བསྒྲུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_155",
+    "span1_text": "གཡང་གཟར་",
+    "span1_index": 2,
+    "span2_text": "དེ།",
+    "span2_index": 65,
+    "text": "གཡང་གཟར་གྱི་རྩེ་ལ་སླེབས་ཉེར་ཡོད་དུས།ལམ་གློ་བུར་དུ་གཡང་གཟར་གྱི་དཀྱིལ་དུ་གྱུར། གཡང་གཟར་ཧྲིལ་པོ་ནི་དམར་པོ་ཡིན་མོད།རྐང་འོག་གི་ལམ་ནི་ནག་པོ་ཞིག་ཡིན་པས།བྲག་རྡོ་དམར་པོའི་དཀྱིལ་དུ་ནུས་ཤུགས་ཡོད་རྒུས་ཡར་ལ་ཀྱག་ཀྱོག་བྱེད་བཞིན་ཡོད། ངས་ལམ་འདིའི་ངག་རྒྱུན་ཐོས་མྱོང་། སྔོན་ཆད་དེ་ནི་བྲག་རྡོ་དམར་པོའི་ནང་དུ་སྦས་ཡོད་པས།རྣམ་པ་མེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_157",
+    "span1_text": "བྲག་རྡོ་",
+    "span1_index": 42,
+    "span2_text": "དེ།",
+    "span2_index": 65,
+    "text": "གཡང་གཟར་གྱི་རྩེ་ལ་སླེབས་ཉེར་ཡོད་དུས།ལམ་གློ་བུར་དུ་གཡང་གཟར་གྱི་དཀྱིལ་དུ་གྱུར། གཡང་གཟར་ཧྲིལ་པོ་ནི་དམར་པོ་ཡིན་མོད།རྐང་འོག་གི་ལམ་ནི་ནག་པོ་ཞིག་ཡིན་པས།བྲག་རྡོ་དམར་པོའི་དཀྱིལ་དུ་ནུས་ཤུགས་ཡོད་རྒུས་ཡར་ལ་ཀྱག་ཀྱོག་བྱེད་བཞིན་ཡོད། ངས་ལམ་འདིའི་ངག་རྒྱུན་ཐོས་མྱོང་། སྔོན་ཆད་དེ་ནི་བྲག་རྡོ་དམར་པོའི་ནང་དུ་སྦས་ཡོད་པས།རྣམ་པ་མེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_159",
+    "span1_text": "ལྕགས་བཟོ་པ་",
+    "span1_index": 18,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 63,
+    "text": "གུང་ཁྲན་ཏང་གིས་མི་ཚང་མར་གཏན་འཇགས་ཀྱི་ས་ཆ་ཞིག་བཀོད་སྒྲིག་བྱས་ཡོད། ལྕགས་མོ་བ་གྲོང་ཚོ་འདིར་བསྡད་ཡོད། དེ་ཡང་ཉིན་དེ་ནས་བཟུང་ཁོ་ཆེད་ལས་ཀྱི་ལྕགས་བཟོ་བ་མ་རེད། དེ་སྔར།ལག་ཤེས་པ་གང་སར་འགྲོ་འོང་བྱེད་བཞིན་ཡོད།ཁོ་ཚོར་འཁྱམས་པའི་སེམས་ཤིག་ཡོད་པ་ཕུད།ད་དུང་དེ་ལྟར་བྱས་ན་ད་གཟོད་ལས་ཀ་འདང་ངེས་ཤིག་རྙེད་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_163",
+    "span1_text": "གྲོང་མི་",
+    "span1_index": 6,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 29,
+    "text": "ང་ཚོས་གྲོང་ཚོའི་ནང་གི་མིས་ཕུལ་བའི་དངོས་པོ་ལོངས་སྤྱོད་བྱེད་མི་ཐུབ་པས།ཁོ་ཚོར་ཅི་ཡང་མི་ཤེས་པའི་ཚོར་སྣང་སྐྱེས། ཨ་ཁུ་ཡིས་ཁོ་ཚོའི་ཚབ་བྱས་ནས་ཁྱོད་གཉིས་ཀྱིས་ཅི་ཞིག་ལེན་དགོས་སམ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_166",
+    "span1_text": "ཨ་ཁུ་བླ་མ་",
+    "span1_index": 6,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ལོ་འདི་དག་གི་རིང་ལ།བླ་མའི་ཨ་ཁུ་ལ་ཐོབ་པའི་རྡོ་རྗེ་ཕ་ལམ་གང་འདྲ་ཞིག་ཀྱང་དེའི་སྟེང་དུ་བསྒར་ཡོད་པས།ཕལ་ཆེར་སྟོང་ཆ་ཅི་ཡང་མེད། ལིའུ་ཅིན་ཙང་གི་མིག་ཁོའི་རྐེད་པར་ལྷུང་སྐབས།ངས་ཨ་ཁུ་ལ“ཁོས་ཁྱོད་ཀྱི་གཅེས་ཕྲུག་ལ་དགའ་སོང་ཟེར”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_167",
+    "span1_text": "ལིའུ་ཅིན་ཙང་",
+    "span1_index": 36,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ལོ་འདི་དག་གི་རིང་ལ།བླ་མའི་ཨ་ཁུ་ལ་ཐོབ་པའི་རྡོ་རྗེ་ཕ་ལམ་གང་འདྲ་ཞིག་ཀྱང་དེའི་སྟེང་དུ་བསྒར་ཡོད་པས།ཕལ་ཆེར་སྟོང་ཆ་ཅི་ཡང་མེད། ལིའུ་ཅིན་ཙང་གི་མིག་ཁོའི་རྐེད་པར་ལྷུང་སྐབས།ངས་ཨ་ཁུ་ལ“ཁོས་ཁྱོད་ཀྱི་གཅེས་ཕྲུག་ལ་དགའ་སོང་ཟེར”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_168",
+    "span1_text": "ཨ་ཁུ་བླ་མ་",
+    "span1_index": 6,
+    "span2_text": "ཁོ་",
+    "span2_index": 55,
+    "text": "ལོ་འདི་དག་གི་རིང་ལ།བླ་མའི་ཨ་ཁུ་ལ་ཐོབ་པའི་རྡོ་རྗེ་ཕ་ལམ་གང་འདྲ་ཞིག་ཀྱང་དེའི་སྟེང་དུ་བསྒར་ཡོད་པས།ཕལ་ཆེར་སྟོང་ཆ་ཅི་ཡང་མེད། ལིའུ་ཅིན་ཙང་གི་མིག་ཁོའི་རྐེད་པར་ལྷུང་སྐབས།ངས་ཨ་ཁུ་ལ“ཁོས་ཁྱོད་ཀྱི་གཅེས་ཕྲུག་ལ་དགའ་སོང་ཟེར”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_170",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 50,
+    "span2_text": "ཁོ་",
+    "span2_index": 55,
+    "text": "ལོ་འདི་དག་གི་རིང་ལ།བླ་མའི་ཨ་ཁུ་ལ་ཐོབ་པའི་རྡོ་རྗེ་ཕ་ལམ་གང་འདྲ་ཞིག་ཀྱང་དེའི་སྟེང་དུ་བསྒར་ཡོད་པས།ཕལ་ཆེར་སྟོང་ཆ་ཅི་ཡང་མེད། ལིའུ་ཅིན་ཙང་གི་མིག་ཁོའི་རྐེད་པར་ལྷུང་སྐབས།ངས་ཨ་ཁུ་ལ“ཁོས་ཁྱོད་ཀྱི་གཅེས་ཕྲུག་ལ་དགའ་སོང་ཟེར”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_172",
+    "span1_text": "ལིའུ་ཅིན་ཙང་",
+    "span1_index": 17,
+    "span2_text": "ཁོ་",
+    "span2_index": 24,
+    "text": "ལྕགས་མག་གི་ཐོ་མགོ་འཁྱོག་པས།ལྕགས་ཤུན་དམར་པོ་ཞིག་ལིའུ་ཅིན་ཙང་གི་མིག་གཡོན་པའི་ནང་དུ་འཕྱུར། ཁོས་སྐད་ཡ་མཚན་ཞིག་བརྒྱབ་རྗེས།ད་གཟོད་ལག་པས་མིག་བཀབ་ནས་དྲང་མོར་ས་ལ་ལྷུངས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_178",
+    "span1_text": "གྲི་",
+    "span1_index": 3,
+    "span2_text": "དེ།",
+    "span2_index": 45,
+    "text": "ཨ་ཁུ་ཡིས་གྲི་དེ་ཀ་བའི་སྟེང་དུ་ཕྱིར་གཡུགས་ཏེ།“འདིར་ཁྱོད་དང་གྲི་འདི་རྩོད་མཁན་མི་ཡོད།གྲི་འདི་འདྲ་ཞིག་ནི་མི་དེ་དང་འཚམ་པ་མིན་པར།དེ་ལས་ལྡོག་སྟེ་དེས་རྨས་སྐྱོན་གཏོང་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_179",
+    "span1_text": "མི་དེ།",
+    "span1_index": 32,
+    "span2_text": "དེ།",
+    "span2_index": 45,
+    "text": "ཨ་ཁུ་ཡིས་གྲི་དེ་ཀ་བའི་སྟེང་དུ་ཕྱིར་གཡུགས་ཏེ།“འདིར་ཁྱོད་དང་གྲི་འདི་རྩོད་མཁན་མི་ཡོད།གྲི་འདི་འདྲ་ཞིག་ནི་མི་དེ་དང་འཚམ་པ་མིན་པར།དེ་ལས་ལྡོག་སྟེ་དེས་རྨས་སྐྱོན་གཏོང་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_182",
+    "span1_text": "སྒྲོལ་མ་",
+    "span1_index": 36,
+    "span2_text": "མོ་",
+    "span2_index": 51,
+    "text": "ཇ་སྒོར་མོ་སྤྲོད་སྐབས།ཇ་ཁང་ནང་གི་མི་ཚང་མ་བུད་སོང་། ཆུ་རགས་ཕྱི་རོལ་གྱི་ཆུ་བོའི་སྒྲ་ཡང་བསྐྱར་ཁྱབ་ནས་ཇ་མགྲོན་པོ་ཚོས་བཞག་པའི་འུར་སྒྲ་གཙང་སེལ་བྱས། སྒྲོལ་མས་བཤད་རྒྱུར།ང་ལ་ཁྱོད་ཀྱི་གྲི་ལ་ཡང་བསྐྱར་བལྟ་རུ་ཆོགཁོ་མོས་བལྟས་རྗེས།སྒོར་མོ་ཏོག་ཙམ་རིན་ཐང་ལྡན།གལ་ཏེ་སྲས་མོ་ཡོད་ན་དགོང་མོ་གཉིས་གསུམ་ལ་འདང་ཐུབ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_184",
+    "span1_text": "རི་ཆུ་",
+    "span1_index": 5,
+    "span2_text": "དེ།",
+    "span2_index": 41,
+    "text": "གང་ལགས་ཤེ་ན།མཐའ་འཁོར་གྱི་རི་ཆུ་ནི་སྔ་མོ་ནས་མུ་མཐའ་མེད་པའི་ལྗང་མདོག་ཞིག་ཏུ་གྱུར་ཡོད། བྱ་དངོས་གང་ཞིག་ཡིན་རུང་ཚད་ངེས་ཅན་ཞིག་ལ་སླེབས་ཚེ།ཁྱོད་ཀྱིས་དེ་ལ་ཅི་ཞིག་ཁ་སྣོན་བྱེད་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_185",
+    "span1_text": "ལྗང་མདོག་",
+    "span1_index": 18,
+    "span2_text": "དེ།",
+    "span2_index": 41,
+    "text": "གང་ལགས་ཤེ་ན།མཐའ་འཁོར་གྱི་རི་ཆུ་ནི་སྔ་མོ་ནས་མུ་མཐའ་མེད་པའི་ལྗང་མདོག་ཞིག་ཏུ་གྱུར་ཡོད། བྱ་དངོས་གང་ཞིག་ཡིན་རུང་ཚད་ངེས་ཅན་ཞིག་ལ་སླེབས་ཚེ།ཁྱོད་ཀྱིས་དེ་ལ་ཅི་ཞིག་ཁ་སྣོན་བྱེད་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_186",
+    "span1_text": "བྱ་དངོས་",
+    "span1_index": 24,
+    "span2_text": "དེ།",
+    "span2_index": 41,
+    "text": "གང་ལགས་ཤེ་ན།མཐའ་འཁོར་གྱི་རི་ཆུ་ནི་སྔ་མོ་ནས་མུ་མཐའ་མེད་པའི་ལྗང་མདོག་ཞིག་ཏུ་གྱུར་ཡོད། བྱ་དངོས་གང་ཞིག་ཡིན་རུང་ཚད་ངེས་ཅན་ཞིག་ལ་སླེབས་ཚེ།ཁྱོད་ཀྱིས་དེ་ལ་ཅི་ཞིག་ཁ་སྣོན་བྱེད་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_204",
+    "span1_text": "དགའ་རོགས་ཟུར་པ་",
+    "span1_index": 9,
+    "span2_text": "ཁོ་",
+    "span2_index": 19,
+    "text": "སྐྱ་མདོག་ཅན་གྱི་བུད་མེད་འདིས་དེ་སྔའི་དགའ་རོགས་ཀྱི་མིང་མ་ཟེར།ཁོ་ཞེས་བཤད།ངའི་སེམས་ལ་གྲི་གྲི་སྟེང་དུ་འོད་འཚེར་བ་དང་འདྲ་བར།སྡུག་བསྔལ་རྣོན་པོ་ཞིག་འཕྲོས་སུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_206",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 20,
+    "span2_text": "མོ་",
+    "span2_index": 43,
+    "text": "གནད་འགག་ནི་ཨ་ཕས་ངའི་དོན་དག་ལ་སེམས་ཁུར་མི་བྱེད། ཁོས་དོན་དངོས་སུ་ཨ་མའི་དོན་དག་ལ་སེམས་ཁུར་མི་བྱེད།རྒྱུ་མཚན་ནི་ངས་ཨ་མའི་ས་ནས་ངའི་དོན་དག་ནི་མོའི་དོན་དག་ཡིན་པ་ཚོར་ཐུབ། ཨ་ཕས་ཁོ་རང་ཉིད་ཁོ་ནར་སེམས་ཁུར་བྱེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_207",
+    "span1_text": "སྐྱེས་པ་ཆེན་པོ་",
+    "span1_index": 32,
+    "span2_text": "ཁོ་",
+    "span2_index": 46,
+    "text": "Tནི་དངོས་གནས་སྐྱེས་པ་ཡ་མཚན་ཞིག་རེད། སྐབས་དེར།ང་རྒྱལ་གྱི་སྐྱེས་པ་ཆེན་པོ་ཞིག་གི་དགྲར་འཛིན་ནི་རྟག་ཏུ་ཁོ་རང་ཉིད་ཀྱིས་ཀྱང་གསལ་པོར་བཤད་མི་ཐུབ་པའི་ང་རྒྱལ་གྱི་སྤྲོ་སེམས་ཤིག་ལས་བྱུང་བ་ཡིན་པ་ངས་བསམ་ཤེས་བྱེད་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_210",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 33,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དབྱི་ཆིའུ་ང་ལས་ལོ་གསུམ་ཆེ་བ་ཡོད།མོ་ལོ་བདུན་ལ་སླེབས་སྐབས།སློབ་གྲྭ་ལོ་ན་སླེབས་པའི་བྱིས་པ་མང་ཆེ་བ་དང་འདྲ་བར་སློབ་ཆུང་དུ་མ་སླེབས་པར་ཨ་ཁུ་ཡིས་ཁྲིད་ནས་བྱང་ཕྱོགས་ཀྱི་གྲོང་རྡལ་ཆུང་ཆུང་ཞིག་ཏུ་རྐང་པ་སྨན་བཅོས་བྱེད་པར་སོང་ཡོད། གོ་ཐོས་སུ་དེ་གར་དམངས་ཁྲོད་ཀྱི་སྨན་པ་ཞིག་ཡོད་པ་དང་།ཁོས་ནད་པའི་རྐང་ལག་དབང་པོ་སྐྱོན་ཅན་ནང་དུ་རྒྱུན་ཆད་མེད་པར་སྲ་གཟུགས་ཀྱི་སྨན་རྫས་ཤིག་སྦས་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_211",
+    "span1_text": "སྨན་པ་",
+    "span1_index": 60,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དབྱི་ཆིའུ་ང་ལས་ལོ་གསུམ་ཆེ་བ་ཡོད།མོ་ལོ་བདུན་ལ་སླེབས་སྐབས།སློབ་གྲྭ་ལོ་ན་སླེབས་པའི་བྱིས་པ་མང་ཆེ་བ་དང་འདྲ་བར་སློབ་ཆུང་དུ་མ་སླེབས་པར་ཨ་ཁུ་ཡིས་ཁྲིད་ནས་བྱང་ཕྱོགས་ཀྱི་གྲོང་རྡལ་ཆུང་ཆུང་ཞིག་ཏུ་རྐང་པ་སྨན་བཅོས་བྱེད་པར་སོང་ཡོད། གོ་ཐོས་སུ་དེ་གར་དམངས་ཁྲོད་ཀྱི་སྨན་པ་ཞིག་ཡོད་པ་དང་།ཁོས་ནད་པའི་རྐང་ལག་དབང་པོ་སྐྱོན་ཅན་ནང་དུ་རྒྱུན་ཆད་མེད་པར་སྲ་གཟུགས་ཀྱི་སྨན་རྫས་ཤིག་སྦས་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_213",
+    "span1_text": "ཡེ་ཆིའུ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "དབྱི་ཆིའུ་ཡི་ཨ་ཕ་ནི་སྔོན་ཆད་སློབ་ཆུང་གི་སློབ་གཙོ་ཞིག་ཡིན་ལ།གཟུགས་པོ་མཐོན་པོ་དང་གཟུགས་བྱང་ཆེ་བའི་མི་བཟང་ཞིག་ཡིན། རྒྱུན་དུ།ཁོ་སློབ་གྲྭའི་ནང་དུ་མི་གཞན་ལ་འཚམས་འདྲི་བྱེད་པར་གཟབ་ནན་དང་།སྙིང་ཆུང་།གཟབ་ནན་དང་ཁེངས་སྐྱུང་བཅས་བྱེད་ཀྱི་ཡོད་མོད།འོན་ཀྱང་དོན་དངོས་སུ་ཁོའི་ནང་སེམས་ལ་ཕྱི་རོལ་གྱིས་འགལ་རྐྱེན་ཐེབས་སླ་བ་དང་།གཤིས་ཀ་ཡིད་མུག་པ་དང་བྲེལ་འཚུབ་བྱེད་པ་མ་ཟད།སྙིང་ཆུང་ཡང་བྱི་བ་དང་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_216",
+    "span1_text": "མི་མང་པོ་ཞིག་།",
+    "span1_index": 9,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 75,
+    "text": "སྒོ་ར་མདུན་གྱི་ལམ་ནས་འགྲོ་སྐབས།ངས་མི་མང་པོ་ཞིག་ཀེ་ཁྱིམ་གྱི་སྒོའི་མདུན་དུ་བསྐོར་ནས་བསྡད་ཡོད་པ་མཐོང་བྱུང་།མི་རྣམས་ཀྱི་ངོ་གདོང་ལ་ཡ་མཚན་གྱི་རྣམ་འགྱུར་ཞིག་ཡོད་པ་དང་།སྐད་གྲགས་ཀྱི་སྒྲ་ཁ་བའི་སྟེང་དུ་ལྷུང་ཡོད།རྣམ་པ་དེ་ནི་གྲིབ་ནག་ཞིག་དང་འདྲ་བར་སྒོ་རའི་ནང་གི་དགུན་ཁ་སྐམ་པོ་དང་སྟོང་སངས་མེད་པར་གྱུར་ཡོད། ཉེན་རྟོག་པ་ཡང་སླེབས་ཡོད།ཁོང་ཚོ་སྤོ་འགུལ་བྱེད་ཐུབ་པའི་སྡོང་བོ་སྔོ་ལྗང་ཞིག་དང་འདྲ་བས།རྣམ་འགྱུར་སྐྱིད་པོ་ཞིག་ལ།ཁ་བ་དཀར་པོས་ཁེངས་པའི་ས་སྟེང་དུ་སྣང་མེད་ངང་ཕར་འགྲོ་ཚུར་འོང་བྱས་ཏེ།ལྟད་མོ་ལྟ་མཁན་གྱི་མི་ཚོགས་ལ“ཕར་སོང་།རྒྱབ་ཕྱོགས་སུ་ལངས་རོགས”ཞེས་སྐད་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_219",
+    "span1_text": "ཁྱིམ་གཞིས་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 33,
+    "text": "ངས་ནམ་ཡང་སྲང་ལམ་གྱི་ལམ་ཆུང་ནི་ཁྱིམ་གཞིས་ཞིག་ཡིན་པར་འདོད།ཁྱོད་ཀྱི་ཀླད་པའི་རྣམ་ཤེས་ལ་ལོག་ས་མེད་པ་དང་འཚོ་ས་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་མགྲོན་ཁང་ཡིན། ཁྱོད་ཀྱི་གཉེན་ཉེ་རྒྱང་ཐག་རིང་བ་དང་ཁེར་རྐྱང་ལ་རོགས་རམ་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་གྲོགས་པོ་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_226",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 33,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ངས་མཛེས་སྡུག་ལྡན་པའི་བུ་ཞིག་ལ་དབྱིན་ནན་དང་མ་འཕྲད་གོང་ཐོག་མཐའ་བར་གསུམ་དུ་ཨུ་ཚུགས་ཀྱི་ཕྱོགས་ཞེན་ཞིག་ཡོད་པ་སྟེ།སྐྱེས་པ་ཞིག་གི་གཏིང་ཟབ་ཚད་དང་གྲུབ་འབྲས་ནི་རྒྱུན་དུ་ཁོའི་མཛེས་སྡུག་གི་ཚད་དང་ལྡོག་སྡུར་དུ་འགྲོ་བར་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_227",
+    "span1_text": "དབྱིན་ནན་",
+    "span1_index": 7,
+    "span2_text": "ཁོ་",
+    "span2_index": 78,
+    "text": "ཉིན་དེར།ང་དབྱིན་ནན་གྱི་འགྲམ་དུ་བསྡད་ཡོད། འདི་ནི་ང་སྔོན་ཆད་དགའ་བའི་ཨ་ཕ་ལྟ་བུའི་སྐྱེས་པ་དང་གཏན་ནས་མི་འདྲ་བའི་རིགས་ཤིག་རེད། ང་ཚོས་རང་ཤུགས་སུ་ཁ་བརྡ་བྱེད་མགོ་བརྩམས།དུས་ཡུན་ཐུང་ངུའི་ནང་ཕན་ཚུན་ལ་འདྲི་རྗེས།དཔེར་ན་ཚན་ཁག་གང་ཞིག་དང་ལོ་རིམ་ག་ཚོད་སོགས་ཀྱི་གནད་དོན་ལ་ཁོས་ང་ལ་སྙན་ངག་ཁང་གི་དོན་དག་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_230",
+    "span1_text": "མཚན་མོ་",
+    "span1_index": 11,
+    "span2_text": "དེ།",
+    "span2_index": 27,
+    "text": "དེ་ནི་དངོས་གནས་དྲན་དཀའ་བའི་མཚན་མོ་ཞིག་རེད།ངའི་གདོད་ནུས་ཀྱིས་རྒྱུན་ཆད་མེད་པར་དེ་དྲན་རྒྱུ་དང་ལེན་མི་བྱེད་པའི་དབང་གིས་དེ་ནི་དེ་འདྲའི་རྒྱང་ཐག་རིང་བ་དང་རབ་རིབ་ཏུ་གྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_232",
+    "span1_text": "ལས་གོས་",
+    "span1_index": 4,
+    "span2_text": "དེ།",
+    "span2_index": 35,
+    "text": "མཁྲེགས་པའི་ལས་གོས་དེ་ཞ་ཉེ་ཐལ་གྱི་གནམ་གཤིས་དང་འདྲ་བས།གནའ་བོའི་དུས་རབས་ནས་བཟུང་ཡོད་པ་དང་།རྒྱལ་རབས་གང་རུང་དང་ས་ཁོངས་གང་རུང་དུ་ཁྱབ་ཡོད།དེ་དུས་ཚོད་དང་བར་སྟོང་ཡོད་ཚད་ལ་ཁྱབ་ཡོད་པས།ཕལ་ཆེར་ནམ་ཡང་དེ་འདྲ་ཡིན་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_243",
+    "span1_text": "མི་མང་ཆེ་བ་",
+    "span1_index": 40,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 55,
+    "text": "མི་ཉུང་ཤས་སམ་ཡང་ན་མི་སྒེར་ལ་སྐབས་འགར་དོན་དངོས་སུ་སྟོབས་ཤུགས་དེ་བས་ཆེ་བ་ཡོད།གང་ལགས་ཤེ་ན།མི་ཉུང་ཤས་སམ་ཡང་ན་མི་སྒེར་ནི་དངོས་གནས་ལྟ་བ་ག་གེ་མོ་ཞིག་ཡོད་པའི་མི་ཞིག་ཡིན་མོད།འོན་ཀྱང་མི་མང་ཆེ་བའི་སྟོབས་ཤུགས་ནི་རྟག་ཏུ་རྫུན་སྣང་ཞིག་ཡིན་ཞིང་།ཁོང་ཚོ་ནི་མི་ཚོགས་མང་པོ་ཞིག་ལས་གྲུབ་པའི་རྐྱེན་གྱིས་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_250",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 38,
+    "span2_text": "མོ་",
+    "span2_index": 41,
+    "text": "ཁ་སང་ཐེམ་ཐོའི་ཉེན་རྟོག་པ་ཞིག་གིས་ངའི་ཁང་པའི་སྒོ་མ་རྡུང་པས།མ་གཞི་ངས་སྐྱེས་པ་ཞིག་ཡིན་པར་འདོད།འོན་ཀྱང་ངས་ཞིབ་ཏུ་བལྟས་ནས་བུད་མེད་ཅིག་ཡིན་པ་ཤེས།ཁོ་མོ་ཐིག་ཅོར་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པས།ངས་སེམས་བདེ་བའི་སྒོ་ནས་ཁང་པའི་སྒོ་ཕྱེ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_251",
+    "span1_text": "ཀེ་ཧྲི་བུད་མེད་",
+    "span1_index": 11,
+    "span2_text": "མོ་",
+    "span2_index": 69,
+    "text": "ངས་སྒོ་རའི་མདུན་གྱི་ནུ་མའི་འབྲས་སྐྲན་ཕོག་པའི་ཀེ་ཧྲི་བུད་མེད་དེའི་ཁྱིམ་གྱི་ཡ་རབ་འོག་ནས་རྡོ་སོལ་ཟླུམ་རིལ་ནག་པོ་འགའ་བརྐུས་ནས་ཁ་བ་མིར་མིག་བཙུགས།རང་ཉིད་ཀྱི་ཁྱིམ་གྱི་ཐབ་ཚང་ནས་པད་ཚལ་གྱི་ལོ་མ་འགའ་བདམས་ནས་ཁ་བ་མིར་སྐྲ་གྱོན་པར་མ་ཟད།ཤོག་བུའི་ཕྱི་ཤུན་གྱིས་ཁོ་མོར་དམག་ཞྭ་ཞིག་བཟོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_253",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 13,
+    "span2_text": "མོ་",
+    "span2_index": 39,
+    "text": "སྨན་ཁང་ནས་ཁབ་རྒྱག་ཚར་པ་དང་སྨན་བཀོད་ནས་ཕྱིར་ལོག ཨ་མ་སྡེ་ཁག་ལ་སོང་ནས་ལས་ཚོགས་ལ་སོང་། མ་འགྲོ་བའི་སྔོན་ལ།མོས་ང་ཡ་མ་ཧོ་ལ་མངགས་བཅོལ་བྱས་ཏེ།ཁོ་མོས་ང་ལ་ལྟ་རྟོག་བྱེད་དུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_255",
+    "span1_text": "ཏའེ་ཨེར།",
+    "span1_index": 3,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "ཡོང་བ་ནི་ཏའེ་ཨེར་གྱིས་སྔོན་དཔག་བྱས་པ་ལྟར་ཏག་ཏག་མོ་ཧྥེ་རེད། མོ་ཧྥེ་ནི་གསར་འགོད་པ་ཞིག་ཡིན།སྔོན་ཆད་ཏའེ་ཨེར་གྱི་ཨ་ཕ་ཡོད་དུས།ཁོ་རྒྱུན་དུ་ཁྱིམ་དུ་ཡོང་ནས་དེ་ནས་ཕྱིར་སོང་ནས་སྲན་ཕུའུ་རྡོག་ཆེད་དོན་བཅར་འདྲི་བྲིས་ནས་དགེ་རྒན་ཆེ་མོ་བ་ཏའེ་ཡི་གནས་ཚུལ་གསར་ཤོས་གནས་ཚུལ་སྤེལ་བ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_261",
+    "span1_text": "ཡུལ་དངོས་",
+    "span1_index": 21,
+    "span2_text": "དེ།",
+    "span2_index": 72,
+    "text": "ཏའེ་ཨེར་གྱིས་དེ་ནི་ཁོ་མོའི་ཨ་མ་སྔ་དུས་གྲོང་གསེབ་ཏུ་བསྒྱུར་བཀོད་བྱེད་སྐབས་ཕྱིར་ཁྱེར་ཡོང་བའི་ཡུལ་དངོས་ཡིན་ཁོ་ཐག་ཡིན་པར་འདོད།ཁོ་མོས་ཐ་ན་དེབ་ཀྱི་ཤོག་ངོས་དེའི་ཐོག་ནས་ནག་པོ་དང་འོད་འཚེར་བའི་ཞིང་ནང་གི་ཆུ་འབྲས་ཀྱི་དྲི་ཞིམ་དང་སྟོན་ཁའི་ཉི་འོད་འོག་གི་ཞིང་རའི་སྟེང་གི་མ་རྨོས་ལོ་ཏོག་གི་གསེར་མདོག་སྣོམ་ཐུབ། དེར་བརྟེན།སྲས་མོ་ཏའེ་ཨེར་གྱིས་དེ་གསང་སྤྱོད་ཁང་གི་ཤོག་བུའི་སླེ་བུའི་ནང་དུ་གཡུགས་ནས་སྨན་བཅོས་ཀྱི་དཔེ་དེབ་གཞན་པའི་ཕྱིར་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_264",
+    "span1_text": "ཁྱི་སྐྱེས་པ་",
+    "span1_index": 20,
+    "span2_text": "ཁོ་",
+    "span2_index": 46,
+    "text": "ལས་ཀ་བཙལ་བའི་དོན་དག་དྲན་དུས།ཏའེ་ཨེར་གྱི་སེམས་ལ་གདུག་རྩུབ་བྱས། ཁྱི་སྐྱེས་པ་འདི་དག་ལ་དུས་རྒྱུན་སྐད་ཆ་བཟང་པོ་མང་པོ་ཞིག་བཤད་ཀྱི་ཡོད་པས།སྐད་ཆ་མང་པོ་བཤད་ཀྱི་ཡོད་མོད།འོན་ཀྱང་དངོས་གནས་དོན་དག་ཡོད་ན་ཁོའི་མགོ་ནས་རྙེད་ན་ཁོས་རྫུན་མ་བྱེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_269",
+    "span1_text": "མོ་ཧྥེ་",
+    "span1_index": 8,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "ཏའེ་ཨེར་གྱིས་དོན་དངོས་སུ་མོ་ཧྥེ་ཡི་བག་ཕེབས་དང་བག་ཕེབས་ཀྱི་ཕྱི་ངོས་འོག་ཏུ་སྦས་པའི་དངོས་པོ་ཤེས་ཡོད། ལོ་གཉིས་ཀྱི་སྔོན་ལ་མོ་ཧྥེ་ཡིས་སྲོག་ཉེན་མེད་ངང་ཁོ་མོ་བརྩོན་ལེན་བྱེད་མྱོང་ཞིང་།ལོ་གཅིག་དང་ཟླ་བ་གཉིས་རིང་ལ་རྗེས་འདེད་བྱས་ཡོད།ཕྱིས་སུ་མའེ་སན་བློ་རྩེ་གཅིག་ཏུ་མེད་པའི་སྒོ་ནས་ཁོ་ལ་དགའ་བས།ད་གཟོད་དེ་དག་ཚང་མ་མཇུག་སྒྲིལ་སོང་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_270",
+    "span1_text": "ཏའེ་ཨེར།",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "ཏའེ་ཨེར་གྱིས་དོན་དངོས་སུ་མོ་ཧྥེ་ཡི་བག་ཕེབས་དང་བག་ཕེབས་ཀྱི་ཕྱི་ངོས་འོག་ཏུ་སྦས་པའི་དངོས་པོ་ཤེས་ཡོད། ལོ་གཉིས་ཀྱི་སྔོན་ལ་མོ་ཧྥེ་ཡིས་སྲོག་ཉེན་མེད་ངང་ཁོ་མོ་བརྩོན་ལེན་བྱེད་མྱོང་ཞིང་།ལོ་གཅིག་དང་ཟླ་བ་གཉིས་རིང་ལ་རྗེས་འདེད་བྱས་ཡོད།ཕྱིས་སུ་མའེ་སན་བློ་རྩེ་གཅིག་ཏུ་མེད་པའི་སྒོ་ནས་ཁོ་ལ་དགའ་བས།ད་གཟོད་དེ་དག་ཚང་མ་མཇུག་སྒྲིལ་སོང་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_275",
+    "span1_text": "ཡུའེ་ཧན་·ཆིང་སི།",
+    "span1_index": 3,
+    "span2_text": "ཁོ་",
+    "span2_index": 97,
+    "text": "ཐེངས་སྔོན་མར་ཡོ་ཧན·ཆིང་སིས་རྒྱལ་ནང་དུ་ལོག་སྐབས།ཁོང་གི་མི་ཚེ་འདིར་གལ་ཏེ་སྲས་མོ་ཏའེ་ཨར་ལྟ་བུའི་ཞི་ཞིང་འཇམ་པའི་ཤར་ཕྱོགས་ཀྱི་བུད་མེད་ཅིག་མནའ་མར་ལེན་ཐུབ་ན།རེ་འདུན་གཞན་ཅི་ཡང་མེད། ཁ་བྲལ་སྐབས་ཏའེ་ཨེར་ཡང་སེམས་འགུལ་ནས་མིག་བརླན་པར་གྱུར། འོན་ཀྱང་ཁོའི་ལུས་སྟེང་གི་སྤུ་ནག་པོ་སྟུག་པོ་དེ་མཐོང་རྗེས།ཏའེ་ཨེར་ཡང་ཕྱིར་འཐེན་བྱས་ཏེ།མཐར་ཁོའི་པང་དུ་འཐུས་མ་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_276",
+    "span1_text": "ཏའེ་ཨེར།",
+    "span1_index": 21,
+    "span2_text": "ཁོ་",
+    "span2_index": 97,
+    "text": "ཐེངས་སྔོན་མར་ཡོ་ཧན·ཆིང་སིས་རྒྱལ་ནང་དུ་ལོག་སྐབས།ཁོང་གི་མི་ཚེ་འདིར་གལ་ཏེ་སྲས་མོ་ཏའེ་ཨར་ལྟ་བུའི་ཞི་ཞིང་འཇམ་པའི་ཤར་ཕྱོགས་ཀྱི་བུད་མེད་ཅིག་མནའ་མར་ལེན་ཐུབ་ན།རེ་འདུན་གཞན་ཅི་ཡང་མེད། ཁ་བྲལ་སྐབས་ཏའེ་ཨེར་ཡང་སེམས་འགུལ་ནས་མིག་བརླན་པར་གྱུར། འོན་ཀྱང་ཁོའི་ལུས་སྟེང་གི་སྤུ་ནག་པོ་སྟུག་པོ་དེ་མཐོང་རྗེས།ཏའེ་ཨེར་ཡང་ཕྱིར་འཐེན་བྱས་ཏེ།མཐར་ཁོའི་པང་དུ་འཐུས་མ་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_278",
+    "span1_text": "སྲས་མོ་ཏའེ་ཨེར་དང་མའོ་དབྱི།",
+    "span1_index": 3,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 83,
+    "text": "ལྷག་པར་དུ་སྲས་མོ་ཏའེ་ཨེར་དང་མིའོ་དབྱི་གཉིས་ནི་ཏའེ་གཉིས་ཀྱི་ཁྱིམ་གྱི་ཉི་གཡབ་སྟེང་དུ་སྦས་ཡོད།དབྱར་དུས་ཀྱི་མཚན་མོ་ནི་ཧ་ཅང་རིང་བ་དང་བརྩེ་དུང་ཟབ་མོ་ཡིན།ཁོ་ཚོས་ལྐོག་གྱུར་དང་སྔོ་མདོག་གི་མཁའ་དབྱིངས་ལ་བལྟས་ནས་ཕན་ཚུན་གྱི་རྒྱང་ཐག་རིང་བའི་སྔོན་ཆད་དང་།རྨི་ལམ་དང་དཀའ་སྤྱད་འཚོལ་བའི་བརྩེ་དུང་སོགས་བཤད་བཞིན་ཡོད།དུས་རབས་ཀྱི་སྐད་ཀྱིས་ཁོ་ཚོའི་སེམས་ལ་ཁྱབ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_284",
+    "span1_text": "ངོ་གདོང་",
+    "span1_index": 92,
+    "span2_text": "དེ་དག་",
+    "span2_index": 97,
+    "text": "ཀྲུང་གོར་བཞད་གད་ཧ་ཅང་མང་པོ་ཡོད་པས།སྲུབས་གང་ཞིག་གི་ནང་དུ་དཔྱིད་ཀ་བྱུང་བ་དང་འདྲ་བར་བཞད་གད་ཀྱི་ངོ་གདོང་སྐྱེས་སྲིད།དེའི་ནང་གི་ངོ་གདོང་ཁ་ཤས་ལ་འཁྲབ་སྟོན་གྱི་ངོ་བོ་ལྡན་པས་སྐྱོ་གདུང་སྦས་ཡོད། ངོ་གདོང་ཁ་ཤས་སྔ་མོ་ནས་རྫུན་བཟོ་བྱས་ནས་དོན་དངོས་སུ་གྱུར་པས།གོམས་གཤིས་རྒྱུན་དུ་གྱུར་ཡོད། ལོ་འདི་དག་གི་རིང་ལ།སྲས་མོ་ཏའེ་ཨེར་གྱིས་སེམས་ཁུར་ཆེན་པོས་ངོ་གདོང་ཁྲི་སྟོང་མང་པོར་ལྟ་ཞིབ་བྱས་པ་མ་ཟད།དེ་དག་ལ་དབྱེ་ཞིབ་ཞིབ་ཕྲ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_286",
+    "span1_text": "ཁྲུའུ་ཀྲང་",
+    "span1_index": 12,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ཉིན་དེར།ཁོ་མོ་མི་དོན་ཁྲུའུ་ཡི་གཞུང་ལས་ཁང་དུ་སོང་སྐབས།ཁྲུའུ་ཀྲང་ནི་དཀར་པོ་དང་ཚོན་པོ་ཡིན་པ་དང་།མགོ་ཆེ་ལ་སྒོར་མོ་ཡིན་པས།སྐྱ་མདོག་གི་སྨ་སྤུ་ནི་མཆུ་མོའི་ཕྱོགས་བཞིར་ཕྱེ་ནས་ཞི་ལ་ཚོན་པོ་ཞིག་དང་འདྲ། སྲས་མོ་ཏའེ་ཨེར་ཁང་བའི་ནང་དུ་འཛུལ་སྐབས།ཁོས་རྐུབ་ཆད་ནས་ལག་པ་ཆེན་པོ་བརྐྱངས་ནས་ལྷོད་པོར་འཇུས་ཀྱང་ཡར་ལངས་མེད།རྒན་རབས་པའི་འགོ་ཁྲིད་པའི་རྣམ་འགྱུར་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_293",
+    "span1_text": "གཉེན་ཉེ་འགའ་ཞིག",
+    "span1_index": 5,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 33,
+    "text": "སྲས་མོ་ཏའེ་ཨེར་གྱི་གཉེན་ཉེ་ཁ་ཤས་ཀྱིས་ཏའེ་ཨེར་གྱི་ཨ་མ་ལ་འཁང་ར་བྱས་ཏེ།ཏའེ་ཨེར་ལ་གོམས་པ་ཞིག་ལ་ལྟོས་དང་།དཀའ་སྡུག་ཅུང་ཙམ་ཡང་བཟོད་མི་ཐུབ། ཁོ་མོ་ཚོས་མ་གཞི་ཏའེ་ཨེར་གྱིས་མདུན་གྱི་དམག་གྲུ་རྒྱག་རྒྱུའི་རེ་བ་བྱེད་ཀྱི་ཡོད་པ་དང་།དེ་ནས་རེ་རེ་བཞིན་ཐོན་འདོད་ཡོད་མོད།ཏའེ་ཨེར་ནི་འདི་འདྲའི་ཕན་པ་མེད་པ་དང་།དར་རྒྱས་ཆེ་བའི་འཇིག་རྟེན་དུ་མི་སྡོད་པར།ཉམས་རྒུད་དུ་གྱུར་བའི་པེ་ཅིང་གི་སྲང་ལམ་ཆུང་ཆུང་དེར་ལོག་ནས་དཀའ་སྡུག་གི་འཚོ་བ་རོལ་རྒྱུ་མ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_296",
+    "span1_text": "ཨ་རི་",
+    "span1_index": 3,
+    "span2_text": "དེ།",
+    "span2_index": 30,
+    "text": "ཨ།ཨ་རི།དེའི་སྟོབས་ལྡན་གྱི་དེང་རབས་ཀྱི་ཤེས་རིག་དེས་སྲས་མོ་ཏའེ་ཨེར་བཀྲུ་ནས་ཁྱུར་མིད་བྱས་པ་དང་།དུས་མཚུངས་སུ་དེའི་འགྲན་ཟླ་བྲལ་བའི་ནད་ཀྱི་རྣམ་པ་དང་ཡ་མ་གཟུགས་ཀྱིས་སྲས་མོ་ཏའེ་ཨེར་གྱི་སེམས་ཀྱི་གཏིང་དུ་གནས་པའི་དངོས་པོ་ག་གེ་མོ་ཞིག་འཕེལ་རྒྱས་བཏང་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_297",
+    "span1_text": "དེང་རབས་ཀྱི་ཤེས་རིག་",
+    "span1_index": 12,
+    "span2_text": "དེ།",
+    "span2_index": 30,
+    "text": "ཨ།ཨ་རི།དེའི་སྟོབས་ལྡན་གྱི་དེང་རབས་ཀྱི་ཤེས་རིག་དེས་སྲས་མོ་ཏའེ་ཨེར་བཀྲུ་ནས་ཁྱུར་མིད་བྱས་པ་དང་།དུས་མཚུངས་སུ་དེའི་འགྲན་ཟླ་བྲལ་བའི་ནད་ཀྱི་རྣམ་པ་དང་ཡ་མ་གཟུགས་ཀྱིས་སྲས་མོ་ཏའེ་ཨེར་གྱི་སེམས་ཀྱི་གཏིང་དུ་གནས་པའི་དངོས་པོ་ག་གེ་མོ་ཞིག་འཕེལ་རྒྱས་བཏང་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "medium",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_9",
+    "span1_text": "སུན་ཧྲའོ་ཕིང་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 26,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་ཧའོ་ཧུང་མེ་ནི་དོན་དངོས་སུ་འཛིན་གྲྭའི་ནང་གི་ཆེས་མཛེས་པའི་བུ་མོ་ཡིན་པ་ཤེས། ཁོ་མོས་གྱོན་པ་རུལ་པོ་གྱོན་པ་དང་།དེའི་ཐོག་ཚལ་གྱི་མདོག་ཀྱང་བསྣན་པས།ད་གཟོད་མི་ཚང་མས་དོན་དེ་མ་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_12",
+    "span1_text": "ཕྱི་རྒྱལ་གྱི་བུ་མོ་",
+    "span1_index": 26,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 47,
+    "text": "ལོ་ཚོད་དེ་རིགས་ཀྱི་གཞོན་ནུ་སྐྱེས་པ་རྣམས་ལ་རིག་གནས་ཅུང་ཙམ་ཐོབ་མ་ཐག་ཡིན་པས།རྒྱུན་དུ་“ཕྱི་རྒྱལ་གྱི་བུ་མོ་”ཁ་ཤས་ལ་བརྩེ་བཀུར་བྱ་རྒྱུར་དགའ་པོ་བྱེད་ཀྱི་ཡོད། ལྷག་པར་དུ་གྲོང་གསེབ་ནས་ཡོང་མ་ཐག་པའི་སྐྱེས་པ་རྣམས་ཁོ་ཚོའི་མིག་ནང་གྲོང་ཁྱེར་གྱི་ལས་བྱེད་པའི་བུ་མོ་ཚང་མ་འཇིག་རྟེན་གྱི་ལྷ་མོ་དང་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_15",
+    "span1_text": "ལོ་འཁོར་",
+    "span1_index": 19,
+    "span2_text": "དེ།",
+    "span2_index": 25,
+    "text": "གྲོང་ཚོའི་ནང་ད་ཆ་ཚེ་རིང་ཤོས་ཀྱི་མི་ཞིག་གིས་ཀྱང་ཟམ་པ་ཆུང་ཆུང་དེ་ལོ་ངོ་ག་དུས་བསྐྲུན་པ་མི་ཤེས། དེ་ལོ་ལྟར་གཡོ་འགུལ་བྱེད་བཞིན་ཡོད་མོད།འོན་ཀྱང་ལོ་ལྟར་གནས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_23",
+    "span1_text": "ཨ་ཅེ་རུན་ཡེ་",
+    "span1_index": 16,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཧྲའོ་ཕིན་གྱིས་གློ་བུར་དུ་སྐད་ཆ་ཡང་བཤད་མི་ཐུབ། འོན་ཀྱང་ཨ་ཅེ་རུན་ཡེ་མདུན་དུ་སོང་ནས་སྔར་བཞིན་དགོད་བཞིན་དུ“ངས་རུན་ཧྲེང་ལ་ཁྱོད་ངའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་དུ་བོད་དུ་བཅུག་ཡོད།ཁྱོད་ཅིའི་ཕྱིར་མི་ཡོང་བ་ཡིན”ཞེས་བཤད།“ང་...”ཁོས་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_25",
+    "span1_text": "ཨ་ཕ་གཉིས་པ་",
+    "span1_index": 39,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཧྲའོ་ཕིན་གྱིས་གློ་བུར་དུ་སྐད་ཆ་ཡང་བཤད་མི་ཐུབ། འོན་ཀྱང་ཨ་ཅེ་རུན་ཡེ་མདུན་དུ་སོང་ནས་སྔར་བཞིན་དགོད་བཞིན་དུ“ངས་རུན་ཧྲེང་ལ་ཁྱོད་ངའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་དུ་བོད་དུ་བཅུག་ཡོད།ཁྱོད་ཅིའི་ཕྱིར་མི་ཡོང་བ་ཡིན”ཞེས་བཤད།“ང་...”ཁོས་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_28",
+    "span1_text": "ཨ་ཕ་གཉིས་པ་",
+    "span1_index": 8,
+    "span2_text": "ཁོ་",
+    "span2_index": 21,
+    "text": "ཧྲའོ་ཕིང་དང་རུན་ཡེ་གཉིས་ཀྱིས་ཁོ་མོའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་གྱི་སྒོ་རའི་ནང་དུ་འཛུལ་དུས།རུན་ཧྲེང་ཡོང་ནས་ཁོ་ལ་བཤད་རྒྱུར།ང་ཉལ་ཁང་དུ་སོང་ནས་ཁྱོད་ཐེངས་གཉིས་བཙལ་སོང་།ཁྱོད་གང་དུ་བུད་སོང་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_30",
+    "span1_text": "སྨན་པ་ཞུས་",
+    "span1_index": 2,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "སྨན་པ་ཞུས་ཀྱིས་སྐད་ཆེན་པོས་“ཨ་ཕ།ཁྱོད་ཀྱིས་སྲིང་ལྭ་བ་མི་གྱོན་དོན་ཅི་ཡིན།ཆམ་ནད་ལ་གཟབ་གཟབ་བྱེད་དགོས”ཞེས་སྐད་བརྒྱབས།ཡང་རྒན་རྒོན་ཞིག་གིས་“ང་གྲང་མེད།...”ཅེས་ལན་བརྒྱབ།ཧྲའོ་ཕིན་གྱིས་ཚོད་དཔག་བྱས་ན་དེ་ནི་ཁོས་ད་གིན་མེ་ཏོག་ལྡེབས་ཀྱི་མེ་ཏོག་སྟེགས་བུའི་འགྲམ་དུ་མཐོང་བའི་ས་ཕོག་པའི་རྒན་རྒོན་དེ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_35",
+    "span1_text": "ཧྲའོ་ཕིང་",
+    "span1_index": 28,
+    "span2_text": "མོ་",
+    "span2_index": 63,
+    "text": "ཁོ་ཚོ་རྫོང་གསར་བརྗེའི་ཨུ་ལྷན་གྱི་སྒོ་ཁུག་ཏུ་སླེབས་སྐབས།ཁྱིམ་དུ་ལོག་པའི་ཀྲུའུ་རེན་ཐེན་དང་འཕྲད་བྱུང་། ཧྲའོ་ཕིང་གིས་རུན་ཡེ་ཁོ་མོའི་ཨ་ཕ་གཉིས་པ་ངོ་ཤེས་སྟེ།ཁོ་སྐབས་འགར་འགྲོ་འོང་བྱས་ནས་རྒྱུན་དུ་གྲོང་ཚོའི་ནང་དུ་ཡོང་གི་ཡོད། ཁྱོད་ཀྱིས་ད་དུང་ཟ་མ་ཟོས་མེད།རུན་ཡེ་ཡིས་ཁོ་མོའི་ཨ་ཕ་གཉིས་པ་ལ་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_39",
+    "span1_text": "ཉལ་ཁང་",
+    "span1_index": 28,
+    "span2_text": "དེ།",
+    "span2_index": 39,
+    "text": "ཁོས་སྔོན་ལ་སྲང་ལམ་དུ་སོང་ནས་རྨོ་བོར་སྨན་ཉོས་རྗེས།གྲོ་ཕྱེ་ཁུག་མ་ཆུང་ཆུང་དེ་ཅིན་པོའི་ཉལ་ཁང་དུ་བླངས། མི་གཉིས་ཀྱིས་རོགས་རམ་བྱས་ནས་དེ་རླངས་འཁོར་རྒྱབ་ཀྱི་འདུག་སྟེགས་ཀྱི་འགྲམ་དུ་བསྡམས་རྗེས།མཉམ་དུ་ཁྱིམ་དུ་འགྲོ་རྩིས་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_40",
+    "span1_text": "ཧོ་ཧྥུང་དབྱིན་",
+    "span1_index": 11,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 40,
+    "text": "སྐབས་དེར་ཧྲོང་ཧྲུའེ་གྲོང་ཚོའི་བུད་མེད་ཀྲུའུ་རེན་ཧོ་ཧྥེང་དབྱིན་གྱིས་གྲོང་ཚོ་དེ་རང་དང་གྲོང་ཚོ་གཞན་གྱི“ལྕགས་བུ་མོ་”ཁག་གཅིག་ཁྲིད་ནས་བྲེལ་འཚུབ་ངང་ཚོགས་ཁང་བཀོད་སྒྲིག་བྱེད་བཞིན་ཡོད། ཁོ་མོ་ཚོས་ཅོག་ཙེ་སློབ་ཁང་ནང་ནས་གཉིས་ཡར་ཁྱེར་ཡོང་།མཉམ་དུ་འདུས་ནས་མི་ཚོགས་ཀྱི་མདུན་དུ་བཞག་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_42",
+    "span1_text": "ཧོ་ནན་གྱི་མི་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 32,
+    "text": "ཧོ་ནན་གྱི་མིས་རང་ཉིད་རྒྱུན་དུ་གང་སར་འཁྱམས་འགྲོ་བྱེད་ཀྱི་ཡོད་པས།ཕྱི་ལ་འགྲོ་མཁན་ཚང་མར་གདུང་སེམས་མཉམ་སྐྱེ་བྱེད་ཀྱི་ཡོད། ཁོ་ཚོས་དཀའ་ངལ་ཡོད་པའི་འགྲོ་སྐྱོད་པར་རོགས་རམ་བྱེད་འདོད་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_46",
+    "span1_text": "ང་དང་པའེ་མིང་ཁྲོན་།",
+    "span1_index": 29,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 54,
+    "text": "ཕུ་བོ་ཧྲའོ་ཨན་ལགས།ཁྱོད་ཀྱིས་ཐད་ཀར་ངའི་ཨ་ཕ་གཉིས་པའི་འཕྲིན་ཡིག་ང་ལ་བྱིན།ང་སང་ཉིན་ཁྱོད་དང་མཉམ་དུ་ཧྲི་ཀེ་དུས་ཆེན་ལ་འགྲོ་དགོས། ང་དང་ཨ་ཁུ་པའེ་མིང་ཁྲོན།ཞུས་ཀྲི་ཀུང་བཅས་ཚང་མ་རྒྱུས་མངའ་ཆེན་པོ་ཡོད།སྐབས་དེར་ང་ལ་འཕྲིན་ཡིག་ཁོ་ཚོར་སྤྲོད་དུ་འཇུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_49",
+    "span1_text": "སྲུ་མོ་",
+    "span1_index": 28,
+    "span2_text": "ཁོ་",
+    "span2_index": 34,
+    "text": "ལོས་ཡིན།ཕུལ་དུ་བྱུང་བའི་མི་ལ་རྟག་ཏུ་བཀྲ་མི་ཤིས་པའི་ལས་དབང་འཕྲད་ཀྱི་ཡོད། ཕུ་བོ་ཏག་ཏག་འདི་འདྲ་རེད། ལོ་གཉིས་ཀྱི་སྔོན་དུ།གཅེན་མོ་ནད་ཀྱིས་ཤི་བ་དང་།ཁོ་གཅིག་པུས་ལོ་ལྔ་ལ་སླེབས་པའི་ལིན་ལིན་ཁྲིད་ནས་འཚོ་བ་རོལ་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_50",
+    "span1_text": "ཀའོ་ཀོང་ཧོའུ་",
+    "span1_index": 5,
+    "span2_text": "མོ་",
+    "span2_index": 84,
+    "text": "མོས་ཀའོ་ཀོང་ཧོའུ་ལ་སྙིང་རྗེ་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། བྱང་སེམས་བཟང་པོ་འདིས་ཉིན་གང་བོར་སློབ་གྲྭའི་དོན་དག་ལ་ངལ་རྩོལ་བྱེད་ཀྱི་ཡོད་པ་མ་ཟད།ད་དུང་ཁྱིམ་ལས་ཀྱང་བྱེད་དགོས།ལི་དབྱིན་གྱི་འུར་ཟ་དང་དམོད་ཚིག་ལ་ཉན་དགོས། ལའོ་ཀའོ་ཡིས་ཁོ་མོར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད།རྟག་ཏུ་བཅད་པའི་མེ་ཤིང་ཁོ་མོའི་སྒོའི་མདུན་དུ་སྤུངས་ནས་ཁོ་མོར་འབྲུ་རིགས་ཉོ་བ་དང་།ཕྱེ་བརྡར་བ།ཆུ་འཁུལ་བ་སོགས་ལ་རོགས་རམ་བྱེད་ཀྱི་ཡོད།དེ་དག་ཚང་མས་ཁོ་མོའི་སེམས་ལ་སེམས་འགུལ་ཆེན་པོ་ཐེབས་ཀྱི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_53",
+    "span1_text": "ལི་དབྱིན་",
+    "span1_index": 14,
+    "span2_text": "ཁོ་",
+    "span2_index": 57,
+    "text": "ཅིའི་ཕྱིར་ཡིན་པ་མི་ཤེས།ཉེ་ལམ་ནས་བཟུང་མཛེས་མ་ལི་དབྱིན་གྱིས་ཁོ་མོའི་ཁྱོ་གར་ཇེ་ཆེར་འགྲོ་བཞིན་ཡོད། མོས་ཉིན་གང་བོར་གཞོང་གཏོར་ནས་ཕོར་པ་གཏོར་ནས་གཤེ་གཤེ་བྱས། སྙིང་རྗེ་བའི་ལའོ་ཀའོ་ཡིས་མགོ་སྔར་ལས་དམའ་རུ་སྦས་ཡོད།ཕལ་ཆེར་ཁོས་མི་མཐོང་དཀའ་བའི་བྱ་བ་ངན་པ་ཅི་ཞིག་བསྒྲུབས་ཡོད་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_57",
+    "span1_text": "ལིང་ལིང་",
+    "span1_index": 60,
+    "span2_text": "མོ་",
+    "span2_index": 86,
+    "text": "དུས་ཡུན་ངེས་ཅན་ཞིག་འགོར་རྗེས།ལུའུ་རུའོ་ཆིན་གྱིས་ཁོ་མོ་གཟའ་ཉི་མར་འགའ་ལ་རྫོང་སྒོར་ལོག་མེད་པ་ཤེས། ཅིའི་ཕྱིར་ཡིན་པ་མི་ཤེས།ཕུ་བོ་ཡང་ཉེ་ལམ་མོའི་འདིར་མ་ཡོང་། མོའི་སེམས་ལ་ཛ་དྲག་ཏུ་གྱུར།ཕུ་བོ་སམ་ཡང་ན་ལིན་ལིན་ལ་དོན་དག་ཅི་ཞིག་བྱུང་བ་ཡིན་ནམ། ཁོ་མོས་གློ་བུར་དུ་ཁོ་མོའི་གཉེན་ཉེ་དེ་གཉིས་ཡོང་བ་དྲན་ཞིང་།ཁོ་མོ་མྱུར་དུ་རྫོང་གྲོང་དུ་ལོག་ནས་བལྟ་རུ་འགྲོ་དགོས་པར་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_58",
+    "span1_text": "ཕུ་བོ་",
+    "span1_index": 26,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ཁོ་མོ་ནི་སྤྱང་གྲུང་ལྡན་པའི་བུ་མོ་ཞིག་རེད།སྐབས་དེར་མོས་གོ་སྐབས་དང་བསྟུན་ནས་དམག་དཔོན་ཁོ་མོའི་དོང་ནང་དུ་ཁྱེར་ནས་ཕུ་བོ་ཡིས་ཁོ་མོར་སྤྲད་པའི་སིལ་ཏོག་བླངས་ནས་བྱིས་པའི་ལག་ཏུ་བཅུག་སྟེ།ཁོ་ལ་“ཁྱོད་ཀྱིས་ཟ་དགོས་ལ།ཨ་ཕར་ཡང་ཟ་དགོས།ཆོག་གམ”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_61",
+    "span1_text": "རྣམ་འགྱུར་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 30,
+    "text": "མོས་རང་ཤུགས་ཀྱིས་དུག་གིས་དུག་ལ་རྒོལ་བ་དང་།ཐད་ཀར་རོལ་མྱོང་གི་རྣམ་འགྱུར་ཐོག་ནས་ཁོ་མོ་སུན་པའི་ཆར་རླུང་གི་སྒྲ་ཚོར་བཞིན་ཡོད། མོས་དེ་ནི་ཡིད་དབང་འཕྲོག་པའི་མཚན་མོའི་རོལ་དབྱངས་ཆུང་ཆུང་དེ་དག་དང་།ཡང་ན་རིམ་པ་རྙོག་འཛིང་ཆེ་བའི་མཉམ་སྒྲོག་རོལ་དབྱངས་དེ་དག་ལ་བསམ་ཚོད་བྱས་ཏེ།“བཟི་བའི”ཁྲོད་གཉིད་པའི་རེ་ངན་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_67",
+    "span1_text": "ནུ་མོ་",
+    "span1_index": 34,
+    "span2_text": "མོ་",
+    "span2_index": 45,
+    "text": "ཕུ་བོ་མགོ་བརྒྱབ། “ང་ལོ་འདི་དག་རིང་དཀའ་སྡུག་མྱོང་ཡོད།ད་ལྟ་ལིན་ལིན་ཡང་ཅུང་ཆེ་རུ་ཕྱིན་པས།དེའི་ཕྱིར།”ཁོས་ནུ་མོ་ལ་བལྟས་ནས་གདོང་ལ་ཁོ་མོར་བསམ་ཤེས་བྱེད་དགོས་པའི་རྣམ་འགྱུར་ཞིག་མངོན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_68",
+    "span1_text": "ལུའུ་རུའོ་ཆིན་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 55,
+    "text": "ལུའུ་རུའོ་ཆིན་གྱིས་སྐད་ཆ་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས། “དངོས་གནས་བསམ་ཡུལ་ལས་འདས་པ་རེད……”མོས་མུ་མཐུད་དུ་བཤད་མི་ཐུབ། ངས་ཀྱང་བསམ་ཡུལ་ལས་འདས་པ་ཡིན།ཕུ་བོ་ཡིས་ཀྱང་མུ་མཐུད་དུ་བཤད་མི་ཐུབ། “ཁྱོད་ཀྱིས་དགེ་རྒན་ཀའོ་ཡིས་ཅི་འདྲ་ཞིག་ཡོད་པ་མ་ཤེས།”",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_69",
+    "span1_text": "ཕུ་བོ་",
+    "span1_index": 36,
+    "span2_text": "ཁོ་",
+    "span2_index": 55,
+    "text": "ལུའུ་རུའོ་ཆིན་གྱིས་སྐད་ཆ་ཅི་ཞིག་བཤད་རྒྱུ་མི་ཤེས། “དངོས་གནས་བསམ་ཡུལ་ལས་འདས་པ་རེད……”མོས་མུ་མཐུད་དུ་བཤད་མི་ཐུབ། ངས་ཀྱང་བསམ་ཡུལ་ལས་འདས་པ་ཡིན།ཕུ་བོ་ཡིས་ཀྱང་མུ་མཐུད་དུ་བཤད་མི་ཐུབ། “ཁྱོད་ཀྱིས་དགེ་རྒན་ཀའོ་ཡིས་ཅི་འདྲ་ཞིག་ཡོད་པ་མ་ཤེས།”",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_74",
+    "span1_text": "སློབ་གྲྭའི་སློབ་དེབ་",
+    "span1_index": 38,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "འོན་ཀྱང་མིས་ཏག་ཏག་སྐབས་དེར་གཞི་ནས་འཇིག་རྟེན་དང་མི་ཚེ་ངོ་མ་ཤེས་རྟོགས་བྱེད་འགོ་བརྩམས་ཡོད་ཀྱང་སྲིད། འཚོ་བའི་སློབ་དེབ་ནི་སློབ་གྲྭའི་སློབ་དེབ་དང་འདྲ་བར་ཁེར་རྐྱང་གཏན་ནས་མེད།དེས་མི་རྣམས་ལ་འཚར་ལོངས་ཡོང་བར་ཁྲིད་པའི་བྱེད་སྟངས་ནི་རྒྱུན་དུ་གདུག་རྩུབ་ཆེ་བ་ཞིག་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_75",
+    "span1_text": "བུ་མོ་",
+    "span1_index": 45,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 69,
+    "text": "ཁོ་ནི་གཉེན་སྒྲིག་ཕྱི་བའི་དཔེ་བཟང་བྱེད་པ་མ་ཡིན་པར།དེའི་ཐད་ཁོ་ལ་ཐ་ཤལ་གྱི་ཚོར་བ་ཡོད།ཁོའི་སྐྱུག་བྲོ་བ་དང་།ཁོའི་ཡིད་མུག་པའི་གཤིས་ཀ་བཅས་ཀྱི་དབང་གིས་བུ་མོ་མང་པོ་ཞིག་གིས་ཁོ་ལ་དགའ་པོ་བྱེད་ཀྱི་མེད། ཁོ་ཡང་སྔོན་ཆད་ལྐོག་ཏུ་བུ་མོ་གཅིག་གཉིས་ལ་དགའ་མྱོང་། འོན་ཀྱང་ཁོང་གིས་ཁོང་ཚོ་ནི་ཁོང་གི་ངོས་ནས་བཤད་ན།ཚང་མ་སྤྲིན་སྨུག་ཁྲོད་ཀྱི་ལྷ་མོ་ཡིན་པ་ཤེས།བསམ་བློ་གཏོང་ཐུབ་ཀྱང་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_79",
+    "span1_text": "རྫོང་གྲོང་ནང་གི་ཕྲུ་གུ་",
+    "span1_index": 41,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 71,
+    "text": "ཀའོ་མའོ་དང་ཧྲེ་ཁུ་གྲོང་ཚོའི་མི་སེར་ཚང་མས་སྐུ་ཞབས་དཀའ་སྡུག་འདིར་སེམས་ཁུར་ཆེན་པོ་བྱེད་ཀྱི་ཡོད། ཁོང་གིས་ཉེ་བའི་ལོ་འགའི་རིང་ལ་རི་གྲོང་ཆུང་ཆུང་གཉིས་ཀྱི་ཕྲུ་གུ་རེ་རེ་བཞིན་རྫོང་གྲོང་གི་ཕྲུ་གུ་ལས་སད་པར་སྦྱོང་བརྡར་བྱས། བྱིས་པ་རྣམས་སློབ་ཆུང་མཐར་ཕྱིན་རྗེས།སློབ་འབྲིང་ལ་རྒྱུགས་ལེན་མི་ཐུབ་མཁན་ཕལ་ཆེར་མེད། ཁོ་ཚོས་ཁོ་ལ་ཐུགས་རྗེ་ཆེ་ཞུས་པ་དང་།རྒྱུན་དུ་རང་ཉིད་ཀྱི་བྱིས་པ་དགེ་རྒན་ཀའོ་དང་ལུའུ་དགེ་རྒན་ལ་ཟ་འཐུང་དུ་འཇུག་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_82",
+    "span1_text": "དགེ་རྒན་ཀའོ་",
+    "span1_index": 14,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 33,
+    "text": "ལའོ་ཀྲང་ཁྱིམ་ཚང་ཧ་ཅང་བྱང་སེམས་ལྡན་པ་དང་།ཚང་མས་དགེ་རྒན་ཀའོ་ཡི་སྒོར་མོ་ལེན་ག་འདྲ་བྱེད་ཐུབ་ཟེར། ཁོ་ཁང་པའི་ནང་དུ་བསྡད་རུང་། བྱིས་པ་བཞག་ན།ཁོ་ཚོས་ནུས་ཤུགས་ཡོད་རྒུས་བདག་སྐྱོང་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_91",
+    "span1_text": "ཆུ་བོ་ཆུང་ཆུང་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_92",
+    "span1_text": "གླུ་",
+    "span1_index": 23,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_93",
+    "span1_text": "མཁའ་རླུང་",
+    "span1_index": 37,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_95",
+    "span1_text": "སྡུག་སྡུག་",
+    "span1_index": 51,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_96",
+    "span1_text": "སློབ་ཆུང་གི་སློབ་ཁྲིད་བཞུགས་མོལ་ཚོགས་འདུ་",
+    "span1_index": 16,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 47,
+    "text": "ཁོང་གི་རྩོམ་ཡིག་དེ་ནི་དོན་དངོས་ཐོག་ཁོང་གིས་རྫོང་གི་སློབ་ཆུང་ཞིག་གི་སློབ་ཁྲིད་བཞུགས་མོལ་ཚོགས་འདུའི་ཐོག་གཏམ་བཤད་བྱས་པ་ཞིག་རེད།ཕྱིས་སུ་རྫོང་སློབ་ཞིབ་ཁང་གི་རེ་བ་ལྟར་རྩོམ་ཡིག་ཏུ་ལེགས་སྒྲིག་བྱས་ནས་ཁོང་ཚོས་སྣུམ་པར་བྱས་པའི《སློབ་ཁྲིད་འཕྲིན་གཏོང་》ཐོག་བཀོད་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_101",
+    "span1_text": "སྒམ་",
+    "span1_index": 5,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_102",
+    "span1_text": "ཟངས་གཞོང་",
+    "span1_index": 44,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_103",
+    "span1_text": "རྗེས་རྒྱུག་",
+    "span1_index": 25,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_105",
+    "span1_text": "མགོ་",
+    "span1_index": 40,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_107",
+    "span1_text": "ཀྲེ་མོན་",
+    "span1_index": 2,
+    "span2_text": "དེ་དག་",
+    "span2_index": 23,
+    "text": "གྲོང་ཚོའི་སྒོ་འགྲམ་དུ་སླེབས་སྐབས།ཁྱི་ངན་པ་ཁ་ཤས་ཀྱིས་སྨྱོ་ཧམ་བྱས་ཏེ།དོ་དམ་པས་ཁོ་མོར་“ཁོ་ཚོར་ཁྱོད་ཀྱི་དྲི་མ་ངོ་ཤེས་སུ་འཇུག་དགོས་”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_109",
+    "span1_text": "དོ་དམ་པ་",
+    "span1_index": 15,
+    "span2_text": "དེ་དག་",
+    "span2_index": 23,
+    "text": "གྲོང་ཚོའི་སྒོ་འགྲམ་དུ་སླེབས་སྐབས།ཁྱི་ངན་པ་ཁ་ཤས་ཀྱིས་སྨྱོ་ཧམ་བྱས་ཏེ།དོ་དམ་པས་ཁོ་མོར་“ཁོ་ཚོར་ཁྱོད་ཀྱི་དྲི་མ་ངོ་ཤེས་སུ་འཇུག་དགོས་”ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_110",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 10,
+    "text": "ཨ་མས་ང་ལ་རྨིག་ཆུང་ཆུང་འདིས་ཁོ་མོས་ཅི་ཞིག་བཤད་པ་ཡིན་ཞེས་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_113",
+    "span1_text": "བདག་པོ་",
+    "span1_index": 5,
+    "span2_text": "མོ་",
+    "span2_index": 27,
+    "text": "ནུ་མ་གྱིས“བདག་པོ་ལགས།ཐེངས་འདིར་ང་ལ་བཟོད་མི་ཐུབ”ཅེས་བཤད་རྒྱུར།ཨ་མས་ཁོ་མོ་རང་གིས་རང་གི་གདན་ལ་རྡུང་དུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_117",
+    "span1_text": "ཕ་མ་",
+    "span1_index": 21,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 34,
+    "text": "ཐོག་ཁང་འོག་ཏུ་སླེབས་མ་ཐག་ཁྱིམ་གྱི་བྲན་གཡོག་གི་ཕྲུ་གུ་འགའ་ཡིས་ང་བསྐོར་བྱས། ཕ་མ་གཉིས་ཀྱིས་རྒྱུན་དུ་ང་ལ་ལྟོས།ཁོ་ཚོ་ཚང་མ་ཁྱོད་ཀྱི་ཕྱུགས་རིགས་ཡིན་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_118",
+    "span1_text": "སྒོ་སྲུང་ཁྱི་",
+    "span1_index": 2,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 63,
+    "text": "སྒོ་སྲུང་ཁྱི་ཁྱུ་ཞིག་ལ་སྐྲག་ནས་སྨྱོ་ཧ་ཆེན་པོས་སྐད་བརྒྱབ་སྟེ།ཞོགས་པ་འདིར་སྤྲོ་སྣང་གི་རྣམ་པ་བསྣན་ཡོད། ཁ་བ་ཆེན་པོ་འདུག ཕྱི་རོལ་གྱི་གནམ་ས་འོད་གསལ་ཞིང་ཡངས་པོ། ངའི་བྲན་གཡོག་རྣམས་ཀྱིས་ཀྱང་དགའ་སྤྲོའི་ངང་སྐད་ཆེན་པོས་འུར་སྒྲ་བསྒྲགས། ཁོ་ཚོས་རྐང་རྗེན་གྱིས་གངས་བསགས་པ་རེད།འཁྱག་པའི་རྡོ་སྲ་མོ་འགའ་བླངས་ནས་ཕོར་བའི་ནང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_119",
+    "span1_text": "བྲན་གཡོག་ཚོ།",
+    "span1_index": 51,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 63,
+    "text": "སྒོ་སྲུང་ཁྱི་ཁྱུ་ཞིག་ལ་སྐྲག་ནས་སྨྱོ་ཧ་ཆེན་པོས་སྐད་བརྒྱབ་སྟེ།ཞོགས་པ་འདིར་སྤྲོ་སྣང་གི་རྣམ་པ་བསྣན་ཡོད། ཁ་བ་ཆེན་པོ་འདུག ཕྱི་རོལ་གྱི་གནམ་ས་འོད་གསལ་ཞིང་ཡངས་པོ། ངའི་བྲན་གཡོག་རྣམས་ཀྱིས་ཀྱང་དགའ་སྤྲོའི་ངང་སྐད་ཆེན་པོས་འུར་སྒྲ་བསྒྲགས། ཁོ་ཚོས་རྐང་རྗེན་གྱིས་གངས་བསགས་པ་རེད།འཁྱག་པའི་རྡོ་སྲ་མོ་འགའ་བླངས་ནས་ཕོར་བའི་ནང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_125",
+    "span1_text": "བུད་མེད་ཐུའུ་སི་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 31,
+    "text": "བུད་མེད་ཐུའུ་སིས་རྐང་པ་ཡར་བཀྱག་མ་ཐག་སྔོན་ལ་རྟ་རྒྱབ་ནས་མར་བསྡད། དེ་ནས་རྟ་ནག་པོའི་སྟེང་གི་མེ་མདའ་ཡོད་པའི་གྱོན་གོས་དམར་པོ་ཅན་གྱི་གཡོག་མོ་གཉིས་ཡིན། ཁོ་མོ་ཚོ་གཉིས་ཀྱིས་རྟ་དཀར་པོའི་རྐང་ཐག་བཟུང་བ་དང་།གཅིག་གིས་ས་ལ་པུས་ཙོག་བྱས། རྟའི་རྒྱབ་ཐོག་གི་བུ་མོ་དེས་མགོ་རས་ཡར་བསྒྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_127",
+    "span1_text": "སྲོག་རྒོན་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 62,
+    "text": "སྲན་དཔོན་ཆེན་པོས་ཐུའུ་སིའི་ལྕམ་མོ་ལ་ཅི་ཞིག་བཤད་འདོད་མོད།འོན་ཀྱང་ཁོས་ད་དུང་བསམ་བློ་མ་བཏང་རྗེས།ཐུའུ་སིས་“ལྡབ་གཉིས་ཡིན་ནམ།ཁྱོད་ཀྱིས་ལྡབ་གཉིས་ཡིན་ནམ།ལྡབ་གཉིས་ཀྱི་ལྡབ་གཉིས་ནི་མི་འདི་དག་ལ་སྟོང་པ་དང་མི་མཚུངས།ངས་ཁོ་ཚོས་རིན་གོང་ལྡབ་བཅུ་སྤྲོད་འདོད་པའི་བར་སྒུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_130",
+    "span1_text": "སྐུ་ཞབས་",
+    "span1_index": 21,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 77,
+    "text": "ངའི་ལས་འོག་རྣམས་ལ་མེ་མདའ་འཁྱེར་ཡོད་པའི་མིས་བལྟས་ཡོང་གི་རེད། ལྟོས།འདི་ནི་བདག་དང་གཡོག་པ་གཉིས་ཀྱི་མི་འདྲ་ས་རེད། གནས་ཚུལ་འདི་འདྲའི་འོག་ཏུ།སྲོག་པོ་ཡང་བུད་མེད་མཛེས་སྡུག་ལྡན་པའི་ཁྱུ་ཞིག་གིས་བསྐོར་ཡོད། སྙིང་རྗེ་བའི་གཡོག་པ་དེ་དག་གི་འགྲམ་དུ་སོང་ན།ངོ་གདོང་ལ་བལྟས་ནས་ངས་ཁོ་ཚོ་ལྟོགས་ཡོད་པ་ཤེས་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_132",
+    "span1_text": "སྲོག་དཔོན་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་",
+    "span2_index": 41,
+    "text": "སྒྲོལ་མའི་མིག་ཆུ་ད་གཟོད་གཙང་མར་ཕྱིས་ནས་བཞུར་སོང་།སྐུ་ཞབས་སྲོག་པ་ལགས།དངུལ་བཟོ་པ་དེ་རྒྱ་མི་དམར་པོའི་ཕྱོགས་སུ་སོང་ཟིན། ངས་ཨེར་དབྱི་བོས་ནས་མི་འགའ་ཁྲིད་ནས་མའེ་ཆི་ཀོན་གྲོང་དུ་ལོག་ནས་ཐུའུ་སི་ཅི་འདྲ་ཡོད་པར་བལྟ་རུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_136",
+    "span1_text": "ལྷིང་འཇགས་",
+    "span1_index": 20,
+    "span2_text": "དེ།",
+    "span2_index": 29,
+    "text": "མི་མང་པོ་ཞིག་མཉམ་དུ་འཛོམས་ནས་གྲུབ་པའི་ཁུ་སིམ་མིན་པ་དེ་ནི་སྤྱིར་བཏང་གི་ཁུ་སིམ་མིན་པ་ཞིག་མ་རེད།མི་རྣམས་ཀྱིས་དེའི་གནོན་ཤུགས་ཧ་ཅང་ཆེན་པོ་ཚོར་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_138",
+    "span1_text": "ཁ་",
+    "span1_index": 21,
+    "span2_text": "དེ།",
+    "span2_index": 40,
+    "text": "གྲིའི་འོད་འོད་འཚེར་རྗེས།ལྕེ་དེ་སྐྲག་པའི་ཙི་གུ་ཞིག་དང་འདྲ་བར་ཉེས་ཆད་ཕོག་མཁན་གྱི་ཁ་དང་ཉེས་ཆད་ལག་བསྟར་བྱེད་མཁན་གྱི་ལག་པའི་བར་ནས་ལྡིང་ཡོང་གི་ཡོད།དེ་ལ་བལྟས་ན།དེ་ནི་གནམ་ལ་འགྲོ་འདོད་ཡོད་མོད།འོན་ཀྱང་དེ་ཡར་ཅུང་ཙམ་མ་གཏོགས་མཆོང་མ་ཐུབ་པར་མགོ་སྟེང་གི་མཐོ་ཚད་ལ་མ་སླེབས་པར་མར་ལྷུང་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_139",
+    "span1_text": "ལག་པ་",
+    "span1_index": 28,
+    "span2_text": "དེ།",
+    "span2_index": 40,
+    "text": "གྲིའི་འོད་འོད་འཚེར་རྗེས།ལྕེ་དེ་སྐྲག་པའི་ཙི་གུ་ཞིག་དང་འདྲ་བར་ཉེས་ཆད་ཕོག་མཁན་གྱི་ཁ་དང་ཉེས་ཆད་ལག་བསྟར་བྱེད་མཁན་གྱི་ལག་པའི་བར་ནས་ལྡིང་ཡོང་གི་ཡོད།དེ་ལ་བལྟས་ན།དེ་ནི་གནམ་ལ་འགྲོ་འདོད་ཡོད་མོད།འོན་ཀྱང་དེ་ཡར་ཅུང་ཙམ་མ་གཏོགས་མཆོང་མ་ཐུབ་པར་མགོ་སྟེང་གི་མཐོ་ཚད་ལ་མ་སླེབས་པར་མར་ལྷུང་གི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_144",
+    "span1_text": "ནུ་བོ་",
+    "span1_index": 35,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ངའི་གློ་བུར་དུ་དྲན་དོན།ལྷོ་ཕྱོགས་སུ་དམག་འཐབ་བྱེད་བཞིན་པའི་ཕུ་བོ་ནི་དུས་ཡུན་འདི་འདྲ་རིང་ལ་བུ་མོ་ལ་མི་ཐུག་མི་སྲིད། གལ་ཏེ་མི་ཞིག་གིས་ཁོ་ལ་ནུ་བོ་དང་བུ་མོ་ཞིག་གཉིས་ཀྱིས་ཉིན་གཉིས་གསུམ་ལ་ཉལ་རྗེས་ད་གཟོད་དོན་དག་དེ་དྲན་ན།ཁོས་གད་མོ་ཆེན་པོས་“ངོ་མ་གླེན་པ་ཞིག་རེད”ཅེས་བཤད་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_149",
+    "span1_text": "ལྷམ་བཟོ་པ་",
+    "span1_index": 22,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དོ་དམ་པའི་བཀའ་ནི་ཁ་གཅིག་ནས་ལྷམ་བཟོ་པའི་སར་བསླེབས། ལྷམ་བཟོ་པས་ལྷམ་གསར་རྐྱང་ཞིག་བཟུང་ནས་བཟོ་ཁང་ནས་ཕྱིར་བརྒྱུར། ཁོའི་གདོང་གི་འཛུམ་མདངས་ནི་ལྷག་བསམ་ཡིན། འདི་ཁྲོམ་ར་དུ་བཏོད་རྗེས།ཁོས་སྒེར་གྱི་ལས་ཀ་མི་ཉུང་བ་ཞིག་བསྒྲུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_150",
+    "span1_text": "ལྷམ་ལྷམ་",
+    "span1_index": 31,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དོ་དམ་པའི་བཀའ་ནི་ཁ་གཅིག་ནས་ལྷམ་བཟོ་པའི་སར་བསླེབས། ལྷམ་བཟོ་པས་ལྷམ་གསར་རྐྱང་ཞིག་བཟུང་ནས་བཟོ་ཁང་ནས་ཕྱིར་བརྒྱུར། ཁོའི་གདོང་གི་འཛུམ་མདངས་ནི་ལྷག་བསམ་ཡིན། འདི་ཁྲོམ་ར་དུ་བཏོད་རྗེས།ཁོས་སྒེར་གྱི་ལས་ཀ་མི་ཉུང་བ་ཞིག་བསྒྲུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_152",
+    "span1_text": "རྟ་བཟང་པོ་",
+    "span1_index": 9,
+    "span2_text": "མོ་",
+    "span2_index": 28,
+    "text": "ཐ་ནའི་རྟ་ཞོན་ཡང་རྟ་བཟང་པོ་ཞིག་ཡིན།ངའི་རྗེས་སུ་རྗེས་སུ་འབྲངས་ནས་རི་བོའི་སྟེང་དུ་བརྒྱུར། ཧྥེང་གིས་ཁོ་མོའི་དགོད་སྒྲར་བསྐྱེར།ཧ་ཧ།དཔྱིད་དུས་ཀྱི་དུས་སུ།སྒོ་ང་ཐོན་གྲབས་ཡོད་པའི་ཁྲ་ཝུའུ་ནི་རྩྭ་ཚོའི་ནང་དུ་འདི་ལྟར་ངུ་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_153",
+    "span1_text": "རི་བོ་",
+    "span1_index": 20,
+    "span2_text": "མོ་",
+    "span2_index": 28,
+    "text": "ཐ་ནའི་རྟ་ཞོན་ཡང་རྟ་བཟང་པོ་ཞིག་ཡིན།ངའི་རྗེས་སུ་རྗེས་སུ་འབྲངས་ནས་རི་བོའི་སྟེང་དུ་བརྒྱུར། ཧྥེང་གིས་ཁོ་མོའི་དགོད་སྒྲར་བསྐྱེར།ཧ་ཧ།དཔྱིད་དུས་ཀྱི་དུས་སུ།སྒོ་ང་ཐོན་གྲབས་ཡོད་པའི་ཁྲ་ཝུའུ་ནི་རྩྭ་ཚོའི་ནང་དུ་འདི་ལྟར་ངུ་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_161",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 17,
+    "text": "ཨ་ཁུ་ཡིས་བླ་མ་འགའ་ཞིག་ཁྲིད་ནས་རི་ལས་བབས་ནས་ཁོ་ཚོས་འབྲུག་མགོ་ཐོག་ཏུ་ལྷུང་ཟེར།དེ་ལྟར་མ་བྱས་ན་འབྲུག་ངན་པ་འདི་འཕུར་ན་འཇིག་རྟེན་སྟེང་དུ་གོད་ཆག་ཅིག་འབྱུང་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_164",
+    "span1_text": "དངོས་པོ་",
+    "span1_index": 12,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 29,
+    "text": "ང་ཚོས་གྲོང་ཚོའི་ནང་གི་མིས་ཕུལ་བའི་དངོས་པོ་ལོངས་སྤྱོད་བྱེད་མི་ཐུབ་པས།ཁོ་ཚོར་ཅི་ཡང་མི་ཤེས་པའི་ཚོར་སྣང་སྐྱེས། ཨ་ཁུ་ཡིས་ཁོ་ཚོའི་ཚབ་བྱས་ནས་ཁྱོད་གཉིས་ཀྱིས་ཅི་ཞིག་ལེན་དགོས་སམ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_171",
+    "span1_text": "ལྕགས་བཟོ་པ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 24,
+    "text": "ལྕགས་མག་གི་ཐོ་མགོ་འཁྱོག་པས།ལྕགས་ཤུན་དམར་པོ་ཞིག་ལིའུ་ཅིན་ཙང་གི་མིག་གཡོན་པའི་ནང་དུ་འཕྱུར། ཁོས་སྐད་ཡ་མཚན་ཞིག་བརྒྱབ་རྗེས།ད་གཟོད་ལག་པས་མིག་བཀབ་ནས་དྲང་མོར་ས་ལ་ལྷུངས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_173",
+    "span1_text": "ལིའུ་ཅིན་ཙང་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 46,
+    "text": "ལིའུ་ཅིན་ཙང་གིས་འགྱེལ་བའི་ལྕགས་བཟོ་བ་སྲུང་བཞིན་ཡོད།ང་གྲོང་དུ་ཐེངས་གཅིག་ལོག་ནས་སྨན་བཅོས་ཀྱི་ཐབས་ཤེས་ཅུང་ཙམ་ཡོད་པའི་ཨ་ཁུ་ཕྱིར་ཡོང་ནས་ཁོང་གི་ནད་སྨན་བཅོས་བྱེད་དུ་བཅུག ང་ཁྱིམ་དུ་ལོག་སྐབས།ཧན་ཡུའེ་ད་དུང་ལས་ཚོགས་ལ་ཞུགས་མེད། མོ་ད་དུང་ཧ་ཅང་ལྷིང་འཇགས་ཀྱི་རྣམ་པ་ཞིག་ཡིན།ང་ཉིན་འདི་དག་གི་རིང་ལ་ས་ཆ་གང་དུ་ཕྱིན་པ་མི་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_177",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 0,
+    "span2_text": "དེ།",
+    "span2_index": 45,
+    "text": "ཨ་ཁུ་ཡིས་གྲི་དེ་ཀ་བའི་སྟེང་དུ་ཕྱིར་གཡུགས་ཏེ།“འདིར་ཁྱོད་དང་གྲི་འདི་རྩོད་མཁན་མི་ཡོད།གྲི་འདི་འདྲ་ཞིག་ནི་མི་དེ་དང་འཚམ་པ་མིན་པར།དེ་ལས་ལྡོག་སྟེ་དེས་རྨས་སྐྱོན་གཏོང་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_181",
+    "span1_text": "ཇ་མགྲོན་པོ་ཚོ།",
+    "span1_index": 27,
+    "span2_text": "མོ་",
+    "span2_index": 51,
+    "text": "ཇ་སྒོར་མོ་སྤྲོད་སྐབས།ཇ་ཁང་ནང་གི་མི་ཚང་མ་བུད་སོང་། ཆུ་རགས་ཕྱི་རོལ་གྱི་ཆུ་བོའི་སྒྲ་ཡང་བསྐྱར་ཁྱབ་ནས་ཇ་མགྲོན་པོ་ཚོས་བཞག་པའི་འུར་སྒྲ་གཙང་སེལ་བྱས། སྒྲོལ་མས་བཤད་རྒྱུར།ང་ལ་ཁྱོད་ཀྱི་གྲི་ལ་ཡང་བསྐྱར་བལྟ་རུ་ཆོགཁོ་མོས་བལྟས་རྗེས།སྒོར་མོ་ཏོག་ཙམ་རིན་ཐང་ལྡན།གལ་ཏེ་སྲས་མོ་ཡོད་ན་དགོང་མོ་གཉིས་གསུམ་ལ་འདང་ཐུབ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_187",
+    "span1_text": "རིག་དངོས་ཚོང་ཁང་",
+    "span1_index": 5,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 47,
+    "text": "ངས་མགྲོན་ཁང་གི་རིག་དངོས་ཚོང་ཁང་གི་མདུན་ནས་གྲི་ཞིག་གཏོང་འདོད་དེ།ཞང་ཀང་གི་མི་ཞིག་དང་རིན་གོང་གྲོས་མོལ་བྱས་མོད།འོན་ཀྱང་སྤྱིར་བགོས་ཡོད་པའི་ཉེན་རྟོག་པས་བཟུང་ཡོད། མངགས་གཏོང་ཁང་ནང་དུ།ཁོ་ཚོས་ང་ལ་དོ་དམ་གྲི་ཆས་ཀྱི་ཡིག་ཆ་ལ་བལྟ་རུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_188",
+    "span1_text": "ཞང་ཀང་བ་",
+    "span1_index": 22,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 47,
+    "text": "ངས་མགྲོན་ཁང་གི་རིག་དངོས་ཚོང་ཁང་གི་མདུན་ནས་གྲི་ཞིག་གཏོང་འདོད་དེ།ཞང་ཀང་གི་མི་ཞིག་དང་རིན་གོང་གྲོས་མོལ་བྱས་མོད།འོན་ཀྱང་སྤྱིར་བགོས་ཡོད་པའི་ཉེན་རྟོག་པས་བཟུང་ཡོད། མངགས་གཏོང་ཁང་ནང་དུ།ཁོ་ཚོས་ང་ལ་དོ་དམ་གྲི་ཆས་ཀྱི་ཡིག་ཆ་ལ་བལྟ་རུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_191",
+    "span1_text": "ཧན་ཡུའེ་",
+    "span1_index": 13,
+    "span2_text": "ཁོ་",
+    "span2_index": 53,
+    "text": "དགོང་མོ།ངའི་རྨི་ལམ་དུ་མོ་མཐོང་བྱུང་།ངའི་སྔོན་ཆད་ཀྱི་ཧན་ཡོད། ཁོ་མོས་རྨི་ལམ་གྱི་ནང་དུ་ང་ལ་བཤད་རྒྱུར།སྔོན་ཆད་ཀྱི་བརྩེ་དུང་རྙིང་པས་ཁོ་མོར་སླར་ཡང་སེམས་འགུལ་ཐེབས་སུ་བཅུག་པ་དེ་ནི་ཁོ་བཟང་བའི་རྐྱེན་གྱིས་མ་ཡིན་པར།འཚོ་བ་ཧ་ཅང་རྒྱུན་ལྡན་ཡིན་པས།ཁོའི་ལུས་སྟེང་དུ་ཉུང་མཐར་ཡང་མཐའ་འཁོར་གྱི་སྐྱེས་པ་ཚང་མར་མེད་པའི་སྨྱོ་སེམས་དང་གསོན་ཤུགས་ཡོད་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_195",
+    "span1_text": "མིག་ཆུ་",
+    "span1_index": 44,
+    "span2_text": "དེ་དག་",
+    "span2_index": 47,
+    "text": "རྡུལ་གྱིས་མཐོང་ལམ་བཀབ་པས།ངས་རྒྱང་ཐག་རིང་བའི་རླངས་འཁོར་མཐོང་མི་ཐུབ་པ་དང་།ཡལ་འགྲོ་བཞིན་པའི་འདས་ཟིན་པའི་ཚེ་སྲོག་མཐོང་མི་ཐུབ། ས་རྡུལ་མིག་གི་ནང་དུ་འཕྱུར།ངས་མིག་ཆུ་བཀོལ་ནས་དེ་དག་བཀྲུ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_196",
+    "span1_text": "མིག་",
+    "span1_index": 39,
+    "span2_text": "དེ་དག་",
+    "span2_index": 47,
+    "text": "རྡུལ་གྱིས་མཐོང་ལམ་བཀབ་པས།ངས་རྒྱང་ཐག་རིང་བའི་རླངས་འཁོར་མཐོང་མི་ཐུབ་པ་དང་།ཡལ་འགྲོ་བཞིན་པའི་འདས་ཟིན་པའི་ཚེ་སྲོག་མཐོང་མི་ཐུབ། ས་རྡུལ་མིག་གི་ནང་དུ་འཕྱུར།ངས་མིག་ཆུ་བཀོལ་ནས་དེ་དག་བཀྲུ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_197",
+    "span1_text": "དོན་དག་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 26,
+    "text": "གནམ་རྒན་མ། ཉིན་འདི་དག་ལ་དོན་དག་ག་ཚོད་བྱུང་བར་བསམ་བློ་གཏོང་རོགས། ང་ཉིན་མོ་འདི་དག་ལ་དགའ།དེས་མ་མཐར་ཡང་སྤྱིར་བཏང་གི་སུན་སྣང་གི་འཚོ་བའི་སྟེང་གི་སུན་སྣང་མེད་པར་བཟོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_199",
+    "span1_text": "གྲོང་ཚོ་ཡོངས་ཀྱི་མི།",
+    "span1_index": 19,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 46,
+    "text": "ལྕགས་མག་ཚོང་ཁང་ནས་ཕྱིར་ཡོང་སྐབས།མིག་མདུན་གྱི་ཡུལ་ལྗོངས་ཀྱིས་ང་ཚོ་ཧ་ལས་སུ་བཅུག་པ་སྟེ།གྲོང་ཚོ་ཡོངས་ཀྱི་མི་ཚང་མ་ལྕགས་མག་ཚོང་ཁང་གི་ཕྱི་རོལ་དུ་འཛོམས་ནས་ཁོ་ཚོའི་ཐང་ཆད་ལ་སྤྲོ་སྣང་གི་རྣམ་འགྱུར་དང་།ཁོ་ཚོའི་མགོ་ཐོག་གི་ཟངས་ལ་བལྟས་པས།མི་འདི་དག་འདི་གར་མཚན་མོ་ཧྲིལ་པོ་ལངས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_200",
+    "span1_text": "ལྕགས་བཟོའི་ཚོང་ཁང་",
+    "span1_index": 2,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 46,
+    "text": "ལྕགས་མག་ཚོང་ཁང་ནས་ཕྱིར་ཡོང་སྐབས།མིག་མདུན་གྱི་ཡུལ་ལྗོངས་ཀྱིས་ང་ཚོ་ཧ་ལས་སུ་བཅུག་པ་སྟེ།གྲོང་ཚོ་ཡོངས་ཀྱི་མི་ཚང་མ་ལྕགས་མག་ཚོང་ཁང་གི་ཕྱི་རོལ་དུ་འཛོམས་ནས་ཁོ་ཚོའི་ཐང་ཆད་ལ་སྤྲོ་སྣང་གི་རྣམ་འགྱུར་དང་།ཁོ་ཚོའི་མགོ་ཐོག་གི་ཟངས་ལ་བལྟས་པས།མི་འདི་དག་འདི་གར་མཚན་མོ་ཧྲིལ་པོ་ལངས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_202",
+    "span1_text": "བྲང་ཁ་",
+    "span1_index": 39,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "མི་འཇིག་རྟེན་དུ་ཡོང་སྐབས།ཞེན་པ་དང་དགའ་དགོས།གྲི་ལ་ཡང་མི་ཞིག་དང་འདྲ་བའི་ལས་དབང་དང་ལེན་ས་ཡོད། ཡ་མཚན་ཆེ་བ་ཞིག་ནི།ང་སྐྲག་མེད།ངའི་བྲང་ཁ་ནས་དེའི་གྲང་ངར་གྱི་རྣོ་གྲི་གསལ་པོར་ཚོར་ཡོད་པ་ཙམ་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_208",
+    "span1_text": "T",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 46,
+    "text": "Tནི་དངོས་གནས་སྐྱེས་པ་ཡ་མཚན་ཞིག་རེད། སྐབས་དེར།ང་རྒྱལ་གྱི་སྐྱེས་པ་ཆེན་པོ་ཞིག་གི་དགྲར་འཛིན་ནི་རྟག་ཏུ་ཁོ་རང་ཉིད་ཀྱིས་ཀྱང་གསལ་པོར་བཤད་མི་ཐུབ་པའི་ང་རྒྱལ་གྱི་སྤྲོ་སེམས་ཤིག་ལས་བྱུང་བ་ཡིན་པ་ངས་བསམ་ཤེས་བྱེད་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_212",
+    "span1_text": "བྱིས་པ་",
+    "span1_index": 21,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དབྱི་ཆིའུ་ང་ལས་ལོ་གསུམ་ཆེ་བ་ཡོད།མོ་ལོ་བདུན་ལ་སླེབས་སྐབས།སློབ་གྲྭ་ལོ་ན་སླེབས་པའི་བྱིས་པ་མང་ཆེ་བ་དང་འདྲ་བར་སློབ་ཆུང་དུ་མ་སླེབས་པར་ཨ་ཁུ་ཡིས་ཁྲིད་ནས་བྱང་ཕྱོགས་ཀྱི་གྲོང་རྡལ་ཆུང་ཆུང་ཞིག་ཏུ་རྐང་པ་སྨན་བཅོས་བྱེད་པར་སོང་ཡོད། གོ་ཐོས་སུ་དེ་གར་དམངས་ཁྲོད་ཀྱི་སྨན་པ་ཞིག་ཡོད་པ་དང་།ཁོས་ནད་པའི་རྐང་ལག་དབང་པོ་སྐྱོན་ཅན་ནང་དུ་རྒྱུན་ཆད་མེད་པར་སྲ་གཟུགས་ཀྱི་སྨན་རྫས་ཤིག་སྦས་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_214",
+    "span1_text": "ཨ་ཕ་",
+    "span1_index": 3,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "དབྱི་ཆིའུ་ཡི་ཨ་ཕ་ནི་སྔོན་ཆད་སློབ་ཆུང་གི་སློབ་གཙོ་ཞིག་ཡིན་ལ།གཟུགས་པོ་མཐོན་པོ་དང་གཟུགས་བྱང་ཆེ་བའི་མི་བཟང་ཞིག་ཡིན། རྒྱུན་དུ།ཁོ་སློབ་གྲྭའི་ནང་དུ་མི་གཞན་ལ་འཚམས་འདྲི་བྱེད་པར་གཟབ་ནན་དང་།སྙིང་ཆུང་།གཟབ་ནན་དང་ཁེངས་སྐྱུང་བཅས་བྱེད་ཀྱི་ཡོད་མོད།འོན་ཀྱང་དོན་དངོས་སུ་ཁོའི་ནང་སེམས་ལ་ཕྱི་རོལ་གྱིས་འགལ་རྐྱེན་ཐེབས་སླ་བ་དང་།གཤིས་ཀ་ཡིད་མུག་པ་དང་བྲེལ་འཚུབ་བྱེད་པ་མ་ཟད།སྙིང་ཆུང་ཡང་བྱི་བ་དང་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_215",
+    "span1_text": "སློབ་གཙོ་",
+    "span1_index": 11,
+    "span2_text": "ཁོ་",
+    "span2_index": 60,
+    "text": "དབྱི་ཆིའུ་ཡི་ཨ་ཕ་ནི་སྔོན་ཆད་སློབ་ཆུང་གི་སློབ་གཙོ་ཞིག་ཡིན་ལ།གཟུགས་པོ་མཐོན་པོ་དང་གཟུགས་བྱང་ཆེ་བའི་མི་བཟང་ཞིག་ཡིན། རྒྱུན་དུ།ཁོ་སློབ་གྲྭའི་ནང་དུ་མི་གཞན་ལ་འཚམས་འདྲི་བྱེད་པར་གཟབ་ནན་དང་།སྙིང་ཆུང་།གཟབ་ནན་དང་ཁེངས་སྐྱུང་བཅས་བྱེད་ཀྱི་ཡོད་མོད།འོན་ཀྱང་དོན་དངོས་སུ་ཁོའི་ནང་སེམས་ལ་ཕྱི་རོལ་གྱིས་འགལ་རྐྱེན་ཐེབས་སླ་བ་དང་།གཤིས་ཀ་ཡིད་མུག་པ་དང་བྲེལ་འཚུབ་བྱེད་པ་མ་ཟད།སྙིང་ཆུང་ཡང་བྱི་བ་དང་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_220",
+    "span1_text": "ཀླད་པ་",
+    "span1_index": 20,
+    "span2_text": "དེ།",
+    "span2_index": 33,
+    "text": "ངས་ནམ་ཡང་སྲང་ལམ་གྱི་ལམ་ཆུང་ནི་ཁྱིམ་གཞིས་ཞིག་ཡིན་པར་འདོད།ཁྱོད་ཀྱི་ཀླད་པའི་རྣམ་ཤེས་ལ་ལོག་ས་མེད་པ་དང་འཚོ་ས་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་མགྲོན་ཁང་ཡིན། ཁྱོད་ཀྱི་གཉེན་ཉེ་རྒྱང་ཐག་རིང་བ་དང་ཁེར་རྐྱང་ལ་རོགས་རམ་མེད་པའི་སྐབས་སུ།དེ་ནི་ཁྱོད་ཀྱི་གྲོགས་པོ་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_222",
+    "span1_text": "ཉི་འོད་",
+    "span1_index": 20,
+    "span2_text": "དེ།",
+    "span2_index": 23,
+    "text": "འོན་ཀྱང་སྐབས་དེར་ལམ་ངོས་ནི་རྣམ་པ་གཞན་ཞིག་ཡིན།ཉིན་གུང་ཉི་འོད་འོག་ཏུ་དེ་མེ་ལོང་དང་འདྲ་བར་འཇམ་འདྲེད་འོད་འཚེར་བ་དང་།གོས་པ་ནག་པོའི་རླབས་རླབས་དེ་རིགས་གཡུག་གཡུག་བྱེད་པ།རྒྱ་སེ་མེ་ཏོག་གི་འོད་འཁྱིལ་དེ་གཞུང་ལམ་འདིའི་ཕྱོགས་གཉིས་སུ་ཁྱབ་ནས་ཁེངས་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_225",
+    "span1_text": "དབྱིན་ནན་",
+    "span1_index": 13,
+    "span2_text": "ཁོ་",
+    "span2_index": 44,
+    "text": "ངས་མཛེས་སྡུག་ལྡན་པའི་བུ་ཞིག་ལ་དབྱིན་ནན་དང་མ་འཕྲད་གོང་ཐོག་མཐའ་བར་གསུམ་དུ་ཨུ་ཚུགས་ཀྱི་ཕྱོགས་ཞེན་ཞིག་ཡོད་པ་སྟེ།སྐྱེས་པ་ཞིག་གི་གཏིང་ཟབ་ཚད་དང་གྲུབ་འབྲས་ནི་རྒྱུན་དུ་ཁོའི་མཛེས་སྡུག་གི་ཚད་དང་ལྡོག་སྡུར་དུ་འགྲོ་བར་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_228",
+    "span1_text": "ཨ་ཕ་",
+    "span1_index": 24,
+    "span2_text": "ཁོ་",
+    "span2_index": 78,
+    "text": "ཉིན་དེར།ང་དབྱིན་ནན་གྱི་འགྲམ་དུ་བསྡད་ཡོད། འདི་ནི་ང་སྔོན་ཆད་དགའ་བའི་ཨ་ཕ་ལྟ་བུའི་སྐྱེས་པ་དང་གཏན་ནས་མི་འདྲ་བའི་རིགས་ཤིག་རེད། ང་ཚོས་རང་ཤུགས་སུ་ཁ་བརྡ་བྱེད་མགོ་བརྩམས།དུས་ཡུན་ཐུང་ངུའི་ནང་ཕན་ཚུན་ལ་འདྲི་རྗེས།དཔེར་ན་ཚན་ཁག་གང་ཞིག་དང་ལོ་རིམ་ག་ཚོད་སོགས་ཀྱི་གནད་དོན་ལ་ཁོས་ང་ལ་སྙན་ངག་ཁང་གི་དོན་དག་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_229",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 28,
+    "span2_text": "ཁོ་",
+    "span2_index": 78,
+    "text": "ཉིན་དེར།ང་དབྱིན་ནན་གྱི་འགྲམ་དུ་བསྡད་ཡོད། འདི་ནི་ང་སྔོན་ཆད་དགའ་བའི་ཨ་ཕ་ལྟ་བུའི་སྐྱེས་པ་དང་གཏན་ནས་མི་འདྲ་བའི་རིགས་ཤིག་རེད། ང་ཚོས་རང་ཤུགས་སུ་ཁ་བརྡ་བྱེད་མགོ་བརྩམས།དུས་ཡུན་ཐུང་ངུའི་ནང་ཕན་ཚུན་ལ་འདྲི་རྗེས།དཔེར་ན་ཚན་ཁག་གང་ཞིག་དང་ལོ་རིམ་ག་ཚོད་སོགས་ཀྱི་གནད་དོན་ལ་ཁོས་ང་ལ་སྙན་ངག་ཁང་གི་དོན་དག་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_231",
+    "span1_text": "རང་ནུས་",
+    "span1_index": 18,
+    "span2_text": "དེ།",
+    "span2_index": 27,
+    "text": "དེ་ནི་དངོས་གནས་དྲན་དཀའ་བའི་མཚན་མོ་ཞིག་རེད།ངའི་གདོད་ནུས་ཀྱིས་རྒྱུན་ཆད་མེད་པར་དེ་དྲན་རྒྱུ་དང་ལེན་མི་བྱེད་པའི་དབང་གིས་དེ་ནི་དེ་འདྲའི་རྒྱང་ཐག་རིང་བ་དང་རབ་རིབ་ཏུ་གྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_233",
+    "span1_text": "གནམ་གྱི་མདོག་",
+    "span1_index": 10,
+    "span2_text": "དེ།",
+    "span2_index": 35,
+    "text": "མཁྲེགས་པའི་ལས་གོས་དེ་ཞ་ཉེ་ཐལ་གྱི་གནམ་གཤིས་དང་འདྲ་བས།གནའ་བོའི་དུས་རབས་ནས་བཟུང་ཡོད་པ་དང་།རྒྱལ་རབས་གང་རུང་དང་ས་ཁོངས་གང་རུང་དུ་ཁྱབ་ཡོད།དེ་དུས་ཚོད་དང་བར་སྟོང་ཡོད་ཚད་ལ་ཁྱབ་ཡོད་པས།ཕལ་ཆེར་ནམ་ཡང་དེ་འདྲ་ཡིན་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_234",
+    "span1_text": "གནའ་བོའི་དུས་རབས་",
+    "span1_index": 16,
+    "span2_text": "དེ།",
+    "span2_index": 35,
+    "text": "མཁྲེགས་པའི་ལས་གོས་དེ་ཞ་ཉེ་ཐལ་གྱི་གནམ་གཤིས་དང་འདྲ་བས།གནའ་བོའི་དུས་རབས་ནས་བཟུང་ཡོད་པ་དང་།རྒྱལ་རབས་གང་རུང་དང་ས་ཁོངས་གང་རུང་དུ་ཁྱབ་ཡོད།དེ་དུས་ཚོད་དང་བར་སྟོང་ཡོད་ཚད་ལ་ཁྱབ་ཡོད་པས།ཕལ་ཆེར་ནམ་ཡང་དེ་འདྲ་ཡིན་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_235",
+    "span1_text": "རྒྱལ་རབས་",
+    "span1_index": 27,
+    "span2_text": "དེ།",
+    "span2_index": 35,
+    "text": "མཁྲེགས་པའི་ལས་གོས་དེ་ཞ་ཉེ་ཐལ་གྱི་གནམ་གཤིས་དང་འདྲ་བས།གནའ་བོའི་དུས་རབས་ནས་བཟུང་ཡོད་པ་དང་།རྒྱལ་རབས་གང་རུང་དང་ས་ཁོངས་གང་རུང་དུ་ཁྱབ་ཡོད།དེ་དུས་ཚོད་དང་བར་སྟོང་ཡོད་ཚད་ལ་ཁྱབ་ཡོད་པས།ཕལ་ཆེར་ནམ་ཡང་དེ་འདྲ་ཡིན་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_236",
+    "span1_text": "ས་ཁོངས་",
+    "span1_index": 32,
+    "span2_text": "དེ།",
+    "span2_index": 35,
+    "text": "མཁྲེགས་པའི་ལས་གོས་དེ་ཞ་ཉེ་ཐལ་གྱི་གནམ་གཤིས་དང་འདྲ་བས།གནའ་བོའི་དུས་རབས་ནས་བཟུང་ཡོད་པ་དང་།རྒྱལ་རབས་གང་རུང་དང་ས་ཁོངས་གང་རུང་དུ་ཁྱབ་ཡོད།དེ་དུས་ཚོད་དང་བར་སྟོང་ཡོད་ཚད་ལ་ཁྱབ་ཡོད་པས།ཕལ་ཆེར་ནམ་ཡང་དེ་འདྲ་ཡིན་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_238",
+    "span1_text": "ཁང་པ་",
+    "span1_index": 16,
+    "span2_text": "དེ།",
+    "span2_index": 36,
+    "text": "ངའི་ཀླད་པའི་ནང་དུ་ཁེངས་ཡོད་པས།ཁོ་མོའི་ཁང་བའི་ནང་གི་ཨོའུ་ཨོའུ་སྒྲས་ངའི་ཐོས་ཚོར་དང་དབང་རྩ་ལ་བར་ཆད་བཟོ་བཞིན་ཡོད་པས།ཕལ་ཆེར་དེ་ངའི་ཀླད་པའི་ནང་དུ་སིམ་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_240",
+    "span1_text": "ཐོས་ཚོར་",
+    "span1_index": 28,
+    "span2_text": "དེ།",
+    "span2_index": 36,
+    "text": "ངའི་ཀླད་པའི་ནང་དུ་ཁེངས་ཡོད་པས།ཁོ་མོའི་ཁང་བའི་ནང་གི་ཨོའུ་ཨོའུ་སྒྲས་ངའི་ཐོས་ཚོར་དང་དབང་རྩ་ལ་བར་ཆད་བཟོ་བཞིན་ཡོད་པས།ཕལ་ཆེར་དེ་ངའི་ཀླད་པའི་ནང་དུ་སིམ་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_241",
+    "span1_text": "དབང་རྩ་",
+    "span1_index": 31,
+    "span2_text": "དེ།",
+    "span2_index": 36,
+    "text": "ངའི་ཀླད་པའི་ནང་དུ་ཁེངས་ཡོད་པས།ཁོ་མོའི་ཁང་བའི་ནང་གི་ཨོའུ་ཨོའུ་སྒྲས་ངའི་ཐོས་ཚོར་དང་དབང་རྩ་ལ་བར་ཆད་བཟོ་བཞིན་ཡོད་པས།ཕལ་ཆེར་དེ་ངའི་ཀླད་པའི་ནང་དུ་སིམ་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_242",
+    "span1_text": "མི་ཉུང་ཤས་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 55,
+    "text": "མི་ཉུང་ཤས་སམ་ཡང་ན་མི་སྒེར་ལ་སྐབས་འགར་དོན་དངོས་སུ་སྟོབས་ཤུགས་དེ་བས་ཆེ་བ་ཡོད།གང་ལགས་ཤེ་ན།མི་ཉུང་ཤས་སམ་ཡང་ན་མི་སྒེར་ནི་དངོས་གནས་ལྟ་བ་ག་གེ་མོ་ཞིག་ཡོད་པའི་མི་ཞིག་ཡིན་མོད།འོན་ཀྱང་མི་མང་ཆེ་བའི་སྟོབས་ཤུགས་ནི་རྟག་ཏུ་རྫུན་སྣང་ཞིག་ཡིན་ཞིང་།ཁོང་ཚོ་ནི་མི་ཚོགས་མང་པོ་ཞིག་ལས་གྲུབ་པའི་རྐྱེན་གྱིས་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_249",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 25,
+    "span2_text": "མོ་",
+    "span2_index": 41,
+    "text": "ཁ་སང་ཐེམ་ཐོའི་ཉེན་རྟོག་པ་ཞིག་གིས་ངའི་ཁང་པའི་སྒོ་མ་རྡུང་པས།མ་གཞི་ངས་སྐྱེས་པ་ཞིག་ཡིན་པར་འདོད།འོན་ཀྱང་ངས་ཞིབ་ཏུ་བལྟས་ནས་བུད་མེད་ཅིག་ཡིན་པ་ཤེས།ཁོ་མོ་ཐིག་ཅོར་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པས།ངས་སེམས་བདེ་བའི་སྒོ་ནས་ཁང་པའི་སྒོ་ཕྱེ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_257",
+    "span1_text": "ཨ་ཕ་",
+    "span1_index": 24,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "ཡོང་བ་ནི་ཏའེ་ཨེར་གྱིས་སྔོན་དཔག་བྱས་པ་ལྟར་ཏག་ཏག་མོ་ཧྥེ་རེད། མོ་ཧྥེ་ནི་གསར་འགོད་པ་ཞིག་ཡིན།སྔོན་ཆད་ཏའེ་ཨེར་གྱི་ཨ་ཕ་ཡོད་དུས།ཁོ་རྒྱུན་དུ་ཁྱིམ་དུ་ཡོང་ནས་དེ་ནས་ཕྱིར་སོང་ནས་སྲན་ཕུའུ་རྡོག་ཆེད་དོན་བཅར་འདྲི་བྲིས་ནས་དགེ་རྒན་ཆེ་མོ་བ་ཏའེ་ཡི་གནས་ཚུལ་གསར་ཤོས་གནས་ཚུལ་སྤེལ་བ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_258",
+    "span1_text": "ས་ཞིང་",
+    "span1_index": 40,
+    "span2_text": "དེ།",
+    "span2_index": 72,
+    "text": "ཏའེ་ཨེར་གྱིས་དེ་ནི་ཁོ་མོའི་ཨ་མ་སྔ་དུས་གྲོང་གསེབ་ཏུ་བསྒྱུར་བཀོད་བྱེད་སྐབས་ཕྱིར་ཁྱེར་ཡོང་བའི་ཡུལ་དངོས་ཡིན་ཁོ་ཐག་ཡིན་པར་འདོད།ཁོ་མོས་ཐ་ན་དེབ་ཀྱི་ཤོག་ངོས་དེའི་ཐོག་ནས་ནག་པོ་དང་འོད་འཚེར་བའི་ཞིང་ནང་གི་ཆུ་འབྲས་ཀྱི་དྲི་ཞིམ་དང་སྟོན་ཁའི་ཉི་འོད་འོག་གི་ཞིང་རའི་སྟེང་གི་མ་རྨོས་ལོ་ཏོག་གི་གསེར་མདོག་སྣོམ་ཐུབ། དེར་བརྟེན།སྲས་མོ་ཏའེ་ཨེར་གྱིས་དེ་གསང་སྤྱོད་ཁང་གི་ཤོག་བུའི་སླེ་བུའི་ནང་དུ་གཡུགས་ནས་སྨན་བཅོས་ཀྱི་དཔེ་དེབ་གཞན་པའི་ཕྱིར་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_260",
+    "span1_text": "ཉི་འོད་",
+    "span1_index": 52,
+    "span2_text": "དེ།",
+    "span2_index": 72,
+    "text": "ཏའེ་ཨེར་གྱིས་དེ་ནི་ཁོ་མོའི་ཨ་མ་སྔ་དུས་གྲོང་གསེབ་ཏུ་བསྒྱུར་བཀོད་བྱེད་སྐབས་ཕྱིར་ཁྱེར་ཡོང་བའི་ཡུལ་དངོས་ཡིན་ཁོ་ཐག་ཡིན་པར་འདོད།ཁོ་མོས་ཐ་ན་དེབ་ཀྱི་ཤོག་ངོས་དེའི་ཐོག་ནས་ནག་པོ་དང་འོད་འཚེར་བའི་ཞིང་ནང་གི་ཆུ་འབྲས་ཀྱི་དྲི་ཞིམ་དང་སྟོན་ཁའི་ཉི་འོད་འོག་གི་ཞིང་རའི་སྟེང་གི་མ་རྨོས་ལོ་ཏོག་གི་གསེར་མདོག་སྣོམ་ཐུབ། དེར་བརྟེན།སྲས་མོ་ཏའེ་ཨེར་གྱིས་དེ་གསང་སྤྱོད་ཁང་གི་ཤོག་བུའི་སླེ་བུའི་ནང་དུ་གཡུགས་ནས་སྨན་བཅོས་ཀྱི་དཔེ་དེབ་གཞན་པའི་ཕྱིར་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_262",
+    "span1_text": "མ་རྨོས་ལོ་ཏོག་",
+    "span1_index": 58,
+    "span2_text": "དེ།",
+    "span2_index": 72,
+    "text": "ཏའེ་ཨེར་གྱིས་དེ་ནི་ཁོ་མོའི་ཨ་མ་སྔ་དུས་གྲོང་གསེབ་ཏུ་བསྒྱུར་བཀོད་བྱེད་སྐབས་ཕྱིར་ཁྱེར་ཡོང་བའི་ཡུལ་དངོས་ཡིན་ཁོ་ཐག་ཡིན་པར་འདོད།ཁོ་མོས་ཐ་ན་དེབ་ཀྱི་ཤོག་ངོས་དེའི་ཐོག་ནས་ནག་པོ་དང་འོད་འཚེར་བའི་ཞིང་ནང་གི་ཆུ་འབྲས་ཀྱི་དྲི་ཞིམ་དང་སྟོན་ཁའི་ཉི་འོད་འོག་གི་ཞིང་རའི་སྟེང་གི་མ་རྨོས་ལོ་ཏོག་གི་གསེར་མདོག་སྣོམ་ཐུབ། དེར་བརྟེན།སྲས་མོ་ཏའེ་ཨེར་གྱིས་དེ་གསང་སྤྱོད་ཁང་གི་ཤོག་བུའི་སླེ་བུའི་ནང་དུ་གཡུགས་ནས་སྨན་བཅོས་ཀྱི་དཔེ་དེབ་གཞན་པའི་ཕྱིར་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_271",
+    "span1_text": "མའེ་སན་",
+    "span1_index": 55,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "ཏའེ་ཨེར་གྱིས་དོན་དངོས་སུ་མོ་ཧྥེ་ཡི་བག་ཕེབས་དང་བག་ཕེབས་ཀྱི་ཕྱི་ངོས་འོག་ཏུ་སྦས་པའི་དངོས་པོ་ཤེས་ཡོད། ལོ་གཉིས་ཀྱི་སྔོན་ལ་མོ་ཧྥེ་ཡིས་སྲོག་ཉེན་མེད་ངང་ཁོ་མོ་བརྩོན་ལེན་བྱེད་མྱོང་ཞིང་།ལོ་གཅིག་དང་ཟླ་བ་གཉིས་རིང་ལ་རྗེས་འདེད་བྱས་ཡོད།ཕྱིས་སུ་མའེ་སན་བློ་རྩེ་གཅིག་ཏུ་མེད་པའི་སྒོ་ནས་ཁོ་ལ་དགའ་བས།ད་གཟོད་དེ་དག་ཚང་མ་མཇུག་སྒྲིལ་སོང་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_274",
+    "span1_text": "བཟའ་ཚང་ཁ་བྲལ་",
+    "span1_index": 14,
+    "span2_text": "དེ།",
+    "span2_index": 59,
+    "text": "ཏའེ་ཨེར་གྱིས“མའེ་སན་གྱིས་ཁྱོད་དང་བཟའ་ཚང་ཁ་བྲལ་བར་ཁ་རྩོད་བྱས་པར་ཡ་མཚན་མེད།ཐ་ན་ཁྱོད་ཀྱིས་སྐད་ཆ་ཡང་བཤད་མི་ཤེས།ཁྱོད་ཀྱིས་ང་སྲེག་རྒྱུར་སྐྲག་མི་སྲིད།དེ་ལས་ལྡོག་སྟེ་ཐོག་མར་ཁུ་བ་ལ་སེམས་སྡུག་བྱེད་ཀྱི་ཡོད”ཅེས་མའོ་ཧྥེ་གིས“ངས་འདི་ལྟར་བཤད་འདོད་པ་ཡིན་མོད།འོན་ཀྱང་སྐད་ཆ་བཤད་ན་རང་ཉིད་ཀྱིས་དཀྱོག་སོང་ཡོད”ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_277",
+    "span1_text": "ལྕམ་མོ་",
+    "span1_index": 39,
+    "span2_text": "ཁོ་",
+    "span2_index": 97,
+    "text": "ཐེངས་སྔོན་མར་ཡོ་ཧན·ཆིང་སིས་རྒྱལ་ནང་དུ་ལོག་སྐབས།ཁོང་གི་མི་ཚེ་འདིར་གལ་ཏེ་སྲས་མོ་ཏའེ་ཨར་ལྟ་བུའི་ཞི་ཞིང་འཇམ་པའི་ཤར་ཕྱོགས་ཀྱི་བུད་མེད་ཅིག་མནའ་མར་ལེན་ཐུབ་ན།རེ་འདུན་གཞན་ཅི་ཡང་མེད། ཁ་བྲལ་སྐབས་ཏའེ་ཨེར་ཡང་སེམས་འགུལ་ནས་མིག་བརླན་པར་གྱུར། འོན་ཀྱང་ཁོའི་ལུས་སྟེང་གི་སྤུ་ནག་པོ་སྟུག་པོ་དེ་མཐོང་རྗེས།ཏའེ་ཨེར་ཡང་ཕྱིར་འཐེན་བྱས་ཏེ།མཐར་ཁོའི་པང་དུ་འཐུས་མ་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_280",
+    "span1_text": "ཏའེ་ཁྱིམ་གཉིས་པ་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 83,
+    "text": "ལྷག་པར་དུ་སྲས་མོ་ཏའེ་ཨེར་དང་མིའོ་དབྱི་གཉིས་ནི་ཏའེ་གཉིས་ཀྱི་ཁྱིམ་གྱི་ཉི་གཡབ་སྟེང་དུ་སྦས་ཡོད།དབྱར་དུས་ཀྱི་མཚན་མོ་ནི་ཧ་ཅང་རིང་བ་དང་བརྩེ་དུང་ཟབ་མོ་ཡིན།ཁོ་ཚོས་ལྐོག་གྱུར་དང་སྔོ་མདོག་གི་མཁའ་དབྱིངས་ལ་བལྟས་ནས་ཕན་ཚུན་གྱི་རྒྱང་ཐག་རིང་བའི་སྔོན་ཆད་དང་།རྨི་ལམ་དང་དཀའ་སྤྱད་འཚོལ་བའི་བརྩེ་དུང་སོགས་བཤད་བཞིན་ཡོད།དུས་རབས་ཀྱི་སྐད་ཀྱིས་ཁོ་ཚོའི་སེམས་ལ་ཁྱབ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_283",
+    "span1_text": "སྐྱོ་གདུང་",
+    "span1_index": 52,
+    "span2_text": "དེ་དག་",
+    "span2_index": 97,
+    "text": "ཀྲུང་གོར་བཞད་གད་ཧ་ཅང་མང་པོ་ཡོད་པས།སྲུབས་གང་ཞིག་གི་ནང་དུ་དཔྱིད་ཀ་བྱུང་བ་དང་འདྲ་བར་བཞད་གད་ཀྱི་ངོ་གདོང་སྐྱེས་སྲིད།དེའི་ནང་གི་ངོ་གདོང་ཁ་ཤས་ལ་འཁྲབ་སྟོན་གྱི་ངོ་བོ་ལྡན་པས་སྐྱོ་གདུང་སྦས་ཡོད། ངོ་གདོང་ཁ་ཤས་སྔ་མོ་ནས་རྫུན་བཟོ་བྱས་ནས་དོན་དངོས་སུ་གྱུར་པས།གོམས་གཤིས་རྒྱུན་དུ་གྱུར་ཡོད། ལོ་འདི་དག་གི་རིང་ལ།སྲས་མོ་ཏའེ་ཨེར་གྱིས་སེམས་ཁུར་ཆེན་པོས་ངོ་གདོང་ཁྲི་སྟོང་མང་པོར་ལྟ་ཞིབ་བྱས་པ་མ་ཟད།དེ་དག་ལ་དབྱེ་ཞིབ་ཞིབ་ཕྲ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_285",
+    "span1_text": "མི་དོན་ཁྲུའུ་གཞུང་ལས་ཁང་",
+    "span1_index": 5,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ཉིན་དེར།ཁོ་མོ་མི་དོན་ཁྲུའུ་ཡི་གཞུང་ལས་ཁང་དུ་སོང་སྐབས།ཁྲུའུ་ཀྲང་ནི་དཀར་པོ་དང་ཚོན་པོ་ཡིན་པ་དང་།མགོ་ཆེ་ལ་སྒོར་མོ་ཡིན་པས།སྐྱ་མདོག་གི་སྨ་སྤུ་ནི་མཆུ་མོའི་ཕྱོགས་བཞིར་ཕྱེ་ནས་ཞི་ལ་ཚོན་པོ་ཞིག་དང་འདྲ། སྲས་མོ་ཏའེ་ཨེར་ཁང་བའི་ནང་དུ་འཛུལ་སྐབས།ཁོས་རྐུབ་ཆད་ནས་ལག་པ་ཆེན་པོ་བརྐྱངས་ནས་ལྷོད་པོར་འཇུས་ཀྱང་ཡར་ལངས་མེད།རྒན་རབས་པའི་འགོ་ཁྲིད་པའི་རྣམ་འགྱུར་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_287",
+    "span1_text": "སྲས་མོ་ཏའེ་ཨེར།",
+    "span1_index": 47,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ཉིན་དེར།ཁོ་མོ་མི་དོན་ཁྲུའུ་ཡི་གཞུང་ལས་ཁང་དུ་སོང་སྐབས།ཁྲུའུ་ཀྲང་ནི་དཀར་པོ་དང་ཚོན་པོ་ཡིན་པ་དང་།མགོ་ཆེ་ལ་སྒོར་མོ་ཡིན་པས།སྐྱ་མདོག་གི་སྨ་སྤུ་ནི་མཆུ་མོའི་ཕྱོགས་བཞིར་ཕྱེ་ནས་ཞི་ལ་ཚོན་པོ་ཞིག་དང་འདྲ། སྲས་མོ་ཏའེ་ཨེར་ཁང་བའི་ནང་དུ་འཛུལ་སྐབས།ཁོས་རྐུབ་ཆད་ནས་ལག་པ་ཆེན་པོ་བརྐྱངས་ནས་ལྷོད་པོར་འཇུས་ཀྱང་ཡར་ལངས་མེད།རྒན་རབས་པའི་འགོ་ཁྲིད་པའི་རྣམ་འགྱུར་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_289",
+    "span1_text": "དགྲ་བོ་",
+    "span1_index": 14,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "“སུ་ཞིག་གི་བུ་”ཏའེ་ཨེར་སྔ་མོ་ནས་དགྲ་བོའི་བཙན་རྫོང་དུ་འཛེགས་ནས་རིག་གནས་ལས་རིགས་དང་སྒྱུ་རྩལ་ལས་རིགས་སུ་བཙན་ཤེད་དང་གཡོ་འཕྲུལ་བྱེད་བཞིན་ཡོད། མཁས་པ་དང་།གླུ་མཁན།གློག་བརྙན་འཁྲབ་སྟོན་པ་སོགས་མིང་གྲགས་ནས་རྒྱལ་ཁ་ཐོབ་འདོད་མཁན་ཚང་མ་སྔོན་ལ་ཁོའི་སར་ཕྱིན་པ་དང་།དེ་ལྟར་མ་བྱས་ན་རྒྱལ་ཁ་ཐོབ་ན་མི་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_290",
+    "span1_text": "མཁས་པ་",
+    "span1_index": 41,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "“སུ་ཞིག་གི་བུ་”ཏའེ་ཨེར་སྔ་མོ་ནས་དགྲ་བོའི་བཙན་རྫོང་དུ་འཛེགས་ནས་རིག་གནས་ལས་རིགས་དང་སྒྱུ་རྩལ་ལས་རིགས་སུ་བཙན་ཤེད་དང་གཡོ་འཕྲུལ་བྱེད་བཞིན་ཡོད། མཁས་པ་དང་།གླུ་མཁན།གློག་བརྙན་འཁྲབ་སྟོན་པ་སོགས་མིང་གྲགས་ནས་རྒྱལ་ཁ་ཐོབ་འདོད་མཁན་ཚང་མ་སྔོན་ལ་ཁོའི་སར་ཕྱིན་པ་དང་།དེ་ལྟར་མ་བྱས་ན་རྒྱལ་ཁ་ཐོབ་ན་མི་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_292",
+    "span1_text": "གློག་བརྙན་སྐར་མ་",
+    "span1_index": 47,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "“སུ་ཞིག་གི་བུ་”ཏའེ་ཨེར་སྔ་མོ་ནས་དགྲ་བོའི་བཙན་རྫོང་དུ་འཛེགས་ནས་རིག་གནས་ལས་རིགས་དང་སྒྱུ་རྩལ་ལས་རིགས་སུ་བཙན་ཤེད་དང་གཡོ་འཕྲུལ་བྱེད་བཞིན་ཡོད། མཁས་པ་དང་།གླུ་མཁན།གློག་བརྙན་འཁྲབ་སྟོན་པ་སོགས་མིང་གྲགས་ནས་རྒྱལ་ཁ་ཐོབ་འདོད་མཁན་ཚང་མ་སྔོན་ལ་ཁོའི་སར་ཕྱིན་པ་དང་།དེ་ལྟར་མ་བྱས་ན་རྒྱལ་ཁ་ཐོབ་ན་མི་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_294",
+    "span1_text": "སྲས་མོ་ཏའེ་ཨེར།",
+    "span1_index": 0,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 33,
+    "text": "སྲས་མོ་ཏའེ་ཨེར་གྱི་གཉེན་ཉེ་ཁ་ཤས་ཀྱིས་ཏའེ་ཨེར་གྱི་ཨ་མ་ལ་འཁང་ར་བྱས་ཏེ།ཏའེ་ཨེར་ལ་གོམས་པ་ཞིག་ལ་ལྟོས་དང་།དཀའ་སྡུག་ཅུང་ཙམ་ཡང་བཟོད་མི་ཐུབ། ཁོ་མོ་ཚོས་མ་གཞི་ཏའེ་ཨེར་གྱིས་མདུན་གྱི་དམག་གྲུ་རྒྱག་རྒྱུའི་རེ་བ་བྱེད་ཀྱི་ཡོད་པ་དང་།དེ་ནས་རེ་རེ་བཞིན་ཐོན་འདོད་ཡོད་མོད།ཏའེ་ཨེར་ནི་འདི་འདྲའི་ཕན་པ་མེད་པ་དང་།དར་རྒྱས་ཆེ་བའི་འཇིག་རྟེན་དུ་མི་སྡོད་པར།ཉམས་རྒུད་དུ་གྱུར་བའི་པེ་ཅིང་གི་སྲང་ལམ་ཆུང་ཆུང་དེར་ལོག་ནས་དཀའ་སྡུག་གི་འཚོ་བ་རོལ་རྒྱུ་མ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_295",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 33,
+    "text": "སྲས་མོ་ཏའེ་ཨེར་གྱི་གཉེན་ཉེ་ཁ་ཤས་ཀྱིས་ཏའེ་ཨེར་གྱི་ཨ་མ་ལ་འཁང་ར་བྱས་ཏེ།ཏའེ་ཨེར་ལ་གོམས་པ་ཞིག་ལ་ལྟོས་དང་།དཀའ་སྡུག་ཅུང་ཙམ་ཡང་བཟོད་མི་ཐུབ། ཁོ་མོ་ཚོས་མ་གཞི་ཏའེ་ཨེར་གྱིས་མདུན་གྱི་དམག་གྲུ་རྒྱག་རྒྱུའི་རེ་བ་བྱེད་ཀྱི་ཡོད་པ་དང་།དེ་ནས་རེ་རེ་བཞིན་ཐོན་འདོད་ཡོད་མོད།ཏའེ་ཨེར་ནི་འདི་འདྲའི་ཕན་པ་མེད་པ་དང་།དར་རྒྱས་ཆེ་བའི་འཇིག་རྟེན་དུ་མི་སྡོད་པར།ཉམས་རྒུད་དུ་གྱུར་བའི་པེ་ཅིང་གི་སྲང་ལམ་ཆུང་ཆུང་དེར་ལོག་ནས་དཀའ་སྡུག་གི་འཚོ་བ་རོལ་རྒྱུ་མ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_299",
+    "span1_text": "གནའ་རབས་",
+    "span1_index": 18,
+    "span2_text": "དེ།",
+    "span2_index": 47,
+    "text": "མོས་མི་རྒྱུན་ལ་བལྟས་སྟེ།མི་རྒྱུན་དེ་ནི་སྣང་མེད་ཀྱི་རླུང་དང་ཧ་ཅང་འདྲ་སྟེ།གནའ་རབས་ནས་ད་ལྟའི་བར་དུ་བཞུར་བཞིན་ཡོད།ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོའི་ཤར་ཕྱོགས་ཀྱི་ཉིའུ་གཡོད་གྲོང་ཁྱེར་ནས་རྒྱ་མཚོ་ཆེན་མོ་བརྒལ་ནས་པེ་ཅིང་དུ་བཞུར་བཞིན་ཡོད། དེས་སྔོན་ཆད་ཀྱི་མི་རྣམས་ཀྱི་དགའ་སྤྲོ་དང་སྐྱོ་གདུང་འཁྱེར་ནས་ལོ་ཟླ་ཡུན་རིང་འཁྱེར་ནས་སྲས་མོ་ཏའེ་ཨེར་གྱི་འགྲམ་ནས་སྣང་མེད་དུ་འདྲེད་རྗེས།སྲས་མོ་ཏའེ་ཨེར་གྱི་ཡོད་ཚད་དང་བསྟུན་ནས་རྒྱང་རིང་དང་མ་འོངས་པར་བསྐྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_301",
+    "span1_text": "པེ་ཅིན་",
+    "span1_index": 44,
+    "span2_text": "དེ།",
+    "span2_index": 47,
+    "text": "མོས་མི་རྒྱུན་ལ་བལྟས་སྟེ།མི་རྒྱུན་དེ་ནི་སྣང་མེད་ཀྱི་རླུང་དང་ཧ་ཅང་འདྲ་སྟེ།གནའ་རབས་ནས་ད་ལྟའི་བར་དུ་བཞུར་བཞིན་ཡོད།ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོའི་ཤར་ཕྱོགས་ཀྱི་ཉིའུ་གཡོད་གྲོང་ཁྱེར་ནས་རྒྱ་མཚོ་ཆེན་མོ་བརྒལ་ནས་པེ་ཅིང་དུ་བཞུར་བཞིན་ཡོད། དེས་སྔོན་ཆད་ཀྱི་མི་རྣམས་ཀྱི་དགའ་སྤྲོ་དང་སྐྱོ་གདུང་འཁྱེར་ནས་ལོ་ཟླ་ཡུན་རིང་འཁྱེར་ནས་སྲས་མོ་ཏའེ་ཨེར་གྱི་འགྲམ་ནས་སྣང་མེད་དུ་འདྲེད་རྗེས།སྲས་མོ་ཏའེ་ཨེར་གྱི་ཡོད་ཚད་དང་བསྟུན་ནས་རྒྱང་རིང་དང་མ་འོངས་པར་བསྐྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_303",
+    "span1_text": "མགོ་",
+    "span1_index": 26,
+    "span2_text": "དེ།",
+    "span2_index": 57,
+    "text": "རླུང་སྒོམ་དགེ་རྒན་གྱི་མིག་མདངས་ཏའེ་ཨེར་གྱི་ལུས་སྟེང་དུ་སྐད་ཅིག་ཙམ་བསྡད་རྗེས།ཁྱོད་རྟག་ཏུ་མགོ་ན་བ་ཡིན་ནམ།གལ་ཏེ་ཁྱོད་འཐད་པ་ཡིན་ན།ངས་ཁྱོད་ལ་རོགས་རམ་བྱེད་ཐུབ།ཏའེ་ཨེར་གྱིས་མགོ་བཀྱག་ནས་ཁོའི་མིག་ལ་བལྟས་ཚེ།དེ་ལ་རྒྱལ་འཐབ་བྱེད་མཁན་ལྟ་བུའི་འགོག་ཐབས་མེད་པའི་དྲོ་ཉམས་ཤིག་འཕྱུར་ཞིང་།རྣམ་འགྱུར་དེ་ནི་སྒྲ་མེད་པའི་དམག་བཀའ་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_304",
+    "span1_text": "རླུང་སྒོམ་མཁས་པ་",
+    "span1_index": 0,
+    "span2_text": "དེ།",
+    "span2_index": 57,
+    "text": "རླུང་སྒོམ་དགེ་རྒན་གྱི་མིག་མདངས་ཏའེ་ཨེར་གྱི་ལུས་སྟེང་དུ་སྐད་ཅིག་ཙམ་བསྡད་རྗེས།ཁྱོད་རྟག་ཏུ་མགོ་ན་བ་ཡིན་ནམ།གལ་ཏེ་ཁྱོད་འཐད་པ་ཡིན་ན།ངས་ཁྱོད་ལ་རོགས་རམ་བྱེད་ཐུབ།ཏའེ་ཨེར་གྱིས་མགོ་བཀྱག་ནས་ཁོའི་མིག་ལ་བལྟས་ཚེ།དེ་ལ་རྒྱལ་འཐབ་བྱེད་མཁན་ལྟ་བུའི་འགོག་ཐབས་མེད་པའི་དྲོ་ཉམས་ཤིག་འཕྱུར་ཞིང་།རྣམ་འགྱུར་དེ་ནི་སྒྲ་མེད་པའི་དམག་བཀའ་ཞིག་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_16",
+    "span1_text": "སུན་ཧྲའོ་ཕིང་",
+    "span1_index": 2,
+    "span2_text": "མོ་",
+    "span2_index": 23,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་བལྟས་མྱོང་བའི་དཔེ་ཆ་ནི།ཧའོ་ཧུང་མེ་ལ་གཡར་ནས་བལྟ་དགོས། ཁོས་ཁོ་མོར་དཔེ་ཆ་གཡར་པའམ་ཡང་ན་ཁོ་མོས་ཁོ་ལ་དཔེ་ཆ་ཕྱིར་སྤྲད་པ་གང་ཡིན་རུང་།མི་གཉིས་ཀྱིས་ཁ་རོག་གེར་སྒྲུབ་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_18",
+    "span1_text": "སུན་ཧྲའོ་ཕིང་",
+    "span1_index": 2,
+    "span2_text": "མོ་",
+    "span2_index": 29,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་བལྟས་མྱོང་བའི་དཔེ་ཆ་ནི།ཧའོ་ཧུང་མེ་ལ་གཡར་ནས་བལྟ་དགོས། ཁོས་ཁོ་མོར་དཔེ་ཆ་གཡར་པའམ་ཡང་ན་ཁོ་མོས་ཁོ་ལ་དཔེ་ཆ་ཕྱིར་སྤྲད་པ་གང་ཡིན་རུང་།མི་གཉིས་ཀྱིས་ཁ་རོག་གེར་སྒྲུབ་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_21",
+    "span1_text": "ཧའོ་ཧུང་མེ་",
+    "span1_index": 13,
+    "span2_text": "ཁོ་",
+    "span2_index": 31,
+    "text": "སུན་ཧྲའོ་ཕིང་གིས་བལྟས་མྱོང་བའི་དཔེ་ཆ་ནི།ཧའོ་ཧུང་མེ་ལ་གཡར་ནས་བལྟ་དགོས། ཁོས་ཁོ་མོར་དཔེ་ཆ་གཡར་པའམ་ཡང་ན་ཁོ་མོས་ཁོ་ལ་དཔེ་ཆ་ཕྱིར་སྤྲད་པ་གང་ཡིན་རུང་།མི་གཉིས་ཀྱིས་ཁ་རོག་གེར་སྒྲུབ་པ་རེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_27",
+    "span1_text": "འདབ་བརླན་",
+    "span1_index": 3,
+    "span2_text": "ཁོ་",
+    "span2_index": 21,
+    "text": "ཧྲའོ་ཕིང་དང་རུན་ཡེ་གཉིས་ཀྱིས་ཁོ་མོའི་ཨ་ཕ་གཉིས་པའི་ཁྱིམ་གྱི་སྒོ་རའི་ནང་དུ་འཛུལ་དུས།རུན་ཧྲེང་ཡོང་ནས་ཁོ་ལ་བཤད་རྒྱུར།ང་ཉལ་ཁང་དུ་སོང་ནས་ཁྱོད་ཐེངས་གཉིས་བཙལ་སོང་།ཁྱོད་གང་དུ་བུད་སོང་ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_34",
+    "span1_text": "ཀྲུའུ་རེན་ཐེན་",
+    "span1_index": 24,
+    "span2_text": "མོ་",
+    "span2_index": 63,
+    "text": "ཁོ་ཚོ་རྫོང་གསར་བརྗེའི་ཨུ་ལྷན་གྱི་སྒོ་ཁུག་ཏུ་སླེབས་སྐབས།ཁྱིམ་དུ་ལོག་པའི་ཀྲུའུ་རེན་ཐེན་དང་འཕྲད་བྱུང་། ཧྲའོ་ཕིང་གིས་རུན་ཡེ་ཁོ་མོའི་ཨ་ཕ་གཉིས་པ་ངོ་ཤེས་སྟེ།ཁོ་སྐབས་འགར་འགྲོ་འོང་བྱས་ནས་རྒྱུན་དུ་གྲོང་ཚོའི་ནང་དུ་ཡོང་གི་ཡོད། ཁྱོད་ཀྱིས་ད་དུང་ཟ་མ་ཟོས་མེད།རུན་ཡེ་ཡིས་ཁོ་མོའི་ཨ་ཕ་གཉིས་པ་ལ་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_37",
+    "span1_text": "སྨན་",
+    "span1_index": 11,
+    "span2_text": "དེ།",
+    "span2_index": 39,
+    "text": "ཁོས་སྔོན་ལ་སྲང་ལམ་དུ་སོང་ནས་རྨོ་བོར་སྨན་ཉོས་རྗེས།གྲོ་ཕྱེ་ཁུག་མ་ཆུང་ཆུང་དེ་ཅིན་པོའི་ཉལ་ཁང་དུ་བླངས། མི་གཉིས་ཀྱིས་རོགས་རམ་བྱས་ནས་དེ་རླངས་འཁོར་རྒྱབ་ཀྱི་འདུག་སྟེགས་ཀྱི་འགྲམ་དུ་བསྡམས་རྗེས།མཉམ་དུ་ཁྱིམ་དུ་འགྲོ་རྩིས་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_65",
+    "span1_text": "ཕུ་བོ་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 45,
+    "text": "ཕུ་བོ་མགོ་བརྒྱབ། “ང་ལོ་འདི་དག་རིང་དཀའ་སྡུག་མྱོང་ཡོད།ད་ལྟ་ལིན་ལིན་ཡང་ཅུང་ཆེ་རུ་ཕྱིན་པས།དེའི་ཕྱིར།”ཁོས་ནུ་མོ་ལ་བལྟས་ནས་གདོང་ལ་ཁོ་མོར་བསམ་ཤེས་བྱེད་དགོས་པའི་རྣམ་འགྱུར་ཞིག་མངོན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_66",
+    "span1_text": "ལིང་ལིང་",
+    "span1_index": 18,
+    "span2_text": "མོ་",
+    "span2_index": 45,
+    "text": "ཕུ་བོ་མགོ་བརྒྱབ། “ང་ལོ་འདི་དག་རིང་དཀའ་སྡུག་མྱོང་ཡོད།ད་ལྟ་ལིན་ལིན་ཡང་ཅུང་ཆེ་རུ་ཕྱིན་པས།དེའི་ཕྱིར།”ཁོས་ནུ་མོ་ལ་བལྟས་ནས་གདོང་ལ་ཁོ་མོར་བསམ་ཤེས་བྱེད་དགོས་པའི་རྣམ་འགྱུར་ཞིག་མངོན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_71",
+    "span1_text": "འཇིག་རྟེན་",
+    "span1_index": 20,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "འོན་ཀྱང་མིས་ཏག་ཏག་སྐབས་དེར་གཞི་ནས་འཇིག་རྟེན་དང་མི་ཚེ་ངོ་མ་ཤེས་རྟོགས་བྱེད་འགོ་བརྩམས་ཡོད་ཀྱང་སྲིད། འཚོ་བའི་སློབ་དེབ་ནི་སློབ་གྲྭའི་སློབ་དེབ་དང་འདྲ་བར་ཁེར་རྐྱང་གཏན་ནས་མེད།དེས་མི་རྣམས་ལ་འཚར་ལོངས་ཡོང་བར་ཁྲིད་པའི་བྱེད་སྟངས་ནི་རྒྱུན་དུ་གདུག་རྩུབ་ཆེ་བ་ཞིག་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_72",
+    "span1_text": "མི་ཚེ་",
+    "span1_index": 25,
+    "span2_text": "དེ།",
+    "span2_index": 48,
+    "text": "འོན་ཀྱང་མིས་ཏག་ཏག་སྐབས་དེར་གཞི་ནས་འཇིག་རྟེན་དང་མི་ཚེ་ངོ་མ་ཤེས་རྟོགས་བྱེད་འགོ་བརྩམས་ཡོད་ཀྱང་སྲིད། འཚོ་བའི་སློབ་དེབ་ནི་སློབ་གྲྭའི་སློབ་དེབ་དང་འདྲ་བར་ཁེར་རྐྱང་གཏན་ནས་མེད།དེས་མི་རྣམས་ལ་འཚར་ལོངས་ཡོང་བར་ཁྲིད་པའི་བྱེད་སྟངས་ནི་རྒྱུན་དུ་གདུག་རྩུབ་ཆེ་བ་ཞིག་ཡིན།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_83",
+    "span1_text": "ཕྲུ་གུ་",
+    "span1_index": 28,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 33,
+    "text": "ལའོ་ཀྲང་ཁྱིམ་ཚང་ཧ་ཅང་བྱང་སེམས་ལྡན་པ་དང་།ཚང་མས་དགེ་རྒན་ཀའོ་ཡི་སྒོར་མོ་ལེན་ག་འདྲ་བྱེད་ཐུབ་ཟེར། ཁོ་ཁང་པའི་ནང་དུ་བསྡད་རུང་། བྱིས་པ་བཞག་ན།ཁོ་ཚོས་ནུས་ཤུགས་ཡོད་རྒུས་བདག་སྐྱོང་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_84",
+    "span1_text": "ཕྲུ་གུ་",
+    "span1_index": 0,
+    "span2_text": "མོ་",
+    "span2_index": 54,
+    "text": "བྱིས་པས་ཁོ་ལ་བཤད་རྒྱུར།དགེ་རྒན་ལུའུ་མདུན་གྱི་གྲོང་ཚོའི་ཆུ་ཤུར་དེའི་ནང་དུ་མེ་ཤིང་གཅོད་དུ་སོང་ཟེར། ཀའོ་ཀོང་ཧོའུ་ཡི་སེམས་གློ་བུར་དུ་གློ་བུར་དུ་ལྡིང་དུ་བཅུག ཨ་ཨ།ད་ལྟ་ནམ་མོ་ནག་པོ་འདུགཁོ་མོ་འདིའི་རི་ལམ་ལ་གོམས་མེད།གལ་ཏེ་དོན་དག་ཅིག་ཐོན་ན་ཅི་ལྟར་སྒྲུབ་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_86",
+    "span1_text": "ཀའོ་ཀོང་ཧོའུ་",
+    "span1_index": 26,
+    "span2_text": "མོ་",
+    "span2_index": 54,
+    "text": "བྱིས་པས་ཁོ་ལ་བཤད་རྒྱུར།དགེ་རྒན་ལུའུ་མདུན་གྱི་གྲོང་ཚོའི་ཆུ་ཤུར་དེའི་ནང་དུ་མེ་ཤིང་གཅོད་དུ་སོང་ཟེར། ཀའོ་ཀོང་ཧོའུ་ཡི་སེམས་གློ་བུར་དུ་གློ་བུར་དུ་ལྡིང་དུ་བཅུག ཨ་ཨ།ད་ལྟ་ནམ་མོ་ནག་པོ་འདུགཁོ་མོ་འདིའི་རི་ལམ་ལ་གོམས་མེད།གལ་ཏེ་དོན་དག་ཅིག་ཐོན་ན་ཅི་ལྟར་སྒྲུབ་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_90",
+    "span1_text": "སློབ་གྲྭ་",
+    "span1_index": 9,
+    "span2_text": "དེ།",
+    "span2_index": 55,
+    "text": "མཚན་མོ།ལྷིང་འཇགས་ཡིན། སློབ་གྲྭའི་འོག་གི་ཆུ་བོ་ཆུང་ཆུང་ཁོ་ན་ནམ་ཡང་མཚམས་མི་འཇོག་པར་གླུ་ལེན་བཞིན་ཡོད། ཁོས་སྟོན་ཁའི་མཚན་མོའི་མཁའ་དབུགས་དྭངས་གཙང་དབུགས་འབྱིན་རྔུབ་བྱས་ཏེ།འཇིག་རྟེན་འདིར་སྡུག་བསྔལ་ཅི་ཙམ་ཡོད་རུང་།དེ་ནི་རྒྱུན་དུ་མཛེས་སྡུག་ལྡན་པ་ཞིག་ཡིན་པའི་ཚོར་བ་སྐྱེས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_104",
+    "span1_text": "འོ་མ་",
+    "span1_index": 52,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_106",
+    "span1_text": "རྔ་",
+    "span1_index": 34,
+    "span2_text": "དེ།",
+    "span2_index": 56,
+    "text": "ཁྱི་ཕྲུག་ཞིག་སྒྲོམ་གྱི་འོག་ནས་ཐུག་ཐུག་ངང་འབིགས་ཏེ་སྔོན་ལ་ས་འོག་ཏུ་ལྡོག་པ་དང་།བདག་པོ་ལ་གཏད་ནས་མཇུག་མ་གཡུག་གཡུག་བྱས་རྗེས།ད་གཟོད་མགོ་ཟངས་གཞོང་གི་ནང་དུ་བསྡུས། གཞོང་ནང་གི་འོ་མ་མིད་ནས་ཕལ་ཆེར་དབུགས་འབྱིན་མི་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_120",
+    "span1_text": "སྐྱེས་པ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 17,
+    "text": "སྐྱེས་པ་ཚོའི་དམིགས་ཡུལ་ནི་བུ་མོ་ཚོའི་ལྭ་བ་དེ་ཡིན།ཁོ་ཚོས་ནམ་མཁའ་དྭངས་པའི་འོག་ཏུ་མཛེས་སྡུག་ལྡན་པའི་ནུ་མ་མངོན་དུ་འཇུག་དགོས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_122",
+    "span1_text": "མགོ་མི་།",
+    "span1_index": 4,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 22,
+    "text": "དཔེར་ན།མགོ་མི་ཚོས་ཉལ་བའི་བུད་མེད་ལ་འབུལ་བ་དང་།ངས་གུར་ནང་དུ་ཁོ་ཚོ་དང་དགའ་པོ་བྱེད་ཀྱི་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_129",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 48,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 77,
+    "text": "ངའི་ལས་འོག་རྣམས་ལ་མེ་མདའ་འཁྱེར་ཡོད་པའི་མིས་བལྟས་ཡོང་གི་རེད། ལྟོས།འདི་ནི་བདག་དང་གཡོག་པ་གཉིས་ཀྱི་མི་འདྲ་ས་རེད། གནས་ཚུལ་འདི་འདྲའི་འོག་ཏུ།སྲོག་པོ་ཡང་བུད་མེད་མཛེས་སྡུག་ལྡན་པའི་ཁྱུ་ཞིག་གིས་བསྐོར་ཡོད། སྙིང་རྗེ་བའི་གཡོག་པ་དེ་དག་གི་འགྲམ་དུ་སོང་ན།ངོ་གདོང་ལ་བལྟས་ནས་ངས་ཁོ་ཚོ་ལྟོགས་ཡོད་པ་ཤེས་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_131",
+    "span1_text": "སྒྲོལ་མ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 41,
+    "text": "སྒྲོལ་མའི་མིག་ཆུ་ད་གཟོད་གཙང་མར་ཕྱིས་ནས་བཞུར་སོང་།སྐུ་ཞབས་སྲོག་པ་ལགས།དངུལ་བཟོ་པ་དེ་རྒྱ་མི་དམར་པོའི་ཕྱོགས་སུ་སོང་ཟིན། ངས་ཨེར་དབྱི་བོས་ནས་མི་འགའ་ཁྲིད་ནས་མའེ་ཆི་ཀོན་གྲོང་དུ་ལོག་ནས་ཐུའུ་སི་ཅི་འདྲ་ཡོད་པར་བལྟ་རུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_133",
+    "span1_text": "དངུལ་བཟོ་པ་",
+    "span1_index": 19,
+    "span2_text": "ཁོ་",
+    "span2_index": 41,
+    "text": "སྒྲོལ་མའི་མིག་ཆུ་ད་གཟོད་གཙང་མར་ཕྱིས་ནས་བཞུར་སོང་།སྐུ་ཞབས་སྲོག་པ་ལགས།དངུལ་བཟོ་པ་དེ་རྒྱ་མི་དམར་པོའི་ཕྱོགས་སུ་སོང་ཟིན། ངས་ཨེར་དབྱི་བོས་ནས་མི་འགའ་ཁྲིད་ནས་མའེ་ཆི་ཀོན་གྲོང་དུ་ལོག་ནས་ཐུའུ་སི་ཅི་འདྲ་ཡོད་པར་བལྟ་རུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_143",
+    "span1_text": "བུ་མོ་",
+    "span1_index": 24,
+    "span2_text": "ཁོ་",
+    "span2_index": 56,
+    "text": "ངའི་གློ་བུར་དུ་དྲན་དོན།ལྷོ་ཕྱོགས་སུ་དམག་འཐབ་བྱེད་བཞིན་པའི་ཕུ་བོ་ནི་དུས་ཡུན་འདི་འདྲ་རིང་ལ་བུ་མོ་ལ་མི་ཐུག་མི་སྲིད། གལ་ཏེ་མི་ཞིག་གིས་ཁོ་ལ་ནུ་བོ་དང་བུ་མོ་ཞིག་གཉིས་ཀྱིས་ཉིན་གཉིས་གསུམ་ལ་ཉལ་རྗེས་ད་གཟོད་དོན་དག་དེ་དྲན་ན།ཁོས་གད་མོ་ཆེན་པོས་“ངོ་མ་གླེན་པ་ཞིག་རེད”ཅེས་བཤད་སྲིད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_146",
+    "span1_text": "སྐྱི་པགས་",
+    "span1_index": 8,
+    "span2_text": "ཁོ་",
+    "span2_index": 29,
+    "text": "མི་གླེན་པ་ཞིག་ཏུ་གྱུར་ན།གདོང་གི་སྐྱི་པགས་དམ་པོར་འགྱུར། མི་ཞིག་གླེན་པ་ཡིན་མིན་ལ་བལྟ་དགོས།ཁོའི་འཛུམ་མདངས་ལ་བལྟས་ན་ཆོག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_154",
+    "span1_text": "རླུང་ཞི་པོ་",
+    "span1_index": 23,
+    "span2_text": "མོ་",
+    "span2_index": 28,
+    "text": "ཐ་ནའི་རྟ་ཞོན་ཡང་རྟ་བཟང་པོ་ཞིག་ཡིན།ངའི་རྗེས་སུ་རྗེས་སུ་འབྲངས་ནས་རི་བོའི་སྟེང་དུ་བརྒྱུར། ཧྥེང་གིས་ཁོ་མོའི་དགོད་སྒྲར་བསྐྱེར།ཧ་ཧ།དཔྱིད་དུས་ཀྱི་དུས་སུ།སྒོ་ང་ཐོན་གྲབས་ཡོད་པའི་ཁྲ་ཝུའུ་ནི་རྩྭ་ཚོའི་ནང་དུ་འདི་ལྟར་ངུ་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_158",
+    "span1_text": "གུང་ཁྲན་ཏང་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 63,
+    "text": "གུང་ཁྲན་ཏང་གིས་མི་ཚང་མར་གཏན་འཇགས་ཀྱི་ས་ཆ་ཞིག་བཀོད་སྒྲིག་བྱས་ཡོད། ལྕགས་མོ་བ་གྲོང་ཚོ་འདིར་བསྡད་ཡོད། དེ་ཡང་ཉིན་དེ་ནས་བཟུང་ཁོ་ཆེད་ལས་ཀྱི་ལྕགས་བཟོ་བ་མ་རེད། དེ་སྔར།ལག་ཤེས་པ་གང་སར་འགྲོ་འོང་བྱེད་བཞིན་ཡོད།ཁོ་ཚོར་འཁྱམས་པའི་སེམས་ཤིག་ཡོད་པ་ཕུད།ད་དུང་དེ་ལྟར་བྱས་ན་ད་གཟོད་ལས་ཀ་འདང་ངེས་ཤིག་རྙེད་ཐུབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_165",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 25,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 29,
+    "text": "ང་ཚོས་གྲོང་ཚོའི་ནང་གི་མིས་ཕུལ་བའི་དངོས་པོ་ལོངས་སྤྱོད་བྱེད་མི་ཐུབ་པས།ཁོ་ཚོར་ཅི་ཡང་མི་ཤེས་པའི་ཚོར་སྣང་སྐྱེས། ཨ་ཁུ་ཡིས་ཁོ་ཚོའི་ཚབ་བྱས་ནས་ཁྱོད་གཉིས་ཀྱིས་ཅི་ཞིག་ལེན་དགོས་སམ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_174",
+    "span1_text": "ལྕགས་བཟོ་པ་",
+    "span1_index": 8,
+    "span2_text": "མོ་",
+    "span2_index": 46,
+    "text": "ལིའུ་ཅིན་ཙང་གིས་འགྱེལ་བའི་ལྕགས་བཟོ་བ་སྲུང་བཞིན་ཡོད།ང་གྲོང་དུ་ཐེངས་གཅིག་ལོག་ནས་སྨན་བཅོས་ཀྱི་ཐབས་ཤེས་ཅུང་ཙམ་ཡོད་པའི་ཨ་ཁུ་ཕྱིར་ཡོང་ནས་ཁོང་གི་ནད་སྨན་བཅོས་བྱེད་དུ་བཅུག ང་ཁྱིམ་དུ་ལོག་སྐབས།ཧན་ཡུའེ་ད་དུང་ལས་ཚོགས་ལ་ཞུགས་མེད། མོ་ད་དུང་ཧ་ཅང་ལྷིང་འཇགས་ཀྱི་རྣམ་པ་ཞིག་ཡིན།ང་ཉིན་འདི་དག་གི་རིང་ལ་ས་ཆ་གང་དུ་ཕྱིན་པ་མི་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_175",
+    "span1_text": "ཨ་ཁུ་",
+    "span1_index": 24,
+    "span2_text": "མོ་",
+    "span2_index": 46,
+    "text": "ལིའུ་ཅིན་ཙང་གིས་འགྱེལ་བའི་ལྕགས་བཟོ་བ་སྲུང་བཞིན་ཡོད།ང་གྲོང་དུ་ཐེངས་གཅིག་ལོག་ནས་སྨན་བཅོས་ཀྱི་ཐབས་ཤེས་ཅུང་ཙམ་ཡོད་པའི་ཨ་ཁུ་ཕྱིར་ཡོང་ནས་ཁོང་གི་ནད་སྨན་བཅོས་བྱེད་དུ་བཅུག ང་ཁྱིམ་དུ་ལོག་སྐབས།ཧན་ཡུའེ་ད་དུང་ལས་ཚོགས་ལ་ཞུགས་མེད། མོ་ད་དུང་ཧ་ཅང་ལྷིང་འཇགས་ཀྱི་རྣམ་པ་ཞིག་ཡིན།ང་ཉིན་འདི་དག་གི་རིང་ལ་ས་ཆ་གང་དུ་ཕྱིན་པ་མི་དྲིས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_180",
+    "span1_text": "མི་",
+    "span1_index": 8,
+    "span2_text": "མོ་",
+    "span2_index": 51,
+    "text": "ཇ་སྒོར་མོ་སྤྲོད་སྐབས།ཇ་ཁང་ནང་གི་མི་ཚང་མ་བུད་སོང་། ཆུ་རགས་ཕྱི་རོལ་གྱི་ཆུ་བོའི་སྒྲ་ཡང་བསྐྱར་ཁྱབ་ནས་ཇ་མགྲོན་པོ་ཚོས་བཞག་པའི་འུར་སྒྲ་གཙང་སེལ་བྱས། སྒྲོལ་མས་བཤད་རྒྱུར།ང་ལ་ཁྱོད་ཀྱི་གྲི་ལ་ཡང་བསྐྱར་བལྟ་རུ་ཆོགཁོ་མོས་བལྟས་རྗེས།སྒོར་མོ་ཏོག་ཙམ་རིན་ཐང་ལྡན།གལ་ཏེ་སྲས་མོ་ཡོད་ན་དགོང་མོ་གཉིས་གསུམ་ལ་འདང་ཐུབ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_183",
+    "span1_text": "གྲི་",
+    "span1_index": 48,
+    "span2_text": "མོ་",
+    "span2_index": 51,
+    "text": "ཇ་སྒོར་མོ་སྤྲོད་སྐབས།ཇ་ཁང་ནང་གི་མི་ཚང་མ་བུད་སོང་། ཆུ་རགས་ཕྱི་རོལ་གྱི་ཆུ་བོའི་སྒྲ་ཡང་བསྐྱར་ཁྱབ་ནས་ཇ་མགྲོན་པོ་ཚོས་བཞག་པའི་འུར་སྒྲ་གཙང་སེལ་བྱས། སྒྲོལ་མས་བཤད་རྒྱུར།ང་ལ་ཁྱོད་ཀྱི་གྲི་ལ་ཡང་བསྐྱར་བལྟ་རུ་ཆོགཁོ་མོས་བལྟས་རྗེས།སྒོར་མོ་ཏོག་ཙམ་རིན་ཐང་ལྡན།གལ་ཏེ་སྲས་མོ་ཡོད་ན་དགོང་མོ་གཉིས་གསུམ་ལ་འདང་ཐུབ།ཞེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_192",
+    "span1_text": "ལམ་ཐག་རླངས་འཁོར་",
+    "span1_index": 16,
+    "span2_text": "དེ་དག་",
+    "span2_index": 47,
+    "text": "རྡུལ་གྱིས་མཐོང་ལམ་བཀབ་པས།ངས་རྒྱང་ཐག་རིང་བའི་རླངས་འཁོར་མཐོང་མི་ཐུབ་པ་དང་།ཡལ་འགྲོ་བཞིན་པའི་འདས་ཟིན་པའི་ཚེ་སྲོག་མཐོང་མི་ཐུབ། ས་རྡུལ་མིག་གི་ནང་དུ་འཕྱུར།ངས་མིག་ཆུ་བཀོལ་ནས་དེ་དག་བཀྲུ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_193",
+    "span1_text": "ཚེ་སྲོག་",
+    "span1_index": 32,
+    "span2_text": "དེ་དག་",
+    "span2_index": 47,
+    "text": "རྡུལ་གྱིས་མཐོང་ལམ་བཀབ་པས།ངས་རྒྱང་ཐག་རིང་བའི་རླངས་འཁོར་མཐོང་མི་ཐུབ་པ་དང་།ཡལ་འགྲོ་བཞིན་པའི་འདས་ཟིན་པའི་ཚེ་སྲོག་མཐོང་མི་ཐུབ། ས་རྡུལ་མིག་གི་ནང་དུ་འཕྱུར།ངས་མིག་ཆུ་བཀོལ་ནས་དེ་དག་བཀྲུ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_203",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 5,
+    "span2_text": "ཁོ་",
+    "span2_index": 19,
+    "text": "སྐྱ་མདོག་ཅན་གྱི་བུད་མེད་འདིས་དེ་སྔའི་དགའ་རོགས་ཀྱི་མིང་མ་ཟེར།ཁོ་ཞེས་བཤད།ངའི་སེམས་ལ་གྲི་གྲི་སྟེང་དུ་འོད་འཚེར་བ་དང་འདྲ་བར།སྡུག་བསྔལ་རྣོན་པོ་ཞིག་འཕྲོས་སུ་བཅུག",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_205",
+    "span1_text": "ཨ་ཕ་",
+    "span1_index": 3,
+    "span2_text": "མོ་",
+    "span2_index": 43,
+    "text": "གནད་འགག་ནི་ཨ་ཕས་ངའི་དོན་དག་ལ་སེམས་ཁུར་མི་བྱེད། ཁོས་དོན་དངོས་སུ་ཨ་མའི་དོན་དག་ལ་སེམས་ཁུར་མི་བྱེད།རྒྱུ་མཚན་ནི་ངས་ཨ་མའི་ས་ནས་ངའི་དོན་དག་ནི་མོའི་དོན་དག་ཡིན་པ་ཚོར་ཐུབ། ཨ་ཕས་ཁོ་རང་ཉིད་ཁོ་ནར་སེམས་ཁུར་བྱེད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_209",
+    "span1_text": "ཡེ་ཆིའུ་",
+    "span1_index": 0,
+    "span2_text": "ཁོ་",
+    "span2_index": 63,
+    "text": "དབྱི་ཆིའུ་ང་ལས་ལོ་གསུམ་ཆེ་བ་ཡོད།མོ་ལོ་བདུན་ལ་སླེབས་སྐབས།སློབ་གྲྭ་ལོ་ན་སླེབས་པའི་བྱིས་པ་མང་ཆེ་བ་དང་འདྲ་བར་སློབ་ཆུང་དུ་མ་སླེབས་པར་ཨ་ཁུ་ཡིས་ཁྲིད་ནས་བྱང་ཕྱོགས་ཀྱི་གྲོང་རྡལ་ཆུང་ཆུང་ཞིག་ཏུ་རྐང་པ་སྨན་བཅོས་བྱེད་པར་སོང་ཡོད། གོ་ཐོས་སུ་དེ་གར་དམངས་ཁྲོད་ཀྱི་སྨན་པ་ཞིག་ཡོད་པ་དང་།ཁོས་ནད་པའི་རྐང་ལག་དབང་པོ་སྐྱོན་ཅན་ནང་དུ་རྒྱུན་ཆད་མེད་པར་སྲ་གཟུགས་ཀྱི་སྨན་རྫས་ཤིག་སྦས་བཞིན་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_223",
+    "span1_text": "ཡུལ་གཞན་གྱི་མི་",
+    "span1_index": 6,
+    "span2_text": "མོ་",
+    "span2_index": 39,
+    "text": "ང་ཕ་ཡུལ་གཞན་གྱི་མི་འདིའམ་ཡང་ན་ཕ་ཡུལ་གཞན་གྱི་མི་དང་འདྲ་བའི་མི་འདི་དང་འཕྲད་པའི་སྔོན་དུ།ང་ཧོའི་ཁང་བའི་ནང་དུ་ཡོད། ང་ཚོས་མཉམ་དུ་དགོང་ཟས་དང་།མོས་ཁྱིམ་གྱི་ཚལ་འགའ་བཟོས་པ་།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_237",
+    "span1_text": "མགོ་",
+    "span1_index": 2,
+    "span2_text": "དེ།",
+    "span2_index": 36,
+    "text": "ངའི་ཀླད་པའི་ནང་དུ་ཁེངས་ཡོད་པས།ཁོ་མོའི་ཁང་བའི་ནང་གི་ཨོའུ་ཨོའུ་སྒྲས་ངའི་ཐོས་ཚོར་དང་དབང་རྩ་ལ་བར་ཆད་བཟོ་བཞིན་ཡོད་པས།ཕལ་ཆེར་དེ་ངའི་ཀླད་པའི་ནང་དུ་སིམ་པ་འདྲ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_244",
+    "span1_text": "བུད་མེད་",
+    "span1_index": 9,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 60,
+    "text": "ལམ་ཐོག་ང་དང་འཕྲད་པའི་བུད་མེད་རེ་རེ་ནི་ངའི་ཨ་མ་དང་འདྲ་བས།ང་ལ་གྲང་མོ་དང་དྲོ་སྐྱིད་འདྲི་བཞིན་ཡོད།རྟག་ཏུ་ང་ལྟོགས་པའམ་ཡང་ན་ནད་ཕོག་པར་སེམས་ཁྲལ་བྱེད་བཞིན་ཡོད། ང་ལ་འཕྲད་པའི་སྐྱེས་པ་ཡོད་ཚད་དང་།ཚང་མ་ལེ་ཧྥུང་དང་འདྲ།གལ་ཏེ་ངས་སེམས་ཆུང་མ་བྱས་པར་འགྱེལ་སོང་ན།ཁོ་ཚོས་སྔོན་ལ་བྲེལ་འཚུབ་ངང་གོམ་པ་འགའ་ལ་རྒྱུགས་ནས་ང་ས་སྟེང་ནས་པང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_245",
+    "span1_text": "ཨ་མ་",
+    "span1_index": 15,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 60,
+    "text": "ལམ་ཐོག་ང་དང་འཕྲད་པའི་བུད་མེད་རེ་རེ་ནི་ངའི་ཨ་མ་དང་འདྲ་བས།ང་ལ་གྲང་མོ་དང་དྲོ་སྐྱིད་འདྲི་བཞིན་ཡོད།རྟག་ཏུ་ང་ལྟོགས་པའམ་ཡང་ན་ནད་ཕོག་པར་སེམས་ཁྲལ་བྱེད་བཞིན་ཡོད། ང་ལ་འཕྲད་པའི་སྐྱེས་པ་ཡོད་ཚད་དང་།ཚང་མ་ལེ་ཧྥུང་དང་འདྲ།གལ་ཏེ་ངས་སེམས་ཆུང་མ་བྱས་པར་འགྱེལ་སོང་ན།ཁོ་ཚོས་སྔོན་ལ་བྲེལ་འཚུབ་ངང་གོམ་པ་འགའ་ལ་རྒྱུགས་ནས་ང་ས་སྟེང་ནས་པང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_247",
+    "span1_text": "ལེ་ཧྥུང་",
+    "span1_index": 47,
+    "span2_text": "ཁོ་ཚོ།",
+    "span2_index": 60,
+    "text": "ལམ་ཐོག་ང་དང་འཕྲད་པའི་བུད་མེད་རེ་རེ་ནི་ངའི་ཨ་མ་དང་འདྲ་བས།ང་ལ་གྲང་མོ་དང་དྲོ་སྐྱིད་འདྲི་བཞིན་ཡོད།རྟག་ཏུ་ང་ལྟོགས་པའམ་ཡང་ན་ནད་ཕོག་པར་སེམས་ཁྲལ་བྱེད་བཞིན་ཡོད། ང་ལ་འཕྲད་པའི་སྐྱེས་པ་ཡོད་ཚད་དང་།ཚང་མ་ལེ་ཧྥུང་དང་འདྲ།གལ་ཏེ་ངས་སེམས་ཆུང་མ་བྱས་པར་འགྱེལ་སོང་ན།ཁོ་ཚོས་སྔོན་ལ་བྲེལ་འཚུབ་ངང་གོམ་པ་འགའ་ལ་རྒྱུགས་ནས་ང་ས་སྟེང་ནས་པང་དུ་བླུགས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_259",
+    "span1_text": "ཆུ་འབྲས་",
+    "span1_index": 43,
+    "span2_text": "དེ།",
+    "span2_index": 72,
+    "text": "ཏའེ་ཨེར་གྱིས་དེ་ནི་ཁོ་མོའི་ཨ་མ་སྔ་དུས་གྲོང་གསེབ་ཏུ་བསྒྱུར་བཀོད་བྱེད་སྐབས་ཕྱིར་ཁྱེར་ཡོང་བའི་ཡུལ་དངོས་ཡིན་ཁོ་ཐག་ཡིན་པར་འདོད།ཁོ་མོས་ཐ་ན་དེབ་ཀྱི་ཤོག་ངོས་དེའི་ཐོག་ནས་ནག་པོ་དང་འོད་འཚེར་བའི་ཞིང་ནང་གི་ཆུ་འབྲས་ཀྱི་དྲི་ཞིམ་དང་སྟོན་ཁའི་ཉི་འོད་འོག་གི་ཞིང་རའི་སྟེང་གི་མ་རྨོས་ལོ་ཏོག་གི་གསེར་མདོག་སྣོམ་ཐུབ། དེར་བརྟེན།སྲས་མོ་ཏའེ་ཨེར་གྱིས་དེ་གསང་སྤྱོད་ཁང་གི་ཤོག་བུའི་སླེ་བུའི་ནང་དུ་གཡུགས་ནས་སྨན་བཅོས་ཀྱི་དཔེ་དེབ་གཞན་པའི་ཕྱིར་བརྒྱབ།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_273",
+    "span1_text": "ཁང་ཁུག་",
+    "span1_index": 37,
+    "span2_text": "དེ།",
+    "span2_index": 59,
+    "text": "ཏའེ་ཨེར་གྱིས“མའེ་སན་གྱིས་ཁྱོད་དང་བཟའ་ཚང་ཁ་བྲལ་བར་ཁ་རྩོད་བྱས་པར་ཡ་མཚན་མེད།ཐ་ན་ཁྱོད་ཀྱིས་སྐད་ཆ་ཡང་བཤད་མི་ཤེས།ཁྱོད་ཀྱིས་ང་སྲེག་རྒྱུར་སྐྲག་མི་སྲིད།དེ་ལས་ལྡོག་སྟེ་ཐོག་མར་ཁུ་བ་ལ་སེམས་སྡུག་བྱེད་ཀྱི་ཡོད”ཅེས་མའོ་ཧྥེ་གིས“ངས་འདི་ལྟར་བཤད་འདོད་པ་ཡིན་མོད།འོན་ཀྱང་སྐད་ཆ་བཤད་ན་རང་ཉིད་ཀྱིས་དཀྱོག་སོང་ཡོད”ཅེས་བཤད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_279",
+    "span1_text": "མིའུ་དབྱི་",
+    "span1_index": 8,
+    "span2_text": "ཁོ་མོ་ཚོ་",
+    "span2_index": 83,
+    "text": "ལྷག་པར་དུ་སྲས་མོ་ཏའེ་ཨེར་དང་མིའོ་དབྱི་གཉིས་ནི་ཏའེ་གཉིས་ཀྱི་ཁྱིམ་གྱི་ཉི་གཡབ་སྟེང་དུ་སྦས་ཡོད།དབྱར་དུས་ཀྱི་མཚན་མོ་ནི་ཧ་ཅང་རིང་བ་དང་བརྩེ་དུང་ཟབ་མོ་ཡིན།ཁོ་ཚོས་ལྐོག་གྱུར་དང་སྔོ་མདོག་གི་མཁའ་དབྱིངས་ལ་བལྟས་ནས་ཕན་ཚུན་གྱི་རྒྱང་ཐག་རིང་བའི་སྔོན་ཆད་དང་།རྨི་ལམ་དང་དཀའ་སྤྱད་འཚོལ་བའི་བརྩེ་དུང་སོགས་བཤད་བཞིན་ཡོད།དུས་རབས་ཀྱི་སྐད་ཀྱིས་ཁོ་ཚོའི་སེམས་ལ་ཁྱབ་ཡོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_281",
+    "span1_text": "སྐྱུག་བྲ་",
+    "span1_index": 3,
+    "span2_text": "དེ་དག་",
+    "span2_index": 97,
+    "text": "ཀྲུང་གོར་བཞད་གད་ཧ་ཅང་མང་པོ་ཡོད་པས།སྲུབས་གང་ཞིག་གི་ནང་དུ་དཔྱིད་ཀ་བྱུང་བ་དང་འདྲ་བར་བཞད་གད་ཀྱི་ངོ་གདོང་སྐྱེས་སྲིད།དེའི་ནང་གི་ངོ་གདོང་ཁ་ཤས་ལ་འཁྲབ་སྟོན་གྱི་ངོ་བོ་ལྡན་པས་སྐྱོ་གདུང་སྦས་ཡོད། ངོ་གདོང་ཁ་ཤས་སྔ་མོ་ནས་རྫུན་བཟོ་བྱས་ནས་དོན་དངོས་སུ་གྱུར་པས།གོམས་གཤིས་རྒྱུན་དུ་གྱུར་ཡོད། ལོ་འདི་དག་གི་རིང་ལ།སྲས་མོ་ཏའེ་ཨེར་གྱིས་སེམས་ཁུར་ཆེན་པོས་ངོ་གདོང་ཁྲི་སྟོང་མང་པོར་ལྟ་ཞིབ་བྱས་པ་མ་ཟད།དེ་དག་ལ་དབྱེ་ཞིབ་ཞིབ་ཕྲ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_282",
+    "span1_text": "དཔྱིད་ཀ་",
+    "span1_index": 23,
+    "span2_text": "དེ་དག་",
+    "span2_index": 97,
+    "text": "ཀྲུང་གོར་བཞད་གད་ཧ་ཅང་མང་པོ་ཡོད་པས།སྲུབས་གང་ཞིག་གི་ནང་དུ་དཔྱིད་ཀ་བྱུང་བ་དང་འདྲ་བར་བཞད་གད་ཀྱི་ངོ་གདོང་སྐྱེས་སྲིད།དེའི་ནང་གི་ངོ་གདོང་ཁ་ཤས་ལ་འཁྲབ་སྟོན་གྱི་ངོ་བོ་ལྡན་པས་སྐྱོ་གདུང་སྦས་ཡོད། ངོ་གདོང་ཁ་ཤས་སྔ་མོ་ནས་རྫུན་བཟོ་བྱས་ནས་དོན་དངོས་སུ་གྱུར་པས།གོམས་གཤིས་རྒྱུན་དུ་གྱུར་ཡོད། ལོ་འདི་དག་གི་རིང་ལ།སྲས་མོ་ཏའེ་ཨེར་གྱིས་སེམས་ཁུར་ཆེན་པོས་ངོ་གདོང་ཁྲི་སྟོང་མང་པོར་ལྟ་ཞིབ་བྱས་པ་མ་ཟད།དེ་དག་ལ་དབྱེ་ཞིབ་ཞིབ་ཕྲ་བྱས།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_291",
+    "span1_text": "གླུ་གཞས་",
+    "span1_index": 44,
+    "span2_text": "ཁོ་",
+    "span2_index": 64,
+    "text": "“སུ་ཞིག་གི་བུ་”ཏའེ་ཨེར་སྔ་མོ་ནས་དགྲ་བོའི་བཙན་རྫོང་དུ་འཛེགས་ནས་རིག་གནས་ལས་རིགས་དང་སྒྱུ་རྩལ་ལས་རིགས་སུ་བཙན་ཤེད་དང་གཡོ་འཕྲུལ་བྱེད་བཞིན་ཡོད། མཁས་པ་དང་།གླུ་མཁན།གློག་བརྙན་འཁྲབ་སྟོན་པ་སོགས་མིང་གྲགས་ནས་རྒྱལ་ཁ་ཐོབ་འདོད་མཁན་ཚང་མ་སྔོན་ལ་ཁོའི་སར་ཕྱིན་པ་དང་།དེ་ལྟར་མ་བྱས་ན་རྒྱལ་ཁ་ཐོབ་ན་མི་འདོད།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  },
+  {
+    "id": "foundation_tasks_coreference_resolution_bo_300",
+    "span1_text": "ཉིའུ་གཡོད་",
+    "span1_index": 34,
+    "span2_text": "དེ།",
+    "span2_index": 47,
+    "text": "མོས་མི་རྒྱུན་ལ་བལྟས་སྟེ།མི་རྒྱུན་དེ་ནི་སྣང་མེད་ཀྱི་རླུང་དང་ཧ་ཅང་འདྲ་སྟེ།གནའ་རབས་ནས་ད་ལྟའི་བར་དུ་བཞུར་བཞིན་ཡོད།ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོའི་ཤར་ཕྱོགས་ཀྱི་ཉིའུ་གཡོད་གྲོང་ཁྱེར་ནས་རྒྱ་མཚོ་ཆེན་མོ་བརྒལ་ནས་པེ་ཅིང་དུ་བཞུར་བཞིན་ཡོད། དེས་སྔོན་ཆད་ཀྱི་མི་རྣམས་ཀྱི་དགའ་སྤྲོ་དང་སྐྱོ་གདུང་འཁྱེར་ནས་ལོ་ཟླ་ཡུན་རིང་འཁྱེར་ནས་སྲས་མོ་ཏའེ་ཨེར་གྱི་འགྲམ་ནས་སྣང་མེད་དུ་འདྲེད་རྗེས།སྲས་མོ་ཏའེ་ཨེར་གྱི་ཡོད་ཚད་དང་བསྟུན་ནས་རྒྱང་རིང་དང་མ་འོངས་པར་བསྐྱུར།",
+    "option": [
+      "true",
+      "false"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "bo",
+      "difficulty": "very_easy",
+      "task_category": "Foundation Tasks",
+      "task_name": "Coreference Resolution"
+    }
+  }
+]

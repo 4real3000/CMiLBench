@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_40",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠲᠠᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠥᠮᠥᠷᠢ ᠭᠠᠵᠠᠷ ᠂ ᠬᠣᠪᠴᠠᠰᠤ ᠨᠥᠮᠤᠷ ᠂ ᠨᠠᠭᠠᠳᠴᠤ ᠲᠣᠭᠯᠠᠬᠤ",
+      "ᠠᠭᠤᠷᠬᠠᠢ ᠨᠡᠬᠡᠬᠦ ᠂ ᠦᠷᠢ ᠨᠡᠬᠡᠭᠡᠬᠦ ᠂ ᠰᠡᠳᠡᠷᠡᠬᠡᠢ ᠬᠤᠭᠤᠯᠠᠢ",
+      "ᠮᠣᠭᠠᠢ ᠢᠴᠡᠭᠡᠯᠡᠬᠦ ᠂ ᠢᠯᠴᠡᠷᠡᠮᠡᠯ ᠦᠵᠡᠯ ᠂ ᠦᠰᠦ ᠶᠢ ᠨᠢ ᠢᠯᠪᠢᠬᠦ",
+      "ᠰᠤᠷᠮᠠᠭᠠᠢ ᠰᠤᠷᠲᠠᠯ ᠂ ᠳᠠᠳᠮᠠᠭᠠᠢ ᠵᠠᠩ ᠂ ᠠᠢᠯ ᠰᠠᠭᠠᠬᠠᠯᠲᠠ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_41",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠡᠷᠭᠡᠢᠯᠡᠯᠲᠡ —— ᠰᠠᠷ+ ᠬᠡᠢ + ᠯᠡ + ᠯᠳᠡ\nᠢᠯᠡᠷᠭᠡᠢᠯᠡᠬᠦ —— ᠢᠯᠡ + ‍ᠷ+ ᠬᠡᠢ+ ᠯᠡ+ ᠬᠦ",
+      "ᠦᠨᠳᠡᠰᠬᠢᠬᠦ  ᠦᠨᠳᠡᠰ + ᠬᠢ + ᠬᠦ\nᠲᠣᠭᠣᠮᠰᠠᠷᠯᠠᠬᠤ —— ᠲᠣᠭᠤ + ᠮᠰᠠᠷ + ᠯᠡ + ‍ᠬᠤ᠋",
+      "ᠳᠠᠳᠤᠯᠭᠠᠵᠢᠭᠤᠯᠬᠤ  ᠳᠠᠳ + ᠯᠭ᠎ᠠ + ᠵᠢ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋\nᠬᠠᠮᠲᠤᠷᠠᠯᠵᠢᠭᠤᠯᠬᠤ —— ᠬᠠᠮᠲᠤ + ᠷᠠ + ‍ᠯᠵᠢ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋",
+      "ᠵᠢᠮᠡᠯᠡᠭ᠍ᠳᠡᠬᠦ  ᠵᠢᠮ᠎ᠠ + ᠯᠡ+ ᠭᠳᠡ + ᠬᠦ\nᠲᠤᠩᠭᠠᠯᠠᠭᠰᠢᠬᠤ —— ᠲᠣᠨ+᠎ ᠭ᠎ᠠ + ᠯᠠᠭ + ᠰᠢ + ‍ᠬᠤ᠋"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_44",
+    "question": "ᠲᠠᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠡᠷᠡᠮ ᠦᠨ ᠰᠡᠳᠡᠷᠬᠡᠢ ᠂ ᠪᠦᠯᠲᠡᠢᠭᠡᠷ ᠨᠢᠳᠣ ᠂ ᠰᠢᠷᠬᠠᠭᠳᠤᠭᠰᠠᠨ ᠬᠥᠯ",
+      "ᠪᠣᠳᠣᠯ ᠡᠪᠦᠷᠳᠦᠯᠡᠨ ᠂ ᠦᠮᠡᠭᠡᠢᠷᠡᠵᠤ ᠭᠦᠢᠴᠡᠬᠦ ᠂ ᠴᠤᠴᠠᠵᠤ ᠡᠭᠡᠳᠡᠷᠳᠡᠭ",
+      "ᠣᠪᠣᠭ᠎ᠠ ᠬᠠᠷᠠᠭ᠎ᠠ ᠂ ᠬᠠᠭᠠᠯᠭᠠᠨ ᠤ ᠴᠤᠤᠵᠢ ᠂ ᠦᠨᠣᠷ ᠠᠩᠬᠢᠯᠠᠭᠠᠳ",
+      "ᠬᠡᠷᠴᠢᠮ ᠱᠤᠭᠤᠮ ᠂ ᠬᠣᠯᠴᠢᠵᠤ ᠠᠶᠤᠭᠠᠳ ᠂ ᠠᠨᠳᠠᠭᠠᠢ ᠳᠠᠩᠭᠠᠷᠢᠭ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_45",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠳᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠣᠷᠢᠭ᠌ᠯᠠᠪᠠᠰᠤ  ᠬᠣᠷᠢ + ᠠ + ᠯᠡ + ᠪᠠ + ᠰᠤ᠋",
+      "ᠲᠠᠰᠤᠯᠴᠠᠬᠤ  ᠲᠠᠰᠤ + ‍ᠯ+ᠴᠡ + ᠠᠤ᠋",
+      "ᠨᠣᠭᠲᠤᠯᠠᠭᠳᠠᠭᠰᠠᠨ  ᠨᠣᠭᠲᠤ + ᠯᠠᠭ + ᠳ᠋ᠠᠭ+ ᠰᠠᠨ",
+      "ᠤᠢᠳᠬᠠᠷᠯᠠᠭᠰᠠᠨ  ᠣᠢ +  ᠤᠨ +‍ᠭ᠋ᠠᠷ+ ᠯᠡ + ᠠᠰᠠᠨ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_46",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠢᠷᠡᠭᠡ ᠨᠤᠭᠦᠳ ᠂ ᠬᠡᠰᠡᠭ ᠳᠦ ᠂ ᠶᠠᠪᠤᠵᠠᠭᠠᠬᠤ",
+      "ᠲᠣᠰᠣᠯ ᠤᠳ ᠂ ᠬᠠᠪᠤᠷ ᠶᠢᠨ ᠂ ᠪᠠᠭᠠᠬᠠᠨ",
+      " ᠴᠡᠴᠡᠭ  ᠦᠳ ᠂ ᠪᠡᠶ᠎ᠡ  ᠢᠶᠡᠷ  ᠢᠶᠡᠨ ᠂ ᠠᠷᠪᠠᠭᠤᠯᠠ",
+      "ᠵᠠᠯᠠᠭᠤᠰ ᠂ ᠨᠣᠮ ᠢ ᠨᠢ ᠂ ᠬᠤᠷᠴᠠᠯᠢᠭ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_47",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠵᠣᠭᠰᠣᠭᠠᠭᠠᠳ  ᠵᠣᠭ + ᠰᠦ᠋ + ᠭ᠎ᠠ + ‍ᠭ᠋ᠠᠳ\nᠲᠦᠭ᠍ᠰᠢᠭᠦᠷᠢᠳᠡᠢᠭᠡᠨ  ᠲᠦᠭ᠍ᠰᠢ + ᠬᠦ + ᠷᠢ + ᠳ᠋ᠠᠢ + ᠬᠡᠨ",
+      "ᠡᠩᠨᠡᠭᠦᠯᠦᠨ —— ᠡᠩ + ᠨᠡ + ᠭᠦ᠋ᠯ + ‍ᠨ\nᠰᠠᠵᠢᠭ᠍ᠯᠡᠭᠦᠰᠢᠲᠠᠢ —— ᠰᠠᠵᠢ + ‍ᠭ + ᠯᠡ + ᠬᠦ + ᠰᠢᠲᠠᠢ",
+      "ᠲᠠᠢᠯᠠᠯᠳᠤᠵᠤ  ᠲᠠᠢᠨ + ᠯᠡ + ‍ᠯᠳᠤ + ᠵᠦ\nᠲᠠᠳᠮᠠᠭᠠᠢᠷᠠᠬᠤ —— ᠳᠠᠳ + ᠮᠠᠭᠠᠢ + ᠷᠠ + ‍ᠬᠤ᠋",
+      "ᠦᠯᠥᠰᠬᠦᠯᠡᠩ  ᠦᠯᠥᠨ + ‍ᠰ+ ᠭᠦ᠋ᠯᠡᠩ\nᠢᠳᠡᠪᠬᠢᠯᠡᠬᠦ  ᠢᠳᠡ + ᠪᠬᠢᠯᠡ + ᠬᠦ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_59",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠳᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠯᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ —— ᠠᠯᠠᠭ᠎ᠠ + ᠳ᠋ᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋\nᠬᠠᠩᠭᠠᠯᠳᠠᠲᠠᠢ —— ᠬᠠᠨ + ᠭ᠎ᠠ + ‍ᠯᠳᠠ + ᠳ᠋ᠠᠢ",
+      "ᠬᠠᠷᠠᠮᠯᠠᠪᠠᠴᠤ —— ᠬᠠᠷᠠᠮ + ᠯᠡ + ᠪᠠᠴᠤ\nᠬᠠᠰᠬᠢᠷᠤᠯᠳᠤᠬᠤ —— ᠬᠠᠰᠬᠢᠷ + ‍ᠯ+  ᠳᠤ + ‍ᠬᠤ᠋",
+      "ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠬᠦᠷᠢᠶ᠎ᠡ + ᠯᠠᠩ\nᠡᠯᠡᠰᠦᠷᠬᠡᠭ᠍ᠵᠢᠯ  ᠡᠯᠡ + ᠰᠤ᠋ + ᠷᠬᠡᠭ + ᠵᠢ + ‍ᠯ",
+      "ᠰᠡᠷᠢᠭᠦᠪᠳᠤᠷ  ᠰᠡᠷᠢᠭᠦᠦ + ᠪᠲᠦᠷ\nᠲᠤᠰᠠᠭᠠᠷᠯᠠᠵᠤ —— ᠲᠤᠰᠠ + ‍ᠭ᠋ᠠᠷ + ᠯᠡ + ᠵᠦ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_60",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠣᠨᠢᠷᠬᠠᠯ  ᠰᠣᠨᠢᠨ + ᠷᠬ᠎ᠠ + ‍ᠯ",
+      "ᠳ᠋ᠦᠩᠨᠡᠯᠲᠡ —— ᠳ᠋ᠦᠩ + ᠨᠠᠯ + ᠳ᠋ᠡ",
+      "ᠲᠡᠮᠡᠴᠡᠯᠲᠣ —— ᠲᠡᠮᠡᠴᠡ + ‍ᠯ+ ᠳ᠋ᠤ",
+      "ᠬᠠᠷᠴᠢᠬᠢᠨᠠᠭᠤᠯᠬᠤ —— ᠬᠠᠷ + ᠴᠢᠬᠢᠨᠠ + ‍ᠭ᠋ᠤᠯ + ᠠᠤ᠋"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_61",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠡᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠡᠭᠡᠨᠴᠢᠷ —— ᠬᠡ + ᠬᠡᠨ + ᠴᠢᠷ",
+      "ᠣᠷᠬᠢᠯᠠᠬᠤ —— ᠣᠷ + ᠬᠢ + ‍ᠯ +ᠠᠤ᠋",
+      "ᠨᠡᠪᠲᠡᠷᠡᠲᠡᠯ᠎ᠡ —— ᠨᠡᠪ + ᠳ᠋ᠡ + ‍ᠡᠷ+ᠳ᠋ᠠᠯ᠎ᠡ",
+      "ᠬᠥᠮᠥᠵᠢᠭᠦᠯᠬᠦ  ᠬᠦᠮᠥᠨ + ᠵᠢ + ᠭᠦ᠋ᠯ + ᠬᠦ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_66",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ  ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ —— ᠰᠤᠷᠭ᠎ᠠ + ‍ᠭ᠋ᠤᠯᠢ",
+      "ᠰᠢᠷᠬᠠᠭᠲᠠᠬᠤ —— ᠰᠢᠷᠠ+ ᠠ +ᠳ᠋ᠡ + ᠠᠤ᠋",
+      "ᠪᠠᠭᠠᠲᠤᠷᠯᠢᠭ —— ᠪᠠᠭ᠎ᠠ+ ᠳ᠋ᠤᠷ + ᠯᠢᠭ᠋",
+      "ᠰᠢᠷᠬᠠᠲᠤᠬᠤ —— ᠰᠢᠷᠬ᠎ᠠ+  ᠳᠤ + ᠠ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_73",
+    "question": " ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠤᠯᠭᠠᠯᠠᠬᠤ  ᠣᠤ᠋ + ᠯᠭ᠎ᠠ + ᠯᠡ + ᠠᠤ᠋",
+      "ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ  ᠵᠠᠳᠠᠯ + ᠠᠰᠠᠨ",
+      "ᠣᠢᠳᠬᠠᠷᠯᠠᠬᠤ —— ᠣᠢᠳ + ‍ᠭ᠋ᠠᠷ +ᠯᠡ +ᠠᠤ᠋",
+      "ᠮᠥᠴᠡᠭᠡᠷᠬᠡᠬᠦ  ᠮᠥᠴᠠ + ᠭᠡᠷ + ᠭᠡ + ᠬᠦ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_74",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠳᠠᠭᠠᠰᠢᠷᠠᠭᠠᠳ —— ᠤᠳᠠᠭᠠᠨ + ᠰᠢᠷᠠ + ‍ᠭ᠋ᠠᠳ\nᠬᠤᠯᠠᠳᠠᠭᠤᠯᠤᠮᠠᠭᠴᠠ —— ᠬᠣᠯᠠ + ᠳ᠋ᠠ + ‍ᠭ᠋ᠤᠯ + ᠮᠠᠭᠴᠠ",
+      "ᠭᠠᠴᠢᠭ᠌ᠳᠠᠬᠤ —— ᠭᠠᠴᠢ + ‍ᠭ᠋ + ᠳ᠋ᠠ + ‍ᠬᠤ᠋\nᠵᠢᠷᠭᠠᠯᠡᠩᠲᠠᠢ  ᠵᠢᠷᠭ᠎ᠠ + ᠯᠠᠩ + ᠳ᠋ᠠᠢ",
+      "ᠠᠷᠠᠳᠴᠢᠯᠠᠯᠲᠤ —— ᠠᠷᠠᠳ + ᠴᠢᠯᠡ + ‍ᠯᠳᠤ\nᠢᠯᠡᠷᠭᠡᠢᠯᠡᠯᠲᠡ —— ᠢᠯᠡ + ᠷᠡ + ᠬᠡᠢ+ ᠯᠡ + ᠯᠳᠠ",
+      "ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠵᠤ —— ᠲᠣᠰ + ‍ᠭ᠋ᠠᠷ + ᠯᠡ + ᠵᠦ\nᠡᠳᠡᠭᠦᠷᠡᠮᠡᠷ  ᠠᠳᠠ + ᠬᠦ᠋ᠦ + ᠷᠠ + ᠮᠠᠷ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_76",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠠᠷᠢᠰᠤᠨ ᠪᠠᠪᠠᠭᠠᠢ ᠂ ᠪᠠᠯᠠᠳᠠᠵᠤ ᠰᠠᠨᠳᠤᠷᠬᠤ ᠂ ᠠᠭᠠᠷ ᠪᠤᠬᠢᠷᠳᠤᠬᠤ",
+      "ᠪᠣᠮᠪᠠᠭᠠᠷ ᠬᠠᠴᠠᠷ ᠂ ᠲᠣᠪᠣᠤ᠋ ᠪᠣᠯᠳᠠᠭ ᠂ ᠪᠣᠮᠪᠠᠢᠵᠤ ᠬᠠᠷᠠᠭᠳᠠᠬᠤ",
+      "ᠳᠠᠪᠲᠡᠷ ᠤᠨ ᠦᠳᠦᠭᠡᠰᠤ ᠂ ᠦᠳᠦᠵᠤ ᠮᠣᠷᠲᠠᠭᠤᠯᠬᠤ ᠂ ᠠᠪᠢᠶ᠎ᠠ ᠣᠨᠳᠤᠰᠢᠬᠤ",
+      "ᠪᠠᠭᠰᠢᠷᠤᠨ ᠤᠷᠭᠤᠬᠤ ᠂ ᠪᠠᠯᠡᠮᠠᠳ ᠳᠣᠭ᠌ᠰᠢᠨ ᠂ ᠳᠡᠭᠡᠰᠤᠨ ᠤ ᠪᠠᠯᠲᠠᠷᠤᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_77",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠳᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠡᠪᠳᠡᠷᠬᠡᠢ — ᠡᠪ +᠎ᠳ᠋ᠡ + ᠷᠭᠡᠢ",
+      "ᠦᠰᠦᠷᠤᠯᠲᠡ  ᠦᠰ + ‍ᠷ + ‍ᠯ+ ᠳ᠋ᠡ",
+      "ᠬᠦᠰᠡᠯᠡᠩᠵᠢᠭᠦᠯᠬᠦ  ᠬᠦᠰᠠ + ᠯᠠᠩ + ᠵᠢ + ᠬᠥ᠍ᠯ +ᠬᠦ",
+      "ᠰᠠᠨᠠᠭᠠᠯᠵᠠᠬᠤ —— ᠰᠠᠨᠠ + ᠭ᠎ᠠ + ‍ᠯᠵᠠ + ᠠᠤ᠋"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_78",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠳᠤᠷᠯᠠᠬᠤ —— ᠤᠳᠣᠷ + ᠯᠠ + ‍ᠬᠤ᠋\nᠬᠠᠮᠲᠤᠷᠠᠯᠴᠠᠬᠤ —— ᠬᠠᠮ + ᠳᠤ + ᠷᠠᠯ + ‍ᠴᠠ + ‍ᠬᠤ᠋",
+      "ᠨᠢᠭᠤᠴᠠᠭᠠᠢᠯᠠᠬᠤ —— ᠨᠢᠭᠤᠴᠠ + ‍ᠭ᠋ᠠᠢ + ᠯᠡ + ‍ᠬᠤ᠋\nᠰᠢᠮᠡᠳᠦᠬᠦ —— ᠰᠢᠮ᠎ᠡ + ᠳᠦ + ᠬᠦ",
+      "ᠪᠠᠶᠠᠰᠬᠤᠯᠠᠩᠭ᠍ᠲᠤ —— ᠪᠠᠶᠠᠰ + ᠠᠤᠯᠠᠩ +  ᠳᠤ\nᠲᠤᠰᠠᠭᠠᠷᠯᠠᠬᠤ —— ᠲᠣᠰ + ‍ᠭ᠋ᠠᠷ + ᠯᠡ + ‍ᠬᠤ᠋",
+      "ᠬᠡᠷᠡᠭᠦᠯᠴᠢ —— ᠬᠡᠷᠡ+ ᠭᠦ᠋ᠯ +ᠴᠢ\nᠰᠠᠭᠠᠬᠠᠯᠲᠠ —— ᠰᠠᠭ᠎ᠠ + ᠬ᠎ᠠ + ᠯᠳᠡ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_80",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠡᠮᠡᠭᠡᠯᠯᠡᠭᠦᠯᠵᠦ —— ᠡᠮᠡᠭᠡ + ᠯᠡ + ᠭᠦ᠋ᠯ + ᠵᠦ",
+      "ᠠᠮᠢᠳᠤᠷᠠᠨ᠎ᠠ  ᠠᠮᠢ +  ᠳᠤ + ᠷᠠ + ᠨ᠎ᠡ",
+      "ᠪᠣᠳᠣᠭᠳᠠᠭᠤᠯᠤᠨ᠎ᠠ —— ᠪᠣᠳᠣ + ‍ᠭ᠋ + ᠳ᠋ᠠ+ ‍ᠭ᠋ᠣᠯ + ᠨ᠎ᠡ",
+      "ᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠭᠳᠠᠪᠠ —— ᠲᠣᠳᠣ + ‍ᠷ+ ‍ᠬᠠᠢ + ᠯᠡ + ᠠᠳᠠ + ᠪᠠ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_81",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠳᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠤᠰᠬᠠᠭᠳᠠᠵᠤ  ᠲᠣᠰ + ᠭ᠎ᠠ + ᠠᠳᠠ + ᠵᠤ᠋",
+      "ᠡᠯᠡᠰᠦᠷᠬᠡᠭ᠍ᠵᠢᠵᠦ  ᠡᠯ᠎ᠡ + ᠰᠦ᠋ + ‍ᠡᠷᠬᠡᠭ + ᠵᠢ + ᠵᠤ᠋",
+      "ᠲᠣᠬᠣᠭᠤᠷᠬᠠᠭᠰᠠᠨ  ᠲᠣᠬᠣᠭᠤ + ᠷᠬ᠎ᠠ + ᠠᠰᠠᠨ",
+      "ᠲᠡᠨᠤᠭᠦᠴᠢᠯᠡᠬᠦ —— ᠲᠠᠨᠤ + ᠭᠦ᠋ᠯ + ᠴᠢᠯᠠ + ᠬᠦ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_86",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠪᠦᠷᠢᠨ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢᠭᠡ ᠵᠣᠤᠷᠪᠤᠰ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠨᠢᠪᠠᠯᠵᠠ ᠂ ᠬᠥᠭ᠍ᠰᠢᠳ ᠂ ᠪᠠᠭ᠌ᠰᠢ ᠨᠠᠷ",
+      "ᠲᠣᠰᠬᠤᠨ ᠨᠤᠭᠦᠳ ᠂ ᠠᠪᠤ ᠤᠨ ᠢᠶᠠᠨ ᠂ ᠰᠤᠷᠵᠠᠭᠠᠶ᠎ᠠ",
+      "ᠲᠡᠮᠡᠭᠡ ᠦᠳ ᠂ ᠬᠠᠪᠤᠷ ᠶᠢᠨ ᠨᠠᠷᠠ ᠂ ᠡᠭᠦᠳᠦᠵᠣ",
+      "ᠮᠣᠷᠢ ᠳᠤ ᠮᠣᠷᠳᠤ ᠂ ᠲᠦᠯᠬᠢᠭᠦᠷ ᠪᠠᠷ ᠢᠶᠠᠨ ᠂ ᠭᠠᠷᠵᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_88",
+    "question": "ᠳᠦᠷᠪᠡᠯᠵᠢᠭ᠍ᠰᠡᠨ ᠦᠭᠡ ᠶᠢᠨ ᠤᠳᠬ᠎ᠠ ᠶᠢ ᠬᠠᠭᠠᠯᠲᠠ ᠳᠤ ᠵᠥᠪ ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠥᠮᠥᠨ ᠤᠯᠠᠨ ᠤ ᠤᠷᠤᠰᠬᠠᠯ ᠳᠤ ［ᠬᠥᠯ ᠨᠡᠢᠯᠡᠭ᠍ᠰᠡᠨ］ （ ᠪᠤᠯᠤ ᠲᠡᠩᠭᠡᠯᠢᠭ ᠪᠣᠯᠤᠭᠰᠠᠨ ） ᠨᠠᠢᠢᠵᠠ ᠮᠢᠨᠢ ᠃",
+      "ᠲᠡᠰᠡᠯᠡᠭ᠍ᠴᠢ ᠭᠣᠯᠣᠸᠤᠢ ᠨᠢᠭᠡ ᠪᠠᠢᠯᠳᠤᠭ᠌ᠴᠢ ᠠᠯᠠᠭ᠎ᠠ ᠪᠣᠯᠪᠠ ᠭᠡᠵᠦ ［ᠦᠭᠡᠢᠯᠡᠨ ᠮᠡᠳᠡᠭ᠍ᠰᠡᠨ］ （ ᠰᠡᠷᠡᠵᠦ ᠮᠡᠳᠡᠭ᠍ᠰᠡᠨ ） ᠪᠣᠯᠣᠯᠲᠠᠢ ᠪᠠᠢᠨ ᠲᠠᠬᠢᠨ ᠡᠷᠬᠢᠨ ᠬᠠᠷᠠᠵᠤ ᠶᠠᠪᠤᠵᠠᠢ ᠃",
+      "ᠬᠡᠯᠡ ᠪᠡᠨ ᠪᠢ ᠭᠡᠭᠡᠭ᠍ᠰᠡᠨ ᠦᠭᠡᠢ ᠂ ᠬᠡᠯᠡᠨ ᠳᠦ ᠪᠡᠨ ᠪᠢ ᠭᠡᠭᠡᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ ᠦᠭᠡᠢ ᠃ ᠳᠡᠭᠡᠵᠦ ᠪᠠᠢᠭᠠᠳ\n［ᠦᠭᠡᠢᠯᠡᠬᠦ ］（ ᠦᠭᠡᠢ ᠪᠣᠯᠬᠤ ） ᠨᠢ ᠶᠠᠭᠤᠨ ᠪᠢᠯᠡ ᠃",
+      "ᠲᠤᠯᠭ᠎ᠠ ᠶᠢᠨ ᠭᠤᠷᠪᠠᠨ ᠴᠢᠯᠠᠭᠤ ᠨᠢ ᠭᠠᠵᠠᠷ ᠤᠨ ᠲᠠᠮᠠᠭ᠎ᠠ ᠶᠢᠨ ᠭᠤᠷᠪᠠᠨ ᠦᠰᠦᠭ ᠭᠡᠳᠡᠭ ᠢ ᠲᠡᠷᠡ\nᠦᠶ᠎ᠡ ᠳᠦ ᠡᠵᠢ ᠡᠴᠡ ᠪᠡᠨ ᠠᠶᠤᠭᠠᠳ ᠠᠰᠠᠭᠤᠵᠤ ᠴᠢᠳᠠᠭ᠎ᠠ ᠦᠭᠡᠢ ᠮᠥᠷᠲᠡᠭᠡᠨ ᠪᠣᠳᠣᠭᠠᠳ ᠪᠣᠳᠣᠭᠠᠳ ［ᠪᠣᠰᠣᠭ᠎ᠠ\nᠶ᠋ᠢ ᠨᠢ ᠣᠯᠣᠭ᠎ᠠ ᠦᠭᠡᠢ］ （ ᠡᠭᠦᠳᠡ ᠶᠢ ᠨᠢ ᠣᠯᠣᠭ᠎ᠠ ᠦᠭᠡᠢ ） ᠶᠤᠮ ᠃"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_91",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠡᠢᠭᠦᠯᠦᠭ᠍ᠳᠡᠪᠡ —— ᠬᠡᠢᠭᠦᠯ + ᠭᠳᠡ + ᠪᠠ\nᠬᠠᠭᠤᠴᠢᠯᠠᠵᠠᠭᠠᠨ᠎ᠠ  ᠬᠠᠭᠤᠴᠢ + ᠯᠡ + ᠵᠠᠭᠠᠨ᠎ᠠ",
+      "ᠬᠠᠵᠠᠭᠤᠯᠠᠳᠠᠭ  ᠬᠠᠵᠠ + ‍ᠭ᠋ᠤ᠋ + ᠯᠡ + ᠳ᠋ᠠᠭ\nᠬᠠᠷᠰᠢᠭᠤᠯᠤᠨ  ᠬᠠᠷᠰᠢ + ‍ᠭ᠋ᠤᠯ + ‍ᠨ",
+      "ᠲᠠᠰᠤᠯᠤᠯᠴᠠᠬᠤ  ᠲᠠᠰᠤᠯ + ‍ᠯᠴᠠ + ‍ᠬᠤ᠋\nᠬᠢᠵᠠᠭᠠᠯᠠᠩ  ᠬᠢᠵᠠ + ᠭ᠎ᠠ + ᠯᠡ + ‍ᠩ",
+      "ᠳᠡᠯᠭᠡᠷᠡᠩᠭᠦᠢ  ᠳᠡᠯᠭᠡ + ᠷᠡ + ‍ᠩ + ᠭᠦ᠋ᠢ\nᠬᠠᠷᠢᠴᠠᠭᠠᠲᠤ  ᠬᠠᠷᠢ + ᠴᠠ + ᠭ᠎ᠠ +  ᠳᠤ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_95",
+    "question": "ᠤᠳᠬ᠎ᠠ ᠢᠵᠢᠯᠳᠦᠬᠦ ᠦᠭᠡᠢ ᠬᠡᠯᠡᠴᠡ ᠶᠢᠨ ᠪᠦᠯᠦᠭ ᠨᠢ ᠄",
+    "option": [
+      "①ᠥᠮᠣᠲᠤ ᠦᠭᠡᠢ ᠪᠠᠢᠭᠠᠳ ᠡᠪᠦᠳᠦᠭ ᠴᠤᠭᠤᠷᠬᠠᠢ ᠪᠠᠨ ᠳᠤᠭᠤᠬᠢᠯᠠᠬᠤ ᠃\n②ᠥᠪᠡᠷ ᠦᠨ ᠬᠤᠵᠢᠬᠢᠷ ᠢᠶᠡᠨ ᠮᠡᠳᠡᠬᠦ ᠦᠭᠡᠢ ᠪᠤᠰᠤᠳ ᠤᠨ ᠬᠠᠯᠵᠠᠨ ᠢ ᠡᠯᠡᠭ᠍ᠯᠡᠬᠦ ᠃",
+      "①ᠦᠭᠡ ᠨᠢ ᠭᠤᠯᠢᠷ ᠂ ᠵᠢᠷᠤᠬᠡ ᠨᠢ ᠴᠡᠷᠢᠯ ᠃\n②ᠠᠮᠠᠨ ᠳᠤ ᠪᠠᠨ ᠪᠡᠯ ᠲᠠᠢ ᠂ ᠠᠶᠤᠤᠯᠢᠬᠠᠢ ᠳᠤ ᠪᠠᠨ ᠵᠢᠢᠳᠡ ᠲᠠᠢ ᠃",
+      "①ᠨᠠᠷᠠᠨ ᠳᠤ ᠡᠷᠢᠭ᠍ᠰᠡᠨ ᠦᠭᠡᠢ ᠪᠡᠨ ᠰᠠᠷᠠᠨ ᠳᠤ ᠡᠷᠢᠵᠦ ᠂\nᠨᠠᠮᠤᠷ ᠬᠢᠭ᠍ᠰᠡᠨ ᠦᠭᠡᠢ ᠪᠡᠨ ᠡᠪᠦᠯ ᠬᠢᠬᠦ ᠃\n②ᠡᠳᠤᠷ ᠠᠯᠳᠠᠭᠠᠳ ᠰᠥᠨᠢ ᠲᠡᠮᠲᠡᠷᠢᠭᠦ ᠃",
+      "① ᠤᠮᠪᠠᠭ᠌ᠴᠢ ᠶᠢᠨ ᠬᠦᠦ ᠱᠤᠩᠭᠤᠭ᠌ᠴᠢ ᠂ ᠤᠷᠪᠠᠭ᠌ᠴᠢ ᠶᠢᠨ ᠬᠦᠦ ᠬᠦᠷᠪᠡᠭ᠍ᠴᠢ ᠃\n② ᠥᠭᠡᠳᠡ ᠪᠠᠢᠪᠠᠯ ᠤᠷᠤᠭᠤ ᠲᠠᠢ ᠂ ᠥᠭ᠍ᠭᠦᠯᠭᠡ ᠪᠠᠢᠪᠠᠯ ᠠᠪᠤᠯᠭ᠎ᠠ ᠲᠠᠢ ᠃"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_97",
+    "question": "ᠥᠪᠡᠷᠮᠢᠴᠠ ᠬᠡᠯᠡᠯᠭᠡ ᠶᠢ ᠪᠤᠷᠤᠭᠤ ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠢᠳᠦ ᠳᠠᠷᠤᠬᠤ  ᠲᠦᠷ ᠤᠨᠲᠠᠬᠤ ᠃",
+      "ᠨᠢᠳᠣ ᠪᠣᠯᠢᠶᠠᠬᠤ —— ᠳᠤᠷ᠎ᠠ ᠰᠡᠳᠭᠢᠯ ᠢ ᠲᠠᠲᠠᠬᠤ ᠂ ᠥᠪᠡᠷ ᠦᠨ ᠡᠷᠬᠡ ᠦᠭᠡᠢ ᠲᠤᠷᠠᠯᠠᠨ ᠰᠳᠡᠬᠦ ᠃",
+      "ᠨᠢᠳᠣ ᠬᠤᠵᠢᠷᠯᠠᠬᠤ  ᠳᠤᠷ᠎ᠠ ᠪᠠᠬ᠎ᠠ ᠲᠠᠢ ᠂ ᠰᠢᠨᠣᠯ ᠱᠤᠬᠤᠭᠤᠷᠠᠯᠲᠠᠢ ᠵᠦᠢᠯ ᠢᠶᠠᠨ ᠬᠠᠨᠳᠠᠯ᠎ᠠ ᠦᠵᠡᠬᠦ ᠃",
+      "ᠨᠢᠳᠣ ᠬᠠᠶᠠᠬᠤ —— ᠠᠩᠬᠠᠷᠤᠯ ᠲᠥᠪᠯᠡᠷᠡᠬᠦ ᠦᠭᠡᠢ ᠪᠣᠯᠬᠤ ᠃"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_98",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠪᠤᠯᠭ᠎ᠠ ᠠᠪᠬᠤ ᠂ ᠪᠦᠯᠳᠡᠢᠭᠡᠷ ᠨᠢᠳᠣ ᠂ ᠠᠭᠰᠢᠷᠭ᠎ᠠ ᠪᠣᠭᠤᠷᠤᠯ ᠂ ᠰᠦ ᠢᠪᠡᠯᠬᠦ",
+      "ᠣᠢᠳᠤᠨ ᠴᠥᠭᠦᠷᠡᠬᠦ ᠂ ᠲᠡᠮᠡᠭᠡᠨ ᠤᠩᠭᠠᠰᠤ ᠂ ᠬᠠᠭᠠᠯᠵᠤ ᠪᠠᠯᠪᠠᠴᠠᠬᠤ ᠂ ᠤᠰᠤᠨ ᠳᠤ ᠬᠦᠪᠬᠦ",
+      "ᠡᠪᠡᠳᠴᠤ ᠮᠢᠨᠴᠤᠭᠦᠷᠭᠦ ᠂ ᠤᠷᠭᠤᠮᠠᠯ ᠰᠡᠷᠪᠠᠯᠵᠢᠬᠦ ᠂ ᠬᠡᠷᠡᠭ ᠰᠡᠳᠡᠬᠦ ᠂ ᠴᠠᠰᠤ ᠰᠢᠭᠤᠷᠷᠠᠬᠤ",
+      "ᠬᠡᠯᠡᠵᠤ ᠳᠠᠪᠠᠯᠠᠬᠤ ᠂ ᠲᠠᠢᠷᠤᠯᠲᠤ ᠰᠤᠮᠤ ᠂ ᠰᠢᠷᠬ᠎ᠠ ᠲᠦᠯᠥᠵᠢᠬᠦ ᠂ ᠲᠠᠪᠤᠨ ᠴᠤᠯᠤ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_99",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠡᠪᠡᠰᠦ ᠨᠤᠭᠦᠳ ᠂ ᠲᠣᠭᠣᠰᠤ ᠢ ᠂ ᠢᠷᠡᠮᠡᠭ᠍ᠴᠡ",
+      "ᠲᠡᠮᠡᠭᠡᠴᠢᠳ ᠂ ᠦᠷ᠎ᠡ ᠢᠶᠡᠨ ᠂ ᠤᠩᠰᠢᠭᠠᠳ",
+      "ᠵᠢᠳᠭᠦᠯᠲᠠᠳ ᠂ ᠶᠠᠪᠤᠬᠤᠯᠠᠷ ᠂ ᠨᠣᠬᠠᠢ ᠶᠢᠨ",
+      "ᠠᠭᠤᠯᠠᠰ ᠂ ᠡᠪᠡᠰᠦ ᠤᠨ ᠂ ᠮᠠᠯᠴᠢᠨ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "very_hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_5",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠠᠮᠲᠤᠳᠬᠠᠵᠤ  ᠬᠠᠮ +  ᠳᠤ +  ᠤᠨ + ᠬ᠎ᠠ + ᠵᠦ\nᠨᠥᠭᠥᠭᠡᠰᠦᠲᠡᠢ  ᠨᠥᠬᠥ + ᠭᠡ + ᠰᠦ᠋ + ᠳ᠋ᠠᠢ",
+      "ᠭᠦᠷᠦᠨ᠎ᠡ  ᠬᠦᠷ + ᠨ᠎ᠡ\nᠵᠠᠮᠨᠠᠭᠰᠠᠳ  ᠵᠠᠮ + ᠯᠡ + ᠠᠰᠠᠨ +  ᠤᠨ",
+      "ᠣᠶᠣᠲᠠᠳ —— ᠣᠶᠣᠨ + ᠎ᠳ᠋ᠠᠨ +  ᠤᠨ\nᠲᠤᠰᠠᠷᠬᠠᠨ  ᠲᠤᠰᠠ + ᠷᠠᠬᠠᠨ",
+      "ᠰᠡᠳᠡᠷᠬᠡᠢ —— ᠰᠠᠳᠡ + ᠷᠡ+ ᠬᠡᠢ\nᠳᠠᠭᠤᠳᠠᠭᠳᠠᠴᠢᠬᠠᠨ᠎ᠠ  ᠳᠠᠭᠤᠤ + ᠎ᠳ᠋ᠠ + ‍ᠭᠳᠠ + ᠴᠢᠬ᠎ᠠ + ᠨ᠎ᠠ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_6",
+    "question": "ᠲᠠᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠮᠢ ᠵᠤᠯᠪᠠᠬᠤ ᠂ ᠬᠡᠯᠲᠤᠷᠵᠤ ᠠᠯᠬᠤᠬᠤ ᠂ ᠰᠡᠷᠪᠡᠭᠡ ᠳᠠᠭ᠎ᠠ",
+      "ᠤᠰᠤ ᠲᠣᠨᠲᠠᠯ᠎ᠠ ᠂ ᠬᠤᠴᠢᠵᠤ ᠪᠦᠳᠡᠭᠡᠬᠦ ᠂ ᠰᠠᠪᠠ ᠲᠦᠭᠦᠷᠡᠩ",
+      "ᠳᠤᠮᠳᠠᠭᠤᠷ ᠣᠷᠬᠢᠶ᠎ᠠ ᠂ ᠦᠨᠣᠷ ᠲᠠᠨᠤᠷ ᠂ ᠰᠡᠷᠡᠭᠦᠴᠡᠨ ᠰᠠᠭᠤᠬᠤ",
+      "ᠰᠡᠳᠭᠢᠯ ᠬᠠᠨᠤᠬᠤ ᠂ ᠳᠠᠭᠤᠯᠠᠡᠵᠦ ᠨᠠᠢᠢᠷᠡᠯᠠᠭᠠᠳ ᠂ ᠢᠨᠢᠶᠡᠵᠦ ᠬᠥᠬᠥᠷᠡᠬᠦ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_9",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ  ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠠᠢᠰᠢᠶᠠᠭᠳᠠᠭᠰᠠᠨ  ᠰᠠᠢᠨ + ᠰᠢᠶᠠ + ‍ᠭᠳᠠ + ‍ᠰᠡᠨ\nᠪᠣᠯᠪᠠᠰᠤᠷᠠᠳᠠᠭ  ᠪᠣᠯ + ᠪᠠᠰᠤ + ᠷᠠ + ᠳ᠋ᠠᠭ",
+      "ᠰᠢᠯᠢᠳᠡᠵᠦ  ᠰᠢᠯᠢ + ᠳ᠋ᠡ + ᠵᠦ\nᠰᠣᠶᠣᠷᠬᠠᠨ  ᠰᠣᠶᠣ + ᠷᠬ᠎ᠠ + ‍ᠨ",
+      "ᠭᠦᠢᠴᠡᠯᠡᠭᠦᠷ  ᠭᠦᠢᠴᠡ + ᠬᠦ + ᠯᠠᠷ\nᠪᠦᠷᠢᠶᠡᠰᠦᠳᠣ  ᠪᠦᠷᠢ + ᠶᠠᠰᠤ +  ᠳᠤ",
+      "ᠪᠠᠢᠷᠢᠯᠠᠵᠤ —— ᠪᠠᠢ+ ᠷᠢ + ᠯᠡ + ᠵᠦ\nᠪᠦᠷᠢᠳᠭᠡᠪᠡᠯ  ᠪᠦᠷᠢ + ‍ᠳᠭᠡ + ᠪᠡᠯ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_11",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ  ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠶᠠᠯᠳᠤᠭᠤᠯᠤᠭᠰᠠᠨ —— ᠣᠶᠠ+ ‍ᠯᠳᠦ + ‍ᠭ᠋ᠤᠯ + ‍ᠭᠰᠠᠨ\nᠤᠯᠠᠰᠢᠷᠠᠭᠰᠠᠭᠠᠷ —— ᠤᠯᠠᠨ + ᠰᠢ + ᠷᠠ + ‍ᠭᠰᠠᠭᠠᠷ",
+      "ᠣᠢᠯᠠᠭᠠᠯᠲᠠ —— ᠣᠢ +ᠯᠡ + ᠭ᠎ᠠ + ‍ᠯᠳᠠ\nᠴᠠᠳᠬᠤᠯᠠᠩ  ᠴᠠᠳ + ‍ᠬᠤ᠋ + ᠯᠠᠩ",
+      "ᠰᠠᠢᠵᠢᠷᠠᠭᠤᠯᠬᠤ —— ᠰᠠᠢᠨ +ᠵᠢᠷᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋\nᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ —— ᠣᠷᠣ + ‍ᠯᠴᠡ + ‍ᠭᠰᠠᠨ +  ᠤᠨ",
+      "ᠳᠠᠷᠤᠩᠭᠤᠢᠯᠠᠭᠳᠠᠵᠤ —— ᠲᠠᠷᠤ + ᠡᠩᠭᠤᠢ + ᠯᠡ + ‍ᠭ᠋ + ᠳ᠋ᠠ  ᠵᠦ\nᠡᠯᠡᠰᠦᠷᠬᠡᠭ᠍ᠵᠢᠯ—— ᠡᠯᠡᠰᠦ + ᠷᠬᠡ + ᠎‍ᠭ + ᠵᠢ + ‍ᠯ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_14",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠲᠤ —— ᠤᠯᠠ + ‍ᠮ+ ᠵᠢ + ᠯᠡ + ‍ᠯᠳᠤ",
+      "ᠬᠦᠴᠦᠷᠬᠡᠭ  ᠬᠦᠴᠤ + ᠷᠬᠡ+ ‍ᠭ",
+      "ᠢᠳᠡᠭᠡᠯᠡᠭ᠍ᠰᠡᠨ —— ᠢᠳᠡ + ᠬᠡ + ᠯᠡ + ᠭᠰᠡᠨ",
+      "ᠵᠥᠷᠢᠭᠦᠳᠯᠡᠬᠦ —— ᠵᠥᠷᠢᠭᠦ +  ᠦᠨ + ᠯᠡ + ᠬᠦ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_15",
+    "question": "ᠨᠡᠷ᠎ᠡ ᠦᠭᠡ ᠶᠢᠨ ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠮᠢᠨᠤ ᠨᠡᠷ᠎ᠡ ᠢ ᠰᠣᠨᠣᠰᠤᠭᠠᠳ ᠪᠠᠶᠠᠷᠯᠠᠭᠠᠳ ᠪᠠᠢᠬᠤ ᠳᠤ ᠪᠠᠨ ᠶᠠᠭᠠᠬᠢᠬᠤ ᠪᠣᠢ ᠎ᠳ᠋ᠠ ᠃",
+      "ᠬᠦᠦ ᠳᠤ ᠪᠠᠨ ᠂ ᠨᠥᠬᠥᠷ ᠲᠦ ᠪᠠᠨ ᠴᠢᠨᠤ ᠲᠤᠬᠠᠢ ᠂ ᠡᠨᠡ ᠰᠠᠢᠬᠠᠨ ᠨᠤᠲᠤᠭ ᠤᠨ ᠲᠤᠬᠠᠢ ᠳᠡᠩᠳᠡ ᠶᠠᠷᠢᠨ᠎ᠠ ᠃",
+      "ᠲᠡᠷᠡ ᠤᠯᠠᠨ ᠬᠦᠮᠤᠰ ᠢ ᠬᠠᠷᠠᠭᠠᠳ ᠲᠡᠭᠦᠨ ᠳᠦ ᠥᠪᠡᠷ ᠦᠨ ᠡᠷᠭᠡ ᠦᠭᠡᠢ ᠦᠩᠭᠡᠷᠡᠭ᠍ᠰᠡᠨ ᠤᠴᠢᠷ ᠤᠳ ᠨᠢ ᠪᠣᠳᠣᠭᠳᠠᠨ᠎ᠠ ᠃",
+      "ᠤᠯᠠᠰ ᠤᠯᠠᠰ ᠬᠠᠷᠠᠭᠳᠠᠬᠤ ᠳ᠋ᠧᠩ ᠤᠨ ᠭᠡᠷᠡᠯ ᠤᠳ ᠶᠡᠷᠦ ᠨᠢ ᠴᠣᠭ ᠵᠢᠪᠬᠤᠭ᠎ᠠ ᠦᠭᠡᠢ ᠬᠠᠷᠠᠭᠳᠠᠨ᠎ᠠ ᠃"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_17",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠥᠭᠡᠷᠦᠭᠦᠢᠯᠡᠯᠲᠡᠢ  ᠬᠥᠬᠡ + ᠷᠤ᠋ + ᠬᠦ᠋ᠢ + ᠯᠠᠯ + ᠳ᠋ᠠᠢ",
+      "ᠬᠠᠷᠠᠮᠨᠠᠬᠤ —— ᠬᠠᠷᠠᠮ + ᠯᠡ +ᠠᠤ᠋",
+      "ᠡᠷᠬᠢᠴᠡᠭᠦᠯᠤᠯ —— ᠡᠷᠬᠢ + ᠴᠡ + ᠭᠦ᠋ᠯ",
+      "ᠪᠠᠢᠭᠤᠯᠤᠯᠲᠠ —— ᠪᠠᠢᠭᠤᠯ + ᠯᠤᠯ + ᠳ᠋ᠠ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_18",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠤᠳᠬ᠎ᠠ ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠬᠥᠩᠭᠡᠨ ᠢ ᠪᠦᠷᠢᠨ ᠵᠥᠪ ᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠥᠯᠪᠡᠷᠬᠦ （ ᠬᠦᠨᠳᠦ ）—— ᠥᠯᠥᠰᠬᠦ （ ᠬᠥᠩᠭᠡᠨ ）\nᠭᠤᠨᠢᠬᠤ （ ᠬᠦᠨᠳᠦ ）  ᠤᠢᠳᠬᠠᠷᠯᠠᠬᠤ （ ᠬᠥᠩᠭᠡᠨ ）",
+      "ᠴᠣᠬᠢᠬᠤ （ ᠬᠦᠨᠳᠦ ）  ᠵᠠᠨᠴᠢᠬᠤ （ ᠬᠦᠥ᠋ᠩᠭᠡᠨ ）\nᠳᠣᠷᠣᠮᠵᠢᠯᠠᠬᠤ （ ᠬᠦᠨᠳᠦ ）—— ᠳᠠᠷᠤᠯᠠᠬᠤ （ ᠬᠥᠩᠭᠡᠨ ）",
+      "ᠤᠮᠳᠠᠭᠠᠰᠬᠤ （ ᠬᠦᠨᠳᠦ ）—— ᠴᠠᠩᠭᠠᠬᠤ （ ᠬᠥᠩᠭᠡᠨ ）\nᠬᠠᠯᠠᠭᠤᠮᠰᠤᠭ （ ᠬᠦᠨᠳᠦ ）  ᠳᠣᠲᠣᠨᠣᠰᠤᠭ （ ᠬᠥᠩᠭᠡᠨ ）",
+      "ᠬᠢᠯᠢᠩ （ ᠬᠦᠨᠳᠦ ）  ᠠᠭᠤᠷ （ ᠬᠥᠩᠭᠡᠨ ）\nᠳᠤᠷᠠᠰᠬᠤ （ᠬᠦᠨᠳᠦ）  ᠮᠥᠷᠥᠭᠡᠳᠬᠦ （ ᠬᠥᠩᠭᠡᠨ ）"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_19",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠪᠡᠯᠡᠳᠭᠡᠵᠤ ᠲᠦᠭᠦᠭᠡᠷᠡᠬᠦ ᠂ ᠪᠠᠢᠭᠠᠯᠢᠭ ᠢᠳᠡᠭᠡᠨ ᠂ ᠦᠨᠣᠷ ᠠᠩᠬᠢᠯᠬᠤ",
+      "ᠢᠳᠡᠷᠭᠦᠨ ᠵᠢᠪᠬᠭ᠎ᠠ ᠂ ᠨᠠᠭᠤᠷ ᠴᠥᠭᠦᠷᠤᠮ ᠂ ᠰᠦ ᠰᠠᠮᠤᠷᠠᠬᠤ",
+      "ᠬᠠᠭᠤᠷᠤᠭᠰᠠᠨ ᠪᠤᠳᠠᠭ᠎ᠠ ᠂ ᠵᠠᠢᠳᠠᠵᠤ ᠬᠤᠯᠠᠳᠬᠤ ᠂ ᠭᠡᠵᠢᠭᠡ ᠲᠣᠰᠤᠯᠠᠬᠤ",
+      "ᠲᠠᠯ᠎ᠠ ᠲᠠᠨᠡᠢᠬᠦ ᠂ ᠨᠢᠩᠵᠡᠠᠨ ᠰᠡᠳᠭᠢᠯ ᠂ ᠪᠠᠲᠤᠯᠭ᠎ᠠ ᠠᠪᠬᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_20",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠪᠥᠭᠡᠮᠨᠡᠷᠡᠯᠳᠤᠨ  ᠪᠥᠭᠡᠮ + ᠯᠡ + ᠷᠡ + ‍ᠯᠳᠦ + ‍ᠨ",
+      "ᠬᠦᠯᠢᠶᠡᠰᠦᠯᠡᠬᠦ  ᠬᠥᠯᠢ  ‍ᠡᠡ᠋  ᠰᠦ᠋  ᠯᠡ  ᠬᠦ",
+      "ᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠳᠠᠭ  ᠲᠣᠳᠣ + ᠷᠠ + ‍ᠬᠠᠢ + ᠯᠡ + ᠳ᠋ᠠᠭ",
+      "ᠰᠡᠷᠢᠭᠦᠴᠡᠬᠦ  ᠰᠠᠷᠢ + ᠭᠦ᠋ᠨ + ᠴᠡᠬᠦ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_21",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠣᠭᠤᠯᠠ ᠶᠢᠨ ᠦᠷᠪᠢᠰᠤᠯ ᠂ ᠰᠡᠳᠭᠢᠯ ᠤᠶᠠᠷᠬᠤ ᠂ ᠳᠠᠯᠠᠢᠭ᠌ᠴᠢ ᠪᠣᠯᠣᠭᠰᠠᠨ",
+      "ᠰᠠᠬᠠᠯ ᠬᠤᠤᠵᠠ ᠂ ᠬᠦᠨᠳᠡᠷᠡᠵᠦ ᠬᠣᠭᠣᠰᠤᠷᠠᠬᠤ ᠂ ᠬᠠᠩᠬᠤᠯᠤᠮ᠎ᠠ ᠦᠨᠡᠷ",
+      "ᠮᠦᠩᠭᠦᠨ ᠰᠢᠭᠢᠳᠭᠡᠷᠢ ᠂ ᠨᠡᠷ᠎ᠡ ᠪᠡᠨ ᠰᠡᠢᠯᠤᠭ᠍ᠰᠡᠨ ᠂ ᠠᠢᠷᠠᠭ ᠳᠠᠷᠤᠭ",
+      "ᠰᠢᠷᠡᠭᠡᠨ ᠦ ᠰᠢᠷᠭᠤᠭᠤᠯ ᠂ ᠲᠤᠭᠤᠷᠠᠲᠠᠯ᠎ᠠ ᠶᠠᠷᠢᠬᠤ ᠂ ᠰᠢᠭᠦᠷᠡᠨ ᠠᠪᠬᠤ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_22",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠦᠭᠡᠯᠡᠵᠤ ᠦᠷᠣᠮᠳᠡᠬᠦ ᠂ ᠬᠠᠷᠪᠤᠵᠤ ᠤᠨᠢᠯᠠᠬᠤ ᠂ ᠪᠣᠷᠣᠭᠠᠨ ᠳᠤ ᠨᠣᠷᠬᠤ",
+      "ᠡᠪᠬᠡᠵᠦ ᠨᠤᠭᠤᠯᠯᠠᠬᠤ ᠂ ᠲᠣᠭ᠎ᠠ ᠨᠣᠷᠮ᠎ᠠ ᠂ ᠣᠶᠣᠵᠤ ᠬᠥᠪᠥᠷᠢᠳᠡᠬᠦ",
+      "ᠬᠦᠪᠰᠡᠭᠡᠷ ᠵᠦᠭᠡᠯᠡᠨ ᠂ ᠰᠣᠨᠳᠤᠭᠠᠢ ᠲᠣᠭ᠎ᠠ ᠂ ᠬᠥᠬᠡᠭᠡᠵᠦ ᠳᠠᠭᠤᠬᠤ",
+      "ᠬᠠᠭᠠᠯᠵᠤ ᠡᠪᠳᠡᠯᠬᠦ ᠂ ᠢᠳᠡᠷᠡᠭᠦᠨ ᠴᠣᠪᠣᠭ᠎ᠠ ᠂ ᠭᠠᠷ ᠢᠶᠠᠨ ᠨᠣᠬᠤᠯᠬᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_23",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ  ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠦᠯᠢᠶᠡᠰᠦᠯᠡᠬᠦ —— ᠬᠦᠯᠢ + ᠶᠡ + ᠰᠦ᠋ + ᠯᠡ+ ᠬᠦ\nᠢᠳᠡᠷᠡᠭᠦᠨ —— ᠢᠳᠡ + ᠷᠡ + ᠭᠦ᠋ᠨ",
+      "ᠴᠡᠳᠤᠮᠠᠭᠴᠠ —— ᠴᠡᠳᠦ + ᠮᠠᠭᠴᠠ\nᠣᠯᠵᠠᠯᠠᠭᠳᠠᠭᠰᠠᠳ —— ᠤᠯ + ᠵᠠ + ᠯᠡ + ‍ᠭᠳᠠ + ᠰᠠᠳ",
+      "ᠲᠠᠮᠠᠤᠯᠠᠨ —— ᠲᠠᠮᠠᠥᠯ +‍ᠨ\nᠶᠠᠭᠠᠷᠠᠴᠢᠬᠠᠭᠰᠠᠨ —— ᠶᠠᠭᠠᠨ + ᠷᠠ + ᠴᠢᠬ᠎ᠠ + ‍ᠭᠰᠠᠨ",
+      "ᠢᠯᠡᠷᠭᠡᠢᠯᠡᠯ  ᠢᠯᠡ + ᠷᠡ + ᠬᠡᠢ + ᠯᠠᠯ\nᠬᠠᠷᠠᠭᠤᠯᠤᠭᠰᠠᠭᠠᠷ —— ᠬᠠᠷ᠎ᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠭ᠋ + ᠰᠠᠭᠠᠷ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_25",
+    "question": "ᠬᠡᠯᠡᠨ ᠦ ᠵᠣᠷᠰᠢᠯ ᠢ ᠡᠪᠳᠡᠭ᠍ᠰᠡᠨ ᠦᠭᠡ ᠪᠥᠬᠦᠢ ᠨᠢᠭᠡ ᠵᠣᠷᠪᠤᠰ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠠᠷ᠎ᠠ ᠡᠳᠤᠷ ᠂ ᠬᠠᠷ᠎ᠠ ᠰᠡᠳᠭᠢᠯ ᠂ ᠬᠠᠷ᠎ᠠ ᠳᠠᠷᠤᠬᠤ ᠂ ᠬᠠᠷ᠎ᠠ ᠠᠷᠢᠬᠢ",
+      "ᠴᠠᠭᠠᠨ ᠰᠠᠷ᠎ᠠ ᠂ ᠴᠠᠭᠠᠨ ᠵᠣᠳ᠂ ᠴᠠᠭᠠᠨ ᠠᠷᠢᠬᠢ ᠂ ᠴᠠᠭᠠᠨ ᠮᠣᠷᠢ",
+      "ᠰᠢᠷ᠎ᠠ ᠡᠳᠤᠷ ᠂ ᠰᠢᠷ᠎ᠠ ᠬᠦᠷᠬᠦ ᠂ ᠰᠢᠷ᠎ᠠ ᠲᠠᠢᠯᠬᠤ ᠂ ᠰᠢᠷ᠎ᠠ ᠬᠣᠰᠤᠬᠤ",
+      "ᠪᠣᠷᠣ ᠭᠡᠷ ᠂ ᠪᠣᠷᠣ ᠮᠥᠷ ᠂ ᠪᠣᠷᠣ ᠬᠣᠨᠣᠭ ᠂ ᠪᠣᠷᠣ ᠵᠢᠷᠤᠬᠡ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_26",
+    "question": "《 ᠭᠠᠷ ᠬᠥᠳᠡᠯᠤᠭ᠍ᠰᠡᠨ ᠨᠢ ᠴᠠᠳᠬᠤᠯᠠᠩ ᠂ ᠭᠠᠷ ᠢᠶᠠᠨ ᠬᠤᠮᠢᠭ᠌ᠰᠠᠨ ᠨᠢ ᠦᠯᠦᠰᠬᠦᠯᠡᠩ 》 ᠭᠡᠬᠦ ᠬᠡᠯᠡᠴᠡ ᠲᠠᠢ ᠠᠳᠠᠯᠢ ᠤᠳᠬ᠎ᠠ ᠲᠠᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠢᠳᠡᠬᠦ ᠨᠢ ᠭᠠᠬᠠᠢ ᠂ ᠶᠠᠪᠤᠬᠤ ᠨᠢ ᠮᠣᠭᠠᠢ ᠃",
+      "ᠠᠪᠠ ᠳᠤ ᠨᠣᠬᠠᠢ ᠬᠡᠷᠡᠭ᠍ᠲᠡᠢ ᠂ ᠠᠳᠤᠭᠤᠨ ᠳᠤ ᠤᠷᠭ᠎ᠠ ᠬᠡᠷᠡᠭ᠍ᠲᠡᠢ ᠃",
+      "ᠢᠳᠡᠭ᠍ᠰᠡᠨ ᠡᠷᠡᠦ ᠬᠤᠪᠠᠬᠠᠢᠷᠡᠵᠦ ᠂ ᠢᠳᠡᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ ᠲᠣᠪᠣ ᠬᠥᠭᠡᠷᠡᠨ᠎ᠡ ᠃",
+      "ᠬᠡᠪᠲᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠭᠡᠭᠡᠯ ᠠᠯᠳᠠᠵᠤ ᠂ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠨᠢ ᠬᠡᠪᠡᠯᠢ ᠳᠦᠭᠦᠷᠦᠨ᠎ᠡ ᠃"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_27",
+    "question": "《 ᠬᠠᠷᠢᠴᠠᠭ᠎ᠠ ᠬᠣᠯᠪᠣᠭᠳᠠᠯ ᠪᠦᠬᠦᠢ ᠶᠠᠭᠤᠮᠠᠨ ᠤ ᠨᠢᠭᠡ ᠶᠢ ᠨᠢ ᠬᠦᠨᠳᠡᠪᠠᠯ ᠨᠥᠬᠥᠭᠡ ᠨᠢ ᠳᠠᠭᠠᠵᠤ\nᠬᠣᠯᠪᠣᠭᠳᠠᠨ᠎ᠠ 》 ᠭᠡᠬᠦ ᠤᠳᠬ᠎ᠠ ᠲᠠᠢ ᠳᠣᠬᠢᠷᠠᠯᠴᠠᠬᠤ ᠬᠡᠯᠡᠴᠠ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠠᠢᠨ ᠲᠠᠢ ᠨᠥᠬᠦᠷᠯᠡᠪᠡᠯ ᠰᠠᠷᠠᠨ ᠤ ᠭᠡᠷᠡᠯ ᠂ ᠮᠠᠭᠤ ᠲᠠᠢ ᠨᠥᠬᠥᠷᠯᠡᠪᠡᠯ ᠮᠣᠭᠠᠢ ᠶᠢᠨ ᠬᠣᠣᠷ ᠃",
+      "ᠴᠢᠬᠢ ᠶᠢ ᠨᠢ ᠲᠠᠲᠡᠪᠡᠯ ᠵᠠᠪᠠᠵᠢ ᠨᠢ ᠬᠥᠳᠡᠯᠦᠨ᠎ᠡ ᠃",
+      "ᠨᠠᠭᠤᠷ ᠠᠮᠤᠭᠤᠯᠠᠩ ᠪᠣᠯ ᠨᠤᠭᠤᠰᠤ ᠠᠮᠤᠭᠤᠯᠠᠩ ᠃",
+      "ᠨᠢᠭᠡ ᠦᠬᠡᠷ ᠦᠨ ᠡᠪᠡᠷ ᠢ ᠴᠣᠬᠢᠪᠠᠯ ᠮᠢᠩᠭᠠᠨ ᠦᠬᠡᠷ ᠦᠨ ᠡᠪᠡᠷ ᠲᠣᠷᠬᠢᠨ᠎ᠠ ᠃"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_28",
+    "question": "ᠥᠭᠦᠯᠡᠪᠦᠷᠢ ᠶᠢᠨ ᠳᠦᠷᠪᠡᠯᠵᠢᠭ᠍ᠰᠡᠨ ᠦᠭᠡ ᠶᠢᠨ ᠰᠡᠳᠬᠢᠯᠭᠡ ᠶᠢᠨ ᠥᠩᠭᠡ ᠶᠢ ᠬᠠᠭᠠᠯᠲᠠ ᠳᠤ ᠵᠥᠪ\nᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠮᠠᠷᠭᠠᠰᠢ ᠠᠴᠠ ᠬᠣᠭᠣᠯᠠᠨ ᠭᠡᠷ ᠲᠤ ᠴᠠᠪᠯᠠᠵᠠᠭᠠᠬᠤ ᠶᠤᠮ ᠴᠢᠨᠢ ᠡᠨᠡ ᠮᠠᠭᠤ ᠲᠣᠭᠣᠭ᠎ᠠ ᠪᠠᠷ ［ᠡᠴᠢᠭᠡᠪᠠᠨ ᠬᠢᠨ᠎ᠡ ᠦᠦ］ ︖ （ ᠲᠠᠭᠠᠯᠠᠯ ）",
+      "ᠴᠢᠪᠠᠭᠠᠨᠴᠠ ᠬᠥᠮᠥᠨ ᠦ ᠬᠠᠮᠤᠭ ᠡᠷᠳᠡᠮ ᠨᠢ ᠴᠠᠢ ［ᠭᠦᠵᠡᠭᠡᠯᠡᠬᠦ］ ᠯᠡ ᠰᠢᠤᠳᠡ ！ （ ᠵᠢᠪᠡᠭᠦᠴᠡᠯ ）",
+      "ᠡᠨᠡ ᠠᠮᠢᠲᠠᠨ ᠮᠢᠨᠤ ᠡᠷᠡᠯᠬᠡᠭ ᠬᠥᠯ ᠦᠨ ᠳᠣᠣᠷ᠎ᠠ ᠪᠢᠰᠢ ᠂ ᠬᠠᠷᠢᠨ ᠰᠢᠷᠬᠠᠭᠳᠤᠭᠰᠠᠨ ᠮᠠᠭᠤ ᠬᠥᠯ ᠦᠨ\nᠳᠣᠣᠷ᠎ᠠ ［ᠳᠠᠯᠢᠭ᠌ᠴᠢ］ ᠪᠣᠯᠪᠠ ᠃ （ ᠲᠠᠭᠠᠯᠠᠯ ）",
+      "ᠰᠢᠷᠢᠨ ᠨᠢᠭᠤᠷ ᠢᠶᠠᠷ ᠮᠢᠨᠤ ᠬᠠᠲᠠᠪᠴᠢ  ᠶᠢ ᠠᠯᠬᠤᠪᠠ ᠦ ︖ ［ᠰᠢᠭᠢᠷ᠎ᠡ］ ᠪᠠᠨ ᠲᠠᠲᠠᠭᠰᠠᠨ ᠴᠢᠨᠢ\nᠳᠡᠭᠡᠷ᠎ᠡ ᠦᠭᠡᠢ ᠦᠦ ︖ （ ᠲᠠᠭᠠᠯᠠᠯ ）"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_31",
+    "question": "《 ①ᠨᠢᠭᠤᠷ ᠥᠭ᠍ᠬᠦ ② ᠨᠢᠭᠤᠷ ᠢᠶᠠᠨ ᠪᠠᠷᠠᠬᠤ ③ ᠨᠢᠭᠤᠷ ᠣᠯᠬᠤ᠎④ ᠨᠢᠭᠤᠷ ᠤᠯᠠᠢᠬᠤ 》 ᠵᠡᠷᠭᠡ ᠬᠡᠯᠡᠴᠡ  ᠶᠢᠨ ᠤᠳᠬ᠎ᠠ ᠶᠢ ᠲᠠᠷᠠᠭᠠᠯᠠᠨ ᠵᠥᠪ ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠠᠢᠢᠷ ᠲᠠᠯᠪᠢᠬᠤ ᠂ ᠨᠡᠷ᠎ᠡ ᠬᠦᠨᠳᠦ ᠪᠠᠨ ᠠᠯᠳᠠᠬᠤ ᠂ ᠲᠠᠯ᠎ᠠ ᠬᠥᠬᠢᠭᠦᠯᠤᠯ ᠣᠯᠬᠤ ᠂ ᠢᠴᠢᠵᠦ ᠰᠢᠷᠪᠡᠭᠡᠳᠦᠬᠦ",
+      "ᠲᠠᠯ᠎ᠠ ᠬᠥᠬᠢᠭᠦᠯᠤᠯ ᠥᠭ᠍ᠬᠦ ᠂ ᠨᠡᠷ᠎ᠡ ᠲᠥᠷᠤ᠎ᠪᠨ ᠪᠠᠷᠠᠬᠤ ᠂ ᠲᠠᠯ᠎ᠠ ᠬᠥᠬᠢᠭᠦᠯᠤᠯ ᠤᠯᠬᠤ ᠂ ᠢᠴᠢᠵᠦ ᠵᠣᠪᠠᠬᠤ",
+      "ᠨᠡᠷ᠎ᠡ ᠬᠦᠨᠳᠦ ᠪᠠᠨ ᠠᠯᠳᠠᠬᠤ ᠂ ᠨᠠᠢᠢᠷ ᠲᠠᠯᠪᠢᠬᠤ ᠂ ᠲᠠᠯ᠎ᠠ ᠬᠥᠬᠢᠭᠦᠯᠤᠯ ᠤᠯᠬᠤ ᠂ ᠨᠢᠭᠤᠷ ᠤᠯᠠᠭᠠᠨ ᠪᠣᠯᠬᠤ",
+      "ᠲᠠᠯ᠎ᠠ ᠬᠥᠬᠢᠭᠦᠯᠤᠯ ᠥᠭ᠍ᠬᠦ ᠂ ᠨᠡᠷ᠎ᠡ ᠬᠦᠨᠳᠦ ᠪᠠᠨ ᠪᠠᠷᠠᠬᠤ ᠂ ᠨᠠᠢᠢᠷ ᠲᠠᠯᠪᠢᠬᠤ ᠂ ᠨᠢᠭᠤᠷ ᠬᠠᠯᠠᠬᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_33",
+    "question": "《 ᠣᠳᠣᠨ ᠴᠠᠭᠠᠨ ᠢᠩᠭᠡᠨ ᠤ （ ） ᠠᠯᠲᠠᠢ ᠶᠢᠨ ᠡᠩᠭᠡᠷ ᠣᠷᠣᠭ ᠰᠠᠭᠠᠷᠠᠯ ᠴᠢᠨᠦ᠎ᠠ ᠶᠢᠨ （ ） ᠬᠠᠩᠭᠠᠢ  ᠶᠢᠨ ᠬᠥᠨᠳᠡᠢ / ᠬᠥᠬᠡ ᠬᠠᠯᠵᠠᠨ ᠣᠭᠣᠨᠣ ᠶᠢᠨ （ ） ᠨᠣᠭᠣᠭᠠᠨ ᠲᠠᠯ᠎ᠠ ᠬᠦᠵᠦᠭᠦᠦ ᠠᠯᠠᠭ ᠨᠤᠭᠤᠰᠤ ᠶᠢᠨ （ ） ᠨᠠᠭᠤᠷ ᠪᠦᠷᠢᠳᠦ 》 ᠭᠡᠬᠦ ᠪᠠᠳᠠᠭ ᠤᠨ ᠬᠠᠭᠠᠯᠲᠠ ᠳᠤ ᠲᠣᠬᠢᠷᠠᠬᠤ ᠬᠡᠯᠬᠢᠶᠡᠰᠦ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠦᠷᠦᠭ᠍ᠯᠡᠨ ᠳᠠᠪᠬᠢᠭ᠌ᠰᠠᠨ ᠂ ᠲᠠᠭᠰᠢᠵᠤ ᠣᠳᠣᠭᠰᠠᠨ ᠂ ᠪᠣᠢᠯᠠᠵᠤ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠂ ᠱᠤᠮᠪᠠᠵᠤ ᠭᠠᠩᠭᠠᠨᠠᠯᠳᠤᠭᠰᠠᠨ",
+      "ᠲᠠᠭᠰᠢᠵᠤ ᠣᠳᠣᠭᠰᠠᠨ ᠂ ᠰᠦᠷᠦᠭ᠍ᠯᠡᠨ ᠳᠠᠪᠬᠢᠭ᠌ᠰᠠᠨ ᠂ ᠱᠤᠮᠪᠠᠵᠤ ᠭᠠᠩᠭᠠᠨᠠᠯᠳᠤᠭᠰᠠᠨ ᠂ ᠪᠣᠢᠯᠠᠵᠤ ᠶᠠᠪᠤᠭᠰᠠᠨ",
+      "ᠪᠣᠢᠯᠠᠵᠤ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠂ ᠰᠦᠷᠦᠭ᠍ᠯᠡᠨ ᠳᠠᠪᠬᠢᠭ᠌ᠰᠠᠨ ᠂ ᠲᠠᠭᠰᠢᠵᠤ ᠣᠳᠣᠭᠰᠠᠨ ᠂ ᠱᠤᠮᠪᠠᠵᠤ ᠭᠠᠩᠭᠠᠨᠠᠯᠳᠤᠭᠰᠠᠨ",
+      ""
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_37",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠣᠷᠢᠶᠠᠴᠢᠬᠠᠭᠰᠠᠨ —— ᠬᠣᠷᠢᠶ᠎ᠠ + ᠴᠢᠬ᠎ᠠ + ᠠᠰᠠᠨ\nᠬᠠᠩᠬᠢᠨᠠᠭᠤᠯᠳᠠᠭ —— ᠬᠠᠩ + ᠬᠢᠨᠠ + ‍ᠭ᠋ᠤᠯ + ᠳ᠋ᠠᠭ",
+      "ᠣᠳᠣᠬᠢᠴᠢᠯᠠᠯᠲᠠ —— ᠣᠳᠣ + ᠬᠢᠴᠢ + ᠯᠡ + ᠯᠳᠡ\nᠢᠷᠡᠩᠭᠦᠳᠡ —— ᠢᠷᠡ + ‍ᠩᠭᠦᠳᠡ",
+      "ᠵᠣᠭᠰᠣᠩᠭᠤᠢᠷᠠᠬᠤ —— ᠵᠣᠭ + ᠰᠤ᠋ + ᠡᠭᠤᠢ + ᠷᠠ + ‍ᠬᠤ᠋\nᠡᠨᠳᠡᠭᠦᠷᠡᠭ᠍ᠰᠡᠨ  ᠡᠨᠳᠡ + ᠬᠦ᠋ᠦ + ᠷᠡ + ᠭᠰᠡᠨ",
+      "ᠬᠦᠨᠵᠡᠭᠡᠢᠷᠡᠵᠦ  ᠭᠦᠨ + ᠵᠡᠭᠡᠢ + ᠷ᠎ᠡ + ᠵᠦ\nᠡᠭᠡᠭᠡᠯᠭᠡᠬᠦ —— ᠡᠬᠡ +ᠬᠡ + ᠯᠭᠡ + ᠬᠦ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_48",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠲᠤ —— ᠤᠯᠠ + ᠮᠵᠢ + ᠯᠠ+ ‍ᠯ +  ᠳᠤ\nᠡᠵᠡᠷᠬᠡᠭ —— ᠡᠵᠡᠨ +ᠷᠬᠡᠭ",
+      "ᠢᠯᠡᠷᠭᠡᠢᠯᠡᠬᠦ —— ᠢᠯᠡ + ᠷᠡ + ᠬᠡᠢ + ‍ᠯᠡ + ᠬᠦ\nᠪᠦᠷᠢᠳᠦᠭ᠍ᠰᠡᠨ  ᠪᠦᠷᠢᠨ +  ᠦᠨ + ᠭᠰᠡᠨ",
+      "ᠰᠠᠢᠰᠢᠶᠠᠬᠤ —— ᠰᠠᠢᠨ + ᠰᠢᠶᠠ + ‍ᠬᠤ᠋\nᠦᠨᠡᠮᠰᠢᠭ᠍ᠳᠡᠬᠦ —— ᠦᠨᠡᠨ + ᠰᠢ + ᠭᠳᠡ + ᠬᠦ",
+      "ᠮᠡᠳᠡᠭᠦᠯᠦᠯᠲᠡ —— ᠮᠡᠳᠡ+ ᠭᠦ᠋ᠯ + ‍ᠯᠲᠡ\nᠪᠠᠬᠠᠷᠬᠠᠬᠤ —— ᠪᠠᠬ᠎ᠠ + ᠷᠠ+ ᠬ᠎ᠠ + ‍ᠬᠤ᠋"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_49",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠠᠮᠢᠷ ᠲᠡᠩᠬᠡᠭᠡ ᠂ ᠬᠣᠨᠢ ᠲᠣᠶᠠᠴᠢᠬᠤ ᠂ ᠬᠣᠶᠠᠭ ᠲᠤᠭᠤᠯᠠᠭ᠎ᠠ",
+      "ᠬᠢᠯ ᠴᠢᠯ ᠠᠷᠴᠢᠬᠤ ᠂ ᠰᠢᠷ᠎ᠠ ᠲᠠᠢᠯᠠᠬᠤ ᠂ ᠭᠠᠳᠠᠨ᠎ᠠ ᠪᠠᠨ ᠬᠢᠯᠠᠨᠴᠠᠭ",
+      "ᠲᠣᠣᠰ ᠬᠠᠢᠴᠢᠯᠠᠬᠤ ᠂ ᠲᠤᠭᠤᠯᠭᠠᠨ ᠦᠰᠦᠭ ᠂ ᠨᠢᠳᠦ ᠦᠵᠦᠭᠦᠷᠯᠡᠬᠦ",
+      "ᠴᠢᠷᠤᠭᠦᠯ ᠲᠡᠷᠭᠡ ᠂ ᠬᠣᠷᠠᠨ ᠪᠥᠭᠡᠮᠨᠡᠷᠡᠬᠦ ᠂ ᠲᠡᠷᠭᠡᠨ ᠦ ᠳᠡᠩᠬᠡᠭᠡᠯᠢᠭ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_50",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠤᠭᠣᠨᠤᠯᠵᠢᠨ ᠵᠠᠮ ᠂ ᠤᠯᠤᠰᠤ ᠨᠡᠢᠳᠭᠡᠬᠦ ᠂ ᠬᠡᠮᠭᠡᠯᠵᠦ ᠨᠢᠴᠡᠯᠬᠤ",
+      "ᠭᠡᠰᠡᠭ᠍ᠯᠡᠯ ᠢ ᠴᠤᠮᠭᠠᠳᠬᠠᠬᠠᠬᠤ ᠂ ᠣᠷᠣᠨ ᠪᠠᠢᠷᠰᠢᠯ ᠂ ᠬᠦᠪᠤᠴᠢᠨ ᠳᠡᠯᠡᠬᠡᠢ",
+      "ᠭᠡᠵᠢᠭᠡ ᠪᠠᠨ ᠰᠡᠭ᠍ᠰᠤᠢᠯᠭᠡᠬᠦ ᠂ ᠰᠠᠨᠳᠡ ᠮᠠᠨᠳᠡ ᠶᠠᠪᠤᠵᠤ ᠤᠳᠬᠤ ᠂ ᠶᠠᠭᠠᠷᠠᠤ ᠰᠠᠨᠳᠤᠷᠤᠤ",
+      "ᠤᠨᠵᠢᠩ ᠰᠠᠨᠵᠢᠩ ᠂ ᠯᠠᠪᠳᠠᠩ ᠰᠠᠪᠳᠠᠩ ᠂ ᠭᠡᠳᠠᠩ ᠭᠤᠳᠠᠩ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_51",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠠᠷᠠᠭᠳᠠᠳᠠᠭ —— ᠬᠠᠷ᠎ᠠ + ᠠᠳᠠ + ᠳ᠋ᠠᠭ\nᠵᠥᠪᠰᠢᠶᠡᠷᠡᠭᠦ —— ᠵᠥᠪ + ᠰᠢ + ᠶᠡ + ᠷᠠ + ᠬᠦ",
+      "ᠬᠤᠴᠣᠷᠤᠭᠰᠠᠨ —— ᠬᠤᠴᠤ + ᠷᠤ᠋ + ᠠᠰᠠᠨ\nᠪᠠᠢᠭᠤᠯᠪᠠᠰᠤ ——ᠪᠠᠢ + ‍ᠭ᠋ᠣᠯ + ᠪᠠ + ‍ᠰᠦ",
+      "ᠦᠳᠡᠯᠭᠦᠯᠡᠷ  ᠦᠳᠡᠯ + ᠬᠦ + ᠯᠠᠷ\nᠥᠭ᠍ᠭᠦᠮᠡᠭ᠍ᠴᠡ —— ᠦᠭ + ᠬᠦ + ᠮᠡᠭ᠍ᠴᠡ",
+      "ᠲᠠᠰᠤᠯᠴᠠᠭᠰᠠᠨ —— ᠲᠠᠰᠤ + ‍ᠯᠴᠠ + ᠠᠰᠠᠨ\nᠡᠮᠵᠢᠶᠡᠷᠢᠲᠡᠢ —— ᠡᠮᠵᠢ + ᠶᠠᠷᠢ + ᠳ᠋ᠠᠢ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_52",
+    "question": "ᠲᠠᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠨᠣᠭ᠎ᠠ ᠳᠠᠭ᠎ᠠ ᠂ ᠶᠠᠭᠠᠷᠠᠤ ᠠᠵᠢᠯᠬᠤ ᠂ ᠨᠥᠷ ᠪᠣᠷᠣᠭ᠎ᠠ",
+      "ᠭᠤᠤ ᠰᠤᠪᠠᠭ ᠂ ᠭᠤᠩᠰᠢᠵᠤ ᠭᠤᠩᠬᠢᠨᠠᠬᠤ ᠂ ᠲᠤᠲᠠᠭᠤ ᠲᠣᠷᠭᠤᠨ",
+      "ᠬᠡᠰᠡᠭ ᠪᠣᠰᠣᠭ ᠂ ᠪᠣᠳᠢ ᠰᠡᠳᠭᠢᠯ ᠂ ᠡᠭᠦᠲᠡᠨ ᠪᠣᠰᠣᠭ",
+      "ᠳᠠᠭᠤᠤ ᠠᠶᠠᠯᠠᠨ ᠂ ᠱᠠᠯᠠ ᠵᠦᠯᠭᠦᠬᠦ ᠂ ᠤᠰᠤ ᠭᠣᠤᠵᠢᠬᠤ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_53",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠵᠠᠢᠳᠠᠩᠨᠠᠬᠤ  ᠵᠠᠢ + ᠳ᠋ᠠ + ‍ᠩ + ‍ᠨᠠ+ ‍ᠬᠤ᠋\nᠪᠦᠰᠡᠯᠡᠭᠦᠷ  ᠪᠥᠰ + ᠯᠡ + ᠭᠦ᠋ᠷ",
+      "ᠬᠠᠰᠢᠷᠯᠠᠭᠰᠠᠭᠠᠷ —— ᠬᠠᠰᠢ+ ‍ᠷ + ᠯᠡ + ‍ᠭᠰᠠᠭᠠᠷ\nᠬᠥᠪᠣᠯᠵᠡᠬᠦ  ᠬᠦᠪ + ᠯᠵᠠ + ᠬᠦ",
+      "ᠬᠦᠰᠡᠷᠲᠡᠭᠦᠯᠵᠦᠭᠦᠢ —— ᠬᠦᠰᠠ + ‍ᠷ+ ᠳ᠋ᠡ + ᠭᠦ᠋ᠯ + ᠵᠦ᠋ᠭᠦᠢ\nᠬᠣᠢᠯᠠᠷᠠᠭ᠎ᠠ  ᠬᠣᠢ + ᠯᠠ + ᠷᠠ + ᠭ᠎ᠠ",
+      "ᠪᠠᠶᠠᠰᠬᠤᠯᠠᠩᠲᠤ  ᠪᠠᠶᠠᠷ +‍ᠰ+ ‍ᠭ᠋ᠤᠯᠠᠩ +  ᠳᠤ\nᠲᠤᠩᠭᠠᠭᠰᠠᠨ —— ᠲᠣᠨ + ᠭ᠎ᠠ + ‍ᠭᠰᠠᠨ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_54",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠦᠷᠭᠡᠭᠦᠦ ᠣᠷᠣᠰᠬᠠᠯ ᠂ ᠰᠠᠯᠬᠢ ᠰᠦᠷᠤᠨ ᠂ ᠤᠰᠤᠨ ᠳᠤ ᠳᠣᠩᠬᠤ",
+      "ᠤᠬᠠᠭᠠᠨ ᠲᠣᠮᠣᠭᠤ ᠂ ᠬᠤᠴᠣᠷᠠᠵᠤ ᠰᠠᠭᠠᠲᠠᠬᠤ ᠂ ᠲᠤᠨᠣᠮᠠᠯ ᠤᠰᠤ",
+      "ᠰᠡᠮᠠᠷᠭᠡᠢ ᠬᠠᠳᠠᠭ ᠂ ᠰᠡᠮᠡᠭᠡᠷ ᠴᠢᠩᠨᠠᠬᠤ ᠂ ᠲᠣᠰᠣ ᠴᠠᠷᠴᠠᠬᠤ",
+      "ᠰᠡᠮᠠᠷᠭᠡᠢ ᠬᠠᠳᠠᠭ ᠂ ᠰᠡᠮᠡᠭᠡᠷ ᠴᠢᠩᠨᠠᠬᠤ ᠂ ᠲᠣᠰᠣ ᠴᠠᠷᠴᠠᠬᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_55",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠣᠢᠷ ᠬᠣᠯᠵᠢᠬᠤ ᠂ ᠤᠬᠢᠯᠠᠵᠤ ᠬᠠᠢᠯᠠᠬᠤ ᠂ ᠰᠣᠷᠣᠮᠠᠭᠠᠢ ᠲᠠᠳᠤᠮᠠᠭᠠᠢ",
+      "ᠨᠠᠭᠠᠳᠤᠵᠤ ᠴᠡᠩᠬᠡᠬᠦ ᠂ ᠰᠢᠨ᠎ᠡ ᠶᠢ ᠡᠭᠦᠳᠬᠦ ᠂ ᠵᠣᠴᠢᠨ ᠲᠠᠢᠯᠬᠤ",
+      "ᠬᠠᠭᠠᠴᠠᠨ ᠰᠠᠯᠬᠤ ᠂ ᠦᠳᠡᠯᠦᠭᠡ ᠨᠠᠰᠤ ᠂ ᠵᠠᠪᠰᠠᠷᠯᠠᠭ᠎ᠠ ᠶᠢᠨ ᠳᠠᠮᠢᠷ",
+      "ᠪᠢᠯᠠᠭᠤ ᠴᠢᠯᠠᠭᠤ ᠂ ᠴᠠᠨᠳᠠᠭ᠎ᠠ ᠲᠠᠤᠯᠠᠢ ᠂ ᠤᠩᠭᠤᠴᠠ ᠬᠦᠪᠬᠦ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_56",
+    "question": "ᠤᠳᠬ᠎ᠠ ᠢᠵᠢᠯᠳᠦᠬᠦ ᠦᠭᠡᠢ ᠬᠡᠯᠡᠴᠡ ᠶᠢᠨ ᠪᠦᠯᠦᠭ ᠨᠢ ᠄",
+    "option": [
+      "①ᠵᠠᠷᠤᠬᠤ ᠴᠠᠭ ᠲᠤ ᠵᠠᠷᠠᠭᠠᠨ ᠤ ᠦᠰᠦ ᠡᠷᠳᠡᠨᠢ ᠃\n②ᠬᠡᠷᠡᠭ᠍ᠯᠡᠬᠦ ᠦᠶ᠎ᠡ ᠳᠦ ᠬᠡᠷᠢᠶᠡᠨ ᠥᠳᠥ ᠮᠢᠩᠭᠠᠨ ᠯᠠᠩ ᠃",
+      "①ᠠᠷᠰᠯᠠᠨ ᠡᠴᠡ ᠠᠶᠤᠭᠰᠠᠨ ᠪᠣᠬ᠎ᠠ ᠂ ᠠᠷᠪᠠᠨ ᠵᠢᠯ ᠪᠠᠭᠠᠰᠤ ᠠᠯᠳᠠᠬᠤ ᠃\n②ᠠᠭᠤᠯᠠᠨ ᠳᠤ ᠪᠠᠷᠰ ᠲᠣᠭᠯᠠᠬᠤ ᠳᠤ ᠤᠶᠠᠭᠠᠨ ᠳᠡᠭᠡᠷᠡᠬᠢ ᠡᠯᠵᠢᠭᠡ ᠦᠷᠭᠦᠭᠡᠳ ᠬᠥᠯ  ᠢᠶᠡᠨ ᠬᠣᠭᠤᠯᠬᠤ ᠃",
+      "① ᠶᠠᠪᠤᠬᠤ ᠦᠭᠡᠢ ᠭᠡᠰᠡᠨ ᠵᠠᠮ ᠢᠶᠠᠷ ᠭᠤᠷᠪᠠ ᠶᠠᠪᠤᠵᠤ ᠂\nᠠᠭᠤᠯᠵᠠᠬᠤ ᠦᠭᠡᠢ ᠭᠡᠰᠡᠨ ᠬᠦᠮᠥᠨ ᠲᠠᠢ ᠭᠤᠷᠪᠠ ᠠᠭᠤᠯᠵᠠᠬᠤ ᠃\n②ᠣᠷᠣᠬᠤ ᠦᠭᠡᠢ ᠭᠡᠰᠡᠨ ᠭᠡᠷ ᠲᠦ ᠭᠤᠷᠪᠠ ᠣᠷᠣᠵᠤ ᠂\nᠣᠭᠣᠴᠢᠬᠤ ᠦᠭᠡᠢ ᠭᠡᠰᠡᠨ ᠠᠶᠠᠭᠠᠨ ᠡᠴᠡ ᠭᠣᠷᠪᠠ ᠣᠭᠣᠴᠢᠬᠤ ᠃",
+      "①ᠢᠳᠡᠬᠦ ᠨᠢ ᠢᠳᠡᠷ ᠂ ᠶᠠᠪᠤᠬᠤ ᠨᠢ ᠶᠠᠳᠠᠷ\n②ᠢᠳᠡᠬᠦ ᠨᠢ ᠭᠠᠬᠠᠢ ᠂ ᠶᠠᠪᠤᠬᠤ ᠨᠢ ᠮᠣᠭᠠᠢ ᠃"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_57",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠡᠷᠡᠯᠡᠩᠭᠡᠨ  ᠲᠠᠷ᠎ᠠ + ᠯᠡ + ‍ᠩᠬᠡᠨ\nᠰᠢᠲᠦᠯᠡᠩ —— ᠰᠢᠳᠤ + ᠯᠠ + ‍ᠡᠩ",
+      "ᠡᠷᠡᠭᠦᠳᠡᠬᠦ  ᠡᠷᠡᠭᠦᠦ + ᠎ᠳ᠋ᠠ + ᠬᠦ\nᠱᠠᠩᠨᠠᠬᠤ  ᠱᠠᠩ + ‍ᠨᠠ+ ‍ᠬᠤ᠋",
+      "ᠡᠵᠡᠷᠭᠡᠭ᠍ᠯᠡᠬᠦ  ᠡᠵᠡᠨ + ᠷᠬᠡ + ‍ᠭ + ᠯᠡ + ᠬᠦ\nᠰᠠᠢᠰᠢᠶᠠᠬᠤ —— ᠰᠠᠢᠨ + ᠰᠢᠶᠠ + ‍ᠬᠤ᠋",
+      "ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ  ᠬᠡᠷᠡᠭ + ᠯᠡ + ᠎ᠳ᠋ᠡ + ᠭᠰᠡᠨ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_58",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠣᠷᠣᠭᠤ ᠪᠠᠷ ᠴᠢᠴᠠᠯᠡᠬᠦ ᠂ ᠪᠠᠷᠳᠠᠭ᠎ᠠ ᠲᠤᠭᠤᠯᠯᠠᠬᠤ ᠂ ᠲᠣᠣᠯᠢ ᠬᠠᠢᠯᠬᠤ",
+      "ᠮᠥᠰᠣ ᠬᠠᠢᠯᠬᠤ ᠂ ᠰᠦ ᠬᠥᠭᠡᠷᠡᠬᠦ ᠂ ᠴᠢᠨᠠᠵᠤ ᠪᠣᠯᠭᠤᠬᠤ",
+      "ᠫᠤᠤ ᠶᠢᠨ ᠵᠠᠮᠤᠭ ᠂ ᠶᠠᠰᠤ ᠪᠡᠷᠳᠡᠬᠦ ᠂ ᠪᠡᠯᠮᠠᠳ ᠬᠡᠷᠴᠡᠭᠡᠢ",
+      "ᠪᠤᠷᠣᠭᠠᠨ ᠲᠣᠰᠣᠭᠠᠨᠠᠬᠤ ᠂ ᠳᠠᠩᠰᠤᠵᠤ ᠠᠰᠠᠭᠤᠬᠤ ᠂ ᠬᠣᠣᠷ᠎ᠠ ᠬᠦᠨᠣᠭᠡᠯ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_62",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠪᠦᠷᠢᠶᠡᠰᠦᠯᠡᠬᠦ —— ᠪᠦᠷᠢ + ᠶᠠᠰᠤ + ᠯᠡ + ᠬᠦ\nᠬᠥᠭ᠍ᠵᠢᠮᠳᠡᠭᠦᠷ ——ᠭᠦᠭ+ ᠵᠢ + ᠳ᠋ᠡ + ᠬᠦ᠋ᠷ",
+      "ᠡᠷᠬᠢᠴᠡᠭᠦᠯᠤᠯ  ᠡᠷᠬᠢᠴᠡ + ᠭᠦ᠋ᠯ\nᠲᠠᠲᠠᠭᠠᠯᠵᠠᠭᠰᠠᠨ  ᠲᠡᠳᠡ + ‍ᠭ᠋ᠠᠯᠵᠠ + ‍ᠭ᠋ + ᠰᠠᠨ",
+      "ᠨᠡᠪᠲᠡᠷᠬᠡᠢ  ᠨᠡᠪᠲᠡ + ‍ᠷ + ᠬᠡᠢ\nᠠᠭᠤᠯᠠᠷᠬᠠᠭ  ᠠᠭᠤᠯᠠ + ᠷᠬ᠎ᠠ + ᠎ ‍ᠭ᠋",
+      "ᠰᠤᠷᠬᠠᠭᠯᠠᠭᠠᠴᠢ  ᠰᠤᠷᠠᠭ + ᠯᠡ + ‍ᠭ᠋ᠠᠴᠢ\nᠲᠠᠨᠢᠯᠴᠠᠭᠤᠯᠤᠭ᠌ᠴᠢ —— ᠲᠠᠨᠢ + ‍ᠯ+ ᠴᠠ + ‍ᠭ᠋ᠣᠯ + ‍ᠭᠴᠢ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_63",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠡᠷᠡᠮᠵᠢᠯᠡᠭᠦᠯᠦᠭ᠍ᠰᠡᠨ  ᠰᠠᠷᠠ + ᠮᠵᠢ + ᠯᠡ + ᠭᠦ᠋ᠯ + ᠭᠰᠡᠨ\nᠲᠤᠯᠭᠠᠮᠳᠠᠭᠤᠯᠬᠤ —— ᠲᠣᠯ + ᠭ᠎ᠠ + ᠮᠳᠡ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋",
+      "ᠬᠦᠯᠥᠷᠡᠬᠦ —— ᠬᠥᠯ + ᠷᠡ + ᠬᠦ\nᠬᠤᠷᠠᠮᠳᠤᠭᠤᠯᠤᠯ —— ᠬᠤᠷ᠎ᠠ +ᠮᠲᠤ + ‍ᠭ᠋ᠤᠯ + ‍ᠯ",
+      "ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ —— ᠬᠥᠳᠡᠯ + ᠭᠡ + ᠬᠡᠨ\nᠲᠡᠮᠡᠴᠡᠯᠳᠦᠬᠦ —— ᠲᠡᠮᠡᠴᠡ + ‍ᠯ +  ᠳᠦ + ᠬᠦ",
+      "ᠮᠤᠬᠤᠷᠳᠠᠭᠤᠯᠬᠤ —— ᠮᠤᠬᠤᠷ + ᠎ᠳ᠋ᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋\nᠪᠠᠷᠢᠮᠳᠠᠯᠠᠬᠤ —— ᠪᠠᠷᠢ + ᠮᠳᠡ + ᠯᠡ + ‍ᠬᠤ᠋"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_64",
+    "question": "ᠴᠥᠮ ᠥᠪᠡᠷᠮᠢᠴᠡ ᠬᠡᠯᠡᠯᠭᠡ ᠪᠣᠯᠬᠤ ᠪᠦᠯᠦᠭ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠳᠢᠰ ᠪᠠᠭᠤᠯᠭᠠᠬᠤ ᠂ ᠲᠦᠷᠥᠭᠡ ᠴᠢᠩᠭᠠᠯᠠᠬᠤ ᠂ ᠭᠠᠨᠵᠤᠭ᠎ᠠ ᠲᠠᠲᠠᠭᠤ",
+      "ᠭᠠᠵᠠᠷ ᠤᠨᠠᠬᠤ ᠂ ᠬᠣᠯᠠ  ᠶᠢᠨ ᠬᠠᠷᠠᠴᠠ ᠂ ᠴᠡᠴᠡᠭ ᠳᠡᠯᠭᠡᠷᠡᠬᠦ",
+      "ᠵᠣᠳᠤᠵᠤ ᠴᠣᠤᠬᠢᠬᠤ ᠂ ᠠᠷᠢᠬᠢ ᠤᠤᠭᠤᠬᠤ ᠂ ᠤᠯᠵᠠ ᠤᠮᠤᠭ ᠪᠠᠭ᠎ᠠ",
+      "ᠮᠣᠷᠢ ᠣᠨᠣᠬᠤ ᠂ ᠬᠣᠭᠣᠯᠠ ᠢᠳᠡᠬᠦ ᠂ ᠴᠢᠮᠡᠭᠡ ᠴᠢᠩᠨᠠᠬᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_65",
+    "question": "ᠨᠡᠷ᠎ᠡ ᠦᠭᠡ ᠂ ᠦᠢᠯᠡ ᠦᠭᠡ ᠶᠢᠨ ᠨᠥᠬᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠥᠭᠦᠯᠡᠪᠦᠷᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠪᠢ ᠪᠦᠵᠢᠭ ᠶᠢᠨ ᠠᠩᠭᠢ ᠳᠤ ᠣᠷᠣᠪᠠ ᠃",
+      "ᠪᠢ ᠲᠡᠭᠦᠨ ᠢ ᠪᠠᠭ᠎ᠠ  ᠡᠴᠡ ᠪᠠᠨ ᠦᠵᠡᠵᠦ ᠪᠠᠢᠳᠠᠭ ᠃",
+      "ᠲᠠ ᠨᠠᠷ ᠪᠢᠴᠢᠭ  ᠢᠶᠡᠨ ᠴᠢᠷᠮᠠᠢᠨ ᠰᠣᠷᠣᠶ᠎ᠠ ᠃",
+      "ᠪᠠᠲᠤ ᠂ ᠪᠠᠭᠠᠲᠤᠷ ᠂ ᠪᠠᠭᠠᠨ᠎ᠠ ᠪᠣᠯ ᠨᠢᠭᠡ ᠤᠰᠤᠨ ᠤ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_67",
+    "question": "ᠴᠥᠮ ᠥᠪᠡᠷᠮᠢᠴᠡ ᠬᠡᠯᠡᠯᠭᠡ ᠪᠣᠯᠬᠤ ᠪᠦᠯᠦᠭ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠢᠭᠤᠷ ᠥᠭ᠍ᠬᠦ ᠂ ᠨᠢᠭᠤᠷ ᠤᠬᠢᠶᠠᠬᠤ ᠂ ᠨᠢᠳᠣ ᠬᠢᠯᠪᠠᠬᠤ",
+      "ᠭᠠᠵᠠᠷ ᠴᠢᠩᠨᠠᠬᠤ ᠂ ᠭᠠᠵᠠᠷ ᠬᠢᠰᠭᠢᠬᠦ ᠂ ᠬᠥᠯ ᠡᠪᠡᠳᠬᠦ",
+      "ᠨᠢᠳᠦ ᠬᠤᠵᠢᠷᠯᠠᠬᠤ ᠂ ᠯᠠ ᠳᠡᠭᠡᠷ᠎ᠡ ᠰᠠᠭᠤᠬᠤ ᠂ ᠶᠠᠰᠤ ᠬᠠᠲᠠᠭᠤ",
+      "ᠳᠤᠷ᠎ᠠ ᠰᠣᠨᠢᠷᠬᠠᠯ ᠢᠶᠠᠨ ᠬᠠᠩᠭᠠᠬᠤ ᠂ ᠬᠡᠷᠡᠭ ᠤᠴᠢᠷ ᠲᠦ ᠪᠠᠷᠢᠭ᠌ᠳᠠᠬᠤ ᠂ ᠵᠣᠷᠢᠭ ᠰᠦᠰᠣ ᠲᠠᠢ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_68",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠯᠠᠵᠤ ᠨᠢᠳᠤᠯᠬᠤ ᠂ ᠬᠦᠪᠣᠯᠵᠠᠨ ᠳᠡᠭ᠍ᠳᠡᠬᠦ ᠂ ᠨᠣᠷᠴᠤ ᠤᠰᠤᠳᠤᠭᠰᠠᠨ",
+      "ᠬᠤᠵᠠᠢᠨ ᠰᠢᠷᠬᠠᠯᠠᠬᠤ ᠂ ᠦᠯᠤᠰᠴᠤ ᠤᠮᠳᠠᠭᠠᠰᠬᠤ ᠂ ᠨᠤᠭᠤᠷᠠᠨ ᠬᠥᠭᠡᠷᠡᠬᠦ",
+      "ᠬᠥᠯ ᠬᠥᠭᠡᠷᠴᠦᠭ ᠂ ᠬᠦᠯᠥᠭ ᠦᠨ ᠲᠥᠪᠥᠷᠭᠡᠨ ᠂ ᠪᠣᠭᠴᠣ ᠪᠠᠨ ᠭᠠᠨᠵᠤᠭᠯᠠᠭᠠᠳ",
+      "ᠬᠡ ᠤᠭᠠᠯᠵᠠ ᠂ ᠭᠡᠭᠡᠷ᠎ᠡ ᠮᠣᠷᠢ ᠂ ᠡᠯᠭᠡᠯᠡᠵᠤ ᠳᠤᠭᠣᠬᠢᠯᠠᠬᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_69",
+    "question": "ᠬᠤᠪᠢᠯᠭᠠᠬᠤ ᠳᠠᠭᠠᠪᠤᠷᠢ ᠶᠢ ᠴᠥᠮ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠭᠣᠳᠣᠯ ᠢᠶᠠᠨ ᠲᠦᠯᠴᠢᠳ ᠶᠠᠭᠠᠷᠠᠳᠬᠠᠨ ᠴᠢᠷᠠᠢ  ᠳᠤ ᠪᠠᠨ",
+      "ᠠᠪᠳᠠᠭᠳᠠᠵᠤ ᠰᠢᠪᠠᠭᠤ ᠤ ᠠᠨᠳᠠ ᠨᠥᠬᠥᠳ ᠨᠠᠷ ᠬᠣᠰᠢᠶᠠᠳ",
+      "ᠲᠤᠯᠤᠭ᠎ᠠ ᠰᠢᠬᠠᠮ ᠢᠯᠴᠢᠨ ᠳᠤ ᠮᠡᠳᠡᠯᠴᠠᠵᠤ ᠤᠯᠠᠭᠠᠪᠲᠤᠷ",
+      "ᠳᠤᠶᠠᠭ᠎ᠠ  ᠠᠴᠠ ᠨᠢᠳᠤ ᠨᠦ᠋ᠭᠦᠳ ᠰᠠᠭᠤᠭᠳᠠᠵᠤ ᠵᠠᠩ ᠶᠢ ᠨᠢ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_70",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠴᠠᠭ ᠪᠣᠯᠵᠤᠬᠤ ᠂ ᠡᠯᠠᠵᠤ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠬᠦ ᠂ ᠦᠨᠢᠶ᠎ᠡ ᠲᠣᠭᠤᠯᠯᠠᠬᠤ ᠂ ᠠᠮᠢᠰᠬᠤᠯ ᠴᠢᠬᠤᠯᠠᠳᠠᠬᠤ",
+      "ᠲᠦᠰᠢᠭ ᠲᠤᠯᠭᠠᠭᠤᠷᠢ ᠂ ᠲᠠᠰᠴᠤ ᠲᠠᠳᠬᠤ ᠂ ᠲᠠᠮᠢᠷ ᠲᠡᠩᠬᠡᠭᠡ ᠂ ᠴᠢᠬᠤᠯᠠᠴᠢᠯᠠᠨ ᠱᠠᠭᠠᠷᠳᠠᠬᠤ",
+      "ᠤᠬᠢᠯᠠᠡᠵᠦ ᠬᠠᠢᠯᠠᠬᠤ ᠂ ᠴᠢᠷᠠᠢ ᠬᠤᠵᠢᠬᠤ ᠂ ᠪᠡᠯᠪᠡᠴᠡᠵᠤ ᠬᠡᠮᠬᠡᠴᠡᠬᠦ ᠂ ᠮᠣᠷᠢ ᠡᠮᠭᠡᠯᠡᠬᠦ",
+      "ᠳᠤᠯᠭᠠᠭᠤᠷ ᠪᠠᠭᠠᠨ᠎ᠠ ᠂ ᠪᠤᠴᠠᠭᠠᠵᠤ ᠥᠭ᠍ᠪᠡ ᠂ ᠰᠡᠷᠡᠭᠦᠨ ᠰᠠᠯᠬᠢ ᠂ ᠬᠡᠷᠡᠴᠢ ᠪᠠᠷᠢᠮᠲᠠ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_71",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠳ᠋ᠦᠩᠨᠡᠯᠲᠡ —— ᠳ᠋ᠦᠩ +ᠯᠡ + ᠯᠳᠡ\nᠳᠠᠰᠬᠠᠬᠤ —— ᠳᠡᠰ + ᠬ᠎ᠠ + ‍ᠬᠤ᠋",
+      "ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ —— ᠪᠣᠯ + ᠪᠠᠰᠤᠨ + ᠷᠠ + ‍ᠭ᠋ᠣᠯ + ‍ᠬᠤ᠋\nᠬᠥᠭ᠍ᠵᠢᠯᠲᠦ —— ᠭᠦᠭ + ᠵᠢ + ‍ᠯᠳᠦ",
+      "ᠪᠣᠳᠣᠯᠬᠢᠯᠠᠭᠰᠠᠭᠠᠷ  ᠪᠣᠳᠣ + ‍ᠯ+ ᠬᠢᠯᠡ + ‍ᠭᠰᠠᠭᠠᠷ\nᠳᠡᠯᠪᠡᠷᠬᠡᠢ  ᠳᠡᠯᠪᠠ + ‍ᠷ+ ᠬᠡᠢ",
+      "ᠡᠰᠡᠷᠭᠦᠴᠡᠯᠳᠦᠬᠦ —— ᠡᠰᠡᠷᠭᠦ + ᠴᠡ + ‍ᠯ +  ᠳᠤ + ᠬᠦ\nᠦᠯᠥᠰᠭᠡᠬᠦ —— ᠦᠯᠥᠨ + ‍ᠰ+ ᠬᠡ + ᠬᠦ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_72",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠣᠭᠳᠤᠯᠤᠭᠰᠠᠨ ᠰᠡᠳᠭᠢᠯ ᠂ ᠬᠤᠪᠬᠠᠢ ᠮᠣᠳᠣ ᠂ ᠬᠡᠮᠬᠡᠴᠡᠨ ᠨᠢᠴᠠᠯᠬᠤ ᠂ ᠴᠠᠢ ᠪᠤᠴᠠᠯᠤᠬᠤ",
+      "ᠬᠦᠨᠳᠡᠯᠡᠨ ᠭᠣᠣᠯᠲᠤ ᠂ ᠪᠦᠷᠢᠮᠦᠰᠤᠨ ᠣᠨᠳᠣᠣ ᠂ ᠬᠡᠷᠡᠴᠢ ᠪᠠᠲᠤᠯᠭ᠎ᠠ ᠂ ᠪᠡᠯᠡᠭ ᠲᠠᠮᠪᠠᠷᠢᠯ",
+      "ᠡᠮᠬᠢ ᠵᠠᠮᠪᠠᠷᠠᠭ᠎ᠠ ᠂ ᠠᠯᠠᠵᠤ ᠨᠢᠳᠦᠯᠬᠤ ᠂ ᠰᠡᠳᠭᠢᠯ ᠬᠠᠩᠬᠤ ᠂ ᠪᠤᠷᠣᠭᠠᠨ ᠲᠣᠰᠣᠯᠠᠬᠤ",
+      "ᠪᠠᠯᠠᠮᠠᠳ ᠬᠡᠷᠴᠡᠭᠡᠢ ᠂ ᠲᠤᠷᠠᠵᠤ ᠡᠴᠢᠬᠦ ᠂ ᠬᠣᠶᠠᠭ ᠲᠤᠭᠤᠯᠠᠭ᠎ᠠ ᠂ ᠬᠤᠪᠬᠤᠷᠴᠤ ᠤᠨᠠᠬᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_75",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠳᠡᠭᠦᠦ ᠨᠠᠷ ᠦᠨ ᠢᠶᠡᠨ ᠂ ᠬᠡᠯᠡ ᠢᠶᠡᠷ ᠢᠶᠡᠨ ᠂ ᠡᠪᠦᠭᠡᠳ ᠨᠠᠰᠤᠳᠠᠢᠴᠤᠣᠯ ᠂ ᠬᠢᠴᠢᠶᠡᠯ ᠢᠶᠡᠨ",
+      "ᠰᠠᠨᠠᠭ᠎ᠠ ᠢ ᠨᠢ ᠂ ᠠᠮᠠᠷᠠᠯᠲᠠ ᠶᠢᠨ ᠢᠶᠠᠨ ᠂ ᠠᠵᠢᠯ ᠪᠠᠷ ᠢᠶᠠᠨ ᠂ ᠬᠣᠨᠣᠭ ᠤᠳ ᠢ",
+      "ᠬᠠᠷᠪᠤᠯᠲᠤ ᠂ ᠭᠦᠶᠦᠯᠭᠡᠪᠡ ᠂ ᠴᠢᠯᠤᠭᠡᠯᠡᠭ᠍ᠳᠡᠵᠦ ᠂ ᠬᠠᠪᠰᠤᠷᠤᠯᠴᠠᠨ",
+      "ᠠᠭᠤᠯᠠᠨ ᠳᠦ ᠂ ᠨᠢᠳᠦ ᠪᠡᠷ ᠢᠶᠡᠨ ᠂ ᠨᠥᠬᠥᠳ ᠲᠠᠢ ᠪᠡᠨ ᠂ ᠡᠷᠳᠡᠮᠲᠡᠨ ᠮᠡᠷᠭᠡᠳ ᠶᠢ ᠂ ᠠᠬ᠎ᠠ ᠶ᠋ᠢᠨ  ᠳᠤ ᠪᠠᠨ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_79",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠡᠪᠦᠭᠡᠴᠦᠣᠯ ᠢᠶᠠᠷ ᠢᠶᠠᠨ ᠂ ᠮᠠᠯᠴᠢᠳ ᠤᠨ ᠮᠢᠨᠢ ᠂ ᠪᠤᠷᠤᠭᠠᠨ  ᠳᠤ ᠪᠠᠨ",
+      "ᠠᠬ᠎ᠠ ᠤ  ᠳᠤ ᠪᠠᠨ ᠂ ᠬᠢᠴᠢᠶᠡᠯ ᠲᠠᠢ ᠠᠴᠠ ᠂ ᠦᠵᠡᠭ᠍ᠴᠢᠳ",
+      "ᠭᠠᠵᠠᠷ ᠨᠤᠭᠤᠳ ᠲᠤ ᠂ ᠪᠢᠴᠢᠭ ᠲᠠᠢ ᠠᠴᠠ ᠨᠢ ᠂ ᠭᠠᠷ ᠤᠳ ᠢᠶᠠᠨ",
+      "ᠳᠡᠭᠦᠦ ᠨᠠᠷ  ᠳᠤ ᠪᠠᠨ ᠂ ᠠᠵᠢᠯ ᠤᠨ ᠢᠶᠠᠨ ᠂ ᠲᠥᠮᠣᠰᠣ ᠡᠴᠡ ᠨᠢ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_82",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ  ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠤᠢᠳᠬᠠᠷᠯᠠᠨ —— ᠣᠢ +  ᠤᠨ + ᠠᠠᠷ + ᠯᠠᠨ",
+      "ᠵᠠᠩᠬᠢᠳᠤᠭᠠᠰᠤ —— ᠵᠠᠩᠭᠢ + ᠤᠨ + ‍ᠭ᠋ᠠᠰᠦ",
+      "ᠦᠭ᠍ᠭᠦᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ —— ᠦᠭ + ᠭᠦ᠋ᠭ + ᠳ᠋ᠡ+ ᠭᠰᠡᠨ",
+      "ᠬᠣᠷᠢᠭ᠌ᠯᠠᠭᠳᠠᠭᠰᠠᠨ —— ᠬᠣᠷᠢ + ᠠᠯᠠ + ᠠ + ᠳ᠋ᠠ + ᠠᠰᠠᠨ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_83",
+    "question": "ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠭᠤᠯᠠ ᠢᠶᠠᠷ ᠂ ᠨᠤᠲᠤᠭ ᠪᠠᠨ ᠂ ᠤᠯᠠᠨ ᠬᠦᠮᠤᠰ",
+      "ᠦᠭᠡ ᠪᠡᠷ ᠂ ᠰᠥᠷᠦᠭ ᠦᠳ ᠂ ᠨᠥᠬᠥᠳ ᠢᠶᠡᠨ",
+      "ᠨᠢᠭᠤᠴᠠ ᠢᠶᠠᠷ ᠂ ᠨᠣᠮ ᠢᠶᠠᠨ ᠂ ᠡᠵᠢ ᠢ ᠪᠠᠨ",
+      "ᠬᠠᠮᠠᠷ ᠢᠶᠠᠨ ᠂ ᠬᠤᠲᠠᠨ ᠤ ᠂ ᠲᠡᠭᠦᠰ ᠨᠠᠷ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_85",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠦᠯᠢᠶᠡᠰᠦᠯᠡᠬᠦ  ᠬᠥᠯ + ᠶᠡ + ᠰᠦ᠋ + ᠯᠠ + ᠬᠦ",
+      "ᠠᠷᠠᠳᠴᠢᠯᠠᠬᠤ  ᠠᠷᠠᠨ +  ᠤᠨ + ᠴᠢᠯᠡ + ᠠᠤ᠋",
+      "ᠬᠠᠭᠠᠷᠬᠠᠢ  ᠬᠠᠭ᠎ᠠ + ᠷᠠ + ᠠᠠᠢ",
+      "ᠪᠠᠷᠳᠠᠮᠨᠠᠬᠤ   ᠪᠡᠷ + ᠳ᠋ᠠ + ‍ᠮ + ‍ᠯᠠ+ᠠᠤ᠋"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_87",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠵᠢᠭᠠᠰᠤ ᠵᠢᠷᠭᠠᠬᠠᠢ ᠂ ᠤᠮᠪᠣᠯ ᠬᠥᠪᠡᠭᠦᠨ ᠂ ᠰᠦ ᠰᠠᠮᠤᠷᠤᠨ",
+      "ᠲᠣᠭᠯᠠᠨ ᠨᠠᠭᠠᠳᠤᠬᠤ ᠂ ᠭᠠᠷ  ᠠᠴᠠ ᠮᠤᠯᠳᠤᠷᠬᠤ ᠂ ᠬᠠᠲᠠᠵᠤ ᠬᠤᠪᠬᠠᠢᠷᠠᠬᠤ",
+      "ᠨᠣᠷᠰᠢᠵᠤ ᠶᠠᠷᠢᠬᠤ ᠂ ᠦᠷᠢ ᠲᠥᠯᠥᠭᠡᠰᠦ ᠂ ᠪᠥᠭ᠍ᠲᠤᠷ ᠮᠣᠳᠣ",
+      "ᠦᠵᠢᠷᠬᠡᠢ ᠬᠣᠪᠴᠠᠰᠤ ᠂ ᠠᠷᠠᠰᠤ ᠬᠣᠭᠵᠢᠷᠬᠤ ᠂ ᠤᠶᠠᠷᠠᠨ ᠬᠠᠢᠯᠵᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_89",
+    "question": "ᠨᠡᠷ᠎ᠡ ᠦᠭᠡ ᠶᠢᠨ ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠪᠦᠷᠢᠨ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠮᠤᠩᠭᠤᠯᠴᠤᠨ ᠠᠬᠠᠮᠠᠳ ᠶᠢᠨ ᠢᠶᠠᠨ ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠠᠷᠴᠤ ᠰᠠᠭᠤᠬᠤ ᠂ ᠤᠷᠳᠤᠭᠤᠷ ᠨᠢ ᠭᠠᠷᠬᠤ ᠂ ᠶᠡᠬᠡ ᠬᠥᠮᠤᠰ ᠦᠳ ᠤᠨ ᠦᠭᠡ ᠢ ᠴᠢᠩᠨᠠᠬᠤ ᠂ ᠠᠬᠠᠮᠠᠳ ᠦᠨ ᠡᠮᠤᠨ᠎ᠡ ᠭᠡᠷ ᠳᠦ ᠣᠷᠣᠬᠤ ᠶᠢ ᠴᠡᠭᠡᠷᠯᠡᠳᠡᠭ ᠃",
+      "ᠡᠯ᠎ᠡ ᠦᠨᠳᠦᠰᠦᠲᠡᠨ ᠤᠳ ᠰᠢᠳᠦᠵᠦ ᠡᠷᠬᠢᠮᠯᠡᠳᠡᠭ ᠦᠩᠭᠡ ᠪᠠᠢᠳᠠᠭ ᠃ ᠮᠤᠩᠭᠤᠯᠴᠤᠳ ᠴᠠᠭᠠᠨ ᠥᠩᠭᠡ ᠶᠢ ᠦᠩᠭᠡᠨ ᠤ ᠡᠬᠢ ᠂ ᠬᠠᠮᠤᠭ ᠤᠨ ᠠᠷᠢᠭᠤᠨ ᠭᠡᠵᠦ ᠦᠵᠡᠳᠡᠭ ᠃",
+      "ᠴᠠᠭᠠᠨ ᠬᠠᠳᠠᠭ ᠢ ᠰᠦᠨ ᠴᠠᠭᠠᠨ ᠰᠡᠳᠭᠢᠯ ᠤᠨ ᠪᠡᠯᠭᠡ ᠲᠡᠮᠳᠡᠭ ᠭᠡᠵᠦ ᠂ ᠴᠡᠩᠬᠡᠷ ᠬᠠᠳᠠᠭ ᠢ ᠬᠥᠬᠡ ᠲᠡᠭ᠍ᠷᠢ ᠰᠢᠭ ᠮᠦᠩᠭᠡᠵᠢᠬᠦ ᠶᠢᠨ ᠪᠡᠯᠭᠡ ᠲᠡᠮᠳᠡᠭ ᠭᠡᠵᠦ ᠦᠵᠡᠳᠡᠭ ᠃",
+      "ᠮᠤᠩᠭᠤᠯᠴᠤᠨ ᠦᠯᠵᠠᠢ ᠵᠠᠩᠭᠢᠶ᠎ᠠᠡ᠋ ᠶᠢ ᠡᠩᠬᠡ ᠵᠢᠷᠭᠠᠯᠠᠩ᠎ ᠦᠨ ᠬᠡ ᠭᠡᠵᠦ ᠂ ᠡᠯᠢᠭᠡ ᠪᠦᠳᠦᠨ ᠂ ᠡᠩᠬᠡ ᠮᠠᠨᠳᠣ ᠂ ᠮᠦᠩᠬᠡ ᠦᠨ ᠪᠠᠷᠢᠯᠳᠤᠯᠭ᠎ᠠ ᠂ ᠪᠠᠲᠤ ᠬᠣᠯᠪᠣᠭ᠎ᠠ ᠶᠢ ᠪᠡᠯᠭᠡᠳᠡᠳᠡᠭ ᠃"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_90",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠰᠬᠠᠷᠠᠬᠤ  ᠠᠰ + ᠭ᠎ᠠ + ᠷᠠ + ‍ᠬᠤ᠋",
+      "ᠲᠡᠨᠤᠭᠦᠴᠢᠯᠡᠬᠦ  ᠲᠠᠨᠤ + ᠭᠦ᠋ᠯ + ᠴᠢᠯᠠ + ᠬᠦ",
+      "ᠲᠣᠬᠣᠭᠤᠷᠬᠠᠭᠰᠠᠨ —— ᠲᠣᠬᠣ + ‍ᠭ᠋ᠤ᠋ + ᠷᠬ᠎ᠠ + ‍ᠭᠰᠠᠨ",
+      "ᠲᠠᠷᠭᠤᠯᠠᠳᠠᠯ᠎ᠠ —— ᠲᠠᠷᠭᠤᠨ + ᠯᠡ + ᠳ᠋ᠠᠯ᠎ᠠ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_92",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠠᠷᠠᠭᠠᠯᠵᠠᠯ  ᠬᠠᠷᠠ + ‍ᠭ᠋ᠠᠯᠵᠠ + ‍ᠯ",
+      "ᠠᠨᠢᠪᠬᠢᠯᠠᠭᠠᠳ  ᠠᠨᠢ + ᠪᠬᠢ + ᠯᠡ + ‍ᠭ᠋ᠠᠳ",
+      "ᠢᠯᠡᠷᠭᠡᠢᠯᠡᠯᠲᠡ  ᠢᠯᠡ + ‍ᠷ+ ᠬᠡᠢ + ᠯᠡ + ‍ᠯ+ ᠳ᠋ᠡ",
+      "ᠲᠠᠷᠭᠤᠯᠠᠪᠠᠴᠤ  ᠲᠠᠷᠭᠤ + ᠯᠡ + ᠪᠠ + ᠴᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_93",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠪᠢᠳᠡᠭᠦᠷᠡᠭᠦᠯᠬᠦ  ᠪᠢᠳᠡᠭᠦᠦ + ᠷᠠ + ᠬᠦ᠋ᠯ + ᠬᠦ",
+      "ᠨᠡᠮᠡᠷᠢᠯᠡᠳᠡᠭ  ᠨᠡᠮᠡᠷᠢ + ᠯᠡ + ᠳ᠋ᠡᠩ",
+      "ᠬᠠᠪᠴᠢᠶᠠᠷᠢᠲᠠᠢ —— ᠬᠠᠪᠴᠢ + ᠶ᠎ᠠ + ᠷᠢ + ᠳ᠋ᠠᠢ",
+      "ᠰᠡᠷᠪᠠᠯᠵᠡᠭᠦᠯᠦᠨ —— ᠰᠠᠷ + ᠪᠠᠢ + ᠯᠵᠠ + ᠭᠦ᠋ᠯ + ‍ᠨ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_96",
+    "question": "ᠲᠠᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠷᠠᠰᠤ ᠬᠠᠭᠤᠷᠬᠤ ᠂ ᠭᠡᠷᠡᠯ ᠲᠣᠰᠬᠤ ᠂ ᠢᠷ ᠨᠢ ᠮᠢᠷᠠᠬᠤ",
+      "ᠡᠮᠲᠡᠷᠡᠵᠦ ᠬᠡᠯᠲᠡᠷᠡᠬᠦ ᠂ ᠬᠥᠬᠥᠭᠡ ᠡᠪᠦᠯ ᠂ ᠪᠡᠯᠡᠭ ᠲᠡᠮᠳᠡᠭ",
+      "ᠲᠤᠰᠠᠭᠠᠷ ᠲᠣᠭᠲᠠᠨᠢᠬᠤ ᠂ ᠠᠮᠢ ᠵᠢᠭᠤᠬᠤ ᠂ ᠦᠷᠡᠨ ᠲᠠᠯᠠᠵᠤ",
+      "ᠲᠠᠯᠤ ᠮᠥᠷ ᠂ ᠲᠠᠷᠢᠶ᠎ᠠ ᠬᠠᠲᠠᠬᠤ ᠂ ᠮᠣᠷᠢ ᠣᠨᠤᠬᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_100",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠭᠠᠯ ᠤᠨ ᠲᠦᠯᠤ ᠂ ᠪᠣᠷᠣᠭᠠᠨ ᠲᠣᠰᠣᠯᠠᠬᠤ ᠂ ᠶᠠᠭᠠᠷᠠᠤ ᠰᠠᠨᠳᠤᠷᠤᠤ",
+      "ᠬᠡᠯᠡ ᠴᠣᠯᠴᠠᠷᠠᠬᠤ ᠂ ᠶᠠᠪᠤᠭᠠᠨ ᠶᠠᠪᠤᠬᠤ ᠂ ᠦᠰᠤᠨ ᠦ ᠵᠠᠭᠠᠳᠠᠰᠤ",
+      "ᠬᠤᠪᠢ ᠵᠢᠶᠠᠭ᠎ᠠ ᠂ ᠪᠤᠳᠠᠭ᠎ᠠ ᠵᠠᠵᠢᠯᠠᠬᠤ ᠂ ᠡᠯᠤᠨᠴᠠ ᠬᠤᠯᠣᠨᠴᠠ",
+      "ᠮᠠᠯ ᠲᠦᠯᠡᠯᠬᠦ ᠂ ᠡᠭᠦᠯᠡ ᠬᠥᠯᠭᠡᠯᠡᠬᠦ ᠂ ᠲᠣᠭᠣᠭ᠎ᠠ ᠬᠥᠮᠥᠷᠬᠦ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "hard",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_12",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠣᠲᠣᠷ ᠲᠠᠢ ᠲᠠᠪᠠᠯ ᠂ ᠨᠣᠮ ᠢᠶᠠᠨ ᠬᠣᠮᠢᠬᠤ ᠂ ᠳᠡᠪᠢᠭᠦᠷ ᠢᠶᠠᠷ ᠬᠥᠪᠢᠵᠦ",
+      "ᠠᠬ᠎ᠠ ᠤ  ᠳᠤ ᠪᠠᠨ ᠂ ᠬᠢᠴᠢᠶᠡᠯ ᠲᠠᠢ ᠠᠴᠠ ᠂ ᠦᠵᠡᠭ᠍ᠴᠢᠳ",
+      "ᠪᠦᠭ᠍ᠴᠢᠮ᠎ᠡ ᠬᠠᠯᠠᠭᠤᠨ ᠂ ᠪᠦᠷᠬᠦ ᠭᠡᠷ ᠂ ᠴᠠᠰᠤᠨ ᠭᠢᠯᠪᠠᠰᠤᠷᠭ᠎ᠠ",
+      "ᠰᠢᠳᠠᠮ᠎ᠠ ᠨᠠᠷᠠ ᠂ ᠠᠮᠠ ᠵᠠᠪᠠᠠᠷᠠᠬᠤ ᠂ ᠪᠣᠯᠭᠤᠭᠤᠵᠤ ᠲᠤᠩᠭᠠᠬᠤ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_13",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠤᠷᠠᠮᠳᠤᠭᠤᠯᠬᠤ  ᠬᠤᠷ᠎ᠠ + ᠮᠲᠣ + ‍ᠭ᠋ᠣᠯ + ᠠᠤ᠋\nᠵᠥᠷᠢᠭᠦᠯᠬᠦ  ᠵᠥᠷᠢ + ᠬᠦ + ᠯᠠ + ᠬᠦ",
+      "ᠦᠭ᠍ᠭᠦᠭ᠍ᠰᠡᠭᠡᠷ  ᠦᠭ + ᠭᠰᠡᠭᠡᠷ\nᠬᠣᠷᠣᠰᠬᠠᠵᠤ  ᠬᠣᠷᠣ + ‍ᠰ + ᠭ᠎ᠠ + ᠵᠦ",
+      "ᠵᠠᠢᠯᠤᠭᠤᠯᠤᠭᠰᠠᠨ  ᠵᠠᠢ + ‍ᠯ + ‍ᠭ᠋ᠤᠯ + ᠠᠰᠠᠨ\nᠵᠢᠷᠤᠭᠯᠠᠳᠠᠭ —— ᠵᠢᠷᠤᠭ + ᠯᠠ + ᠳ᠋ᠠᠭ",
+      "ᠬᠡᠴᠡᠭᠦᠷᠭᠡᠬᠦ  ᠬᠡᠴᠡᠭᠦᠦ + ᠷᠬᠡ + ᠬᠦ\nᠲᠠᠰᠤᠷᠬᠠᠢᠳᠠᠬᠤ  ᠲᠠᠰᠤ + ᠷᠠ + ‍ᠬᠠᠢ + ᠳ᠋ᠠ + ᠠᠤ᠋"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_16",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠯᠠᠮᠠᠢᠷᠠᠬᠤ ᠂ ᠰᠡᠳᠭᠢᠯ ᠬᠠᠩᠬᠤ ᠂ ᠰᠡᠮᠡᠭᠡᠨ ᠬᠡᠯᠡᠯᠴᠡᠬᠦ",
+      "ᠬᠠᠨᠲᠠᠯ᠎ᠠ ᠣᠨᠲᠠᠬᠤ ᠂ ᠬᠡᠷᠡᠭ ᠰᠡᠳᠡᠬᠦ ᠂ ᠰᠠᠮᠵᠠᠨ ᠡᠭᠦᠯᠡ",
+      "ᠪᠠᠷᠴᠢᠬᠢᠷ ᠴᠢᠷᠠᠢ ᠂ ᠪᠠᠳ᠋ᠲᠡᠬᠢ ᠪᠦᠲᠡᠬᠢ ᠬᠠᠷᠠᠭᠳᠠᠬᠤ ᠂ ᠨᠠᠢᠢᠯᠵᠠᠭᠤᠷ ᠪᠤᠷᠭᠠᠰᠤ",
+      "ᠡᠪᠡᠰᠦ ᠦᠭ᠍ᠳᠡᠭᠡᠬᠦ ᠂ ᠦᠳᠡᠷᠮ᠎ᠡ ᠠᠪᠬᠤ ᠂ ᠰᠡᠳᠭᠢᠯ ᠠᠯᠠᠭᠠᠰᠬᠤ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_24",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠬᠣᠣᠷ ᠬᠦᠨᠣᠭᠡᠯ ᠂ ᠰᠡᠳᠭᠢᠯ ᠨᠢᠭᠡᠳᠦᠬᠦ",
+      "ᠦᠨᠡᠰᠤᠨ ᠳᠣᠪᠤᠷᠠᠭ ᠂ ᠠᠶᠤᠯ ᠲᠤᠳᠬᠠᠷ ᠂ ᠵᠠᠯᠡᠭᠦᠳ ᠪᠦᠢᠲᠡ",
+      "ᠰᠢᠲᠠᠵᠤ ᠰᠢᠷᠬᠠᠭᠲᠤᠭᠰᠠᠨ ᠂ ᠤᠩᠭᠠᠰᠤ ᠨᠤᠤᠰᠤ ᠂ ᠵᠦᠭᠡᠯᠡᠨ ᠤᠩᠭᠠᠷᠢᠯ",
+      "ᠤᠰᠤᠨ ᠳᠤ ᠲᠣᠨᠵᠤ ᠂ ᠨᠡᠷᠡᠯᠡᠵᠦ ᠴᠣᠯᠯᠠᠬᠤ ᠂ ᠤᠮᠤᠭ ᠬᠡᠳᠦᠷᠬᠦ"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_29",
+    "question": "ᠦᠭᠦᠯᠡᠪᠤᠷᠢ ᠳᠦ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ ᠬᠡᠯᠡᠴᠡ ᠶᠢᠨ ᠤᠳᠬ᠎ᠠ ᠶᠢ ᠣᠨᠣᠪᠴᠢ ᠦᠭᠡᠢ ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠵᠠᠷᠢᠮ ᠨᠢᠭᠡᠨ ᠤᠯᠤᠰ ᠤᠭᠰᠠᠭ᠎ᠠ ᠶᠢᠨ ᠤᠴᠢᠷ ᠶᠠᠪᠤᠳᠠᠯ ᠢ ᠥᠴᠦᠭᠡᠨ ᠴᠤ ᠪᠤᠳᠤᠯᠭᠢᠯᠠᠬᠤ ᠦᠭᠡᠢ ᠪᠠᠷ ᠨᠠᠷᠠ ᠭᠠᠷᠪᠡᠰᠤ ᠰᠠᠢᠨ ᠡᠳᠤᠷ ᠂ ᠭᠡᠳᠡᠰᠤ ᠴᠠᠳᠪᠡᠰᠤ ᠭᠡᠰᠢᠭ ᠡᠳᠦᠷ ᠬᠡᠮᠡᠨ ᠭᠡᠨᠡᠷᠡᠨ ᠡᠯᠮᠡᠷᠡᠵᠤ ᠪᠠᠢᠭ᠌ᠴᠢᠳ ᠴᠦ ᠪᠠᠰᠠ ᠪᠣᠢ ᠠᠮᠤᠷ ᠃ （ ᠪᠠᠭ᠎ᠠ ᠰᠠᠭ᠎ᠠ ᠣᠯᠣᠯᠲᠠ ᠳᠤ ᠪᠠᠨ ᠰᠡᠳᠭᠢᠯ ᠬᠠᠨᠵᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠮᠤᠷᠬᠤ ）",
+      "《 ᠮᠠᠭᠤ ᠪᠣᠬ᠎ᠠ ᠲᠣᠯᠣᠭᠠᠢ ᠳᠤ ᠪᠠᠨ ᠰᠢᠷᠣᠢ ᠰᠡᠴᠤᠨ᠎ᠠ 》 ᠭᠡᠭ᠍ᠴᠢ ᠪᠣᠯᠵᠤ ᠲᠡᠮᠡᠢ ᠬᠥᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠳᠤ ᠪᠠᠨ ᠣᠷᠣᠯ ᠦᠭᠡᠢ ᠬᠠᠰᠢᠶ᠎ᠠ ᠬᠣᠷᠣᠭ᠎ᠠ ᠲᠣᠭᠣᠷᠢᠨ ᠬᠣᠨᠢ ᠮᠠᠯ ᠢᠶᠠᠨ ᠬᠣᠳᠠᠯᠠᠭᠤᠯᠵᠠᠢ ᠃ （ ᠥᠪᠡᠷ ᠤᠨ ᠬᠢᠭ᠍ᠰᠠᠨ ᠬᠥᠳᠡᠯᠮᠦᠷᠢ ᠶᠢᠨ ᠢᠶᠡᠨ ᠦᠷ᠎ᠡ ᠪᠦᠲᠦᠭᠡᠯ ᠢ ᠡᠳ᠋ᠯᠡᠬᠦ ）",
+      "ᠬᠠᠮᠠᠷ ᠯᠤᠳᠤᠨ ᠵᠠᠯᠠᠭᠤ ᠴᠢᠪᠠᠭᠠᠨᠴᠠ ᠬᠣᠶᠠᠷ ᠢ ᠬᠡᠢ ᠪᠠᠷ ᠬᠥᠭᠡᠷᠡᠭᠦᠯᠵᠦ ᠬᠥᠭᠡᠰᠣ ᠪᠠᠷ ᠪᠥᠭᠡᠯᠵᠢᠭᠦᠯᠪᠡ ᠃ （ ᠬᠡᠢ ᠬᠣᠭᠣᠰᠤᠨ ᠪᠠᠶᠠᠷᠯᠠᠭᠤᠯᠬᠤ ）",
+      "ᠡᠭᠦᠯᠡᠨ ᠦ ᠲᠥᠷᠤᠭᠦᠦ ᠰᠠᠯᠬᠢ ᠭᠡᠭ᠍ᠴᠢ ᠦᠨᠡᠨ ᠡ  ᠶᠡᠷᠦ ᠶᠢᠨ ᠦᠭᠡᠨ ᠳᠦ 《 ᠪᠤᠷᠣᠭᠠᠨ ᠦ ᠡᠮᠤᠨ᠎ᠡ ᠵᠢᠪᠡᠷ ᠂ ᠪᠤᠷᠤᠭᠤ ᠶᠢᠨ ᠡᠮᠤᠨ᠎ᠡ ᠭᠡᠨᠡᠨ 》 ᠭᠡᠵᠦ ᠪᠠᠢᠳᠠᠭ ᠃ ᠴᠠᠯᠠᠭᠠᠢ ᠬᠠᠭᠤᠳᠠᠮ ᠲᠦᠬᠦᠬᠡᠢ ᠮᠠᠭᠤᠬᠠᠢ ᠶᠠᠭᠤᠮᠠᠨ ᠳᠤ ᠰᠡᠪ ᠯᠠᠪᠡᠷᠡᠠᠵᠤ ᠵᠦᠩ ᠰᠤᠪᠢᠩ ᠮᠡᠳᠡᠭ᠍ᠳᠡᠨ᠎ᠡ ）"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_34",
+    "question": "ᠪᠠᠳᠠᠭ ᠤᠨ ᠬᠠᠭᠠᠯᠲᠠ ᠳᠤ ᠲᠣᠬᠢᠷᠠᠯᠴᠠᠬᠤ ᠵᠢᠭ᠌ᠰᠠᠭᠠᠯᠲᠠ ᠨᠢ ᠄ ᠬᠦᠨᠳᠡᠢ ᠲᠠᠯ᠎ᠠ ᠶᠢᠨ ᠵᠡᠷᠭᠡᠯᠭᠡᠨ ᠮᠢᠷᠡᠯᠵᠡᠨ （ ） ᠨᠢ ᠬᠣᠯᠠ  ᠠᠴᠠ ᠦᠵᠡᠬᠦ ᠳᠦ （ ） ᠂ ᠬᠡᠳᠦᠨ ᠵᠢᠵᠢᠭ᠍ᠭᠡᠨ ᠶᠠᠭᠤᠮ᠎ᠠ ᠲᠡᠭᠦᠨ ᠦ ᠳᠤᠮᠳᠠ （ ） ᠨᠢ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠳᠠᠷᠤᠢ ᠲᠠᠨᠢᠭ᠌ᠳᠠᠬᠤ ᠪᠣᠢ ᠃ ᠠᠭᠤᠳᠠᠮ ᠭᠠᠵᠠᠷ ᠳᠤᠷ᠎ᠠ ᠪᠠᠷ （ ） ᠭᠡᠭᠡᠷ᠎ᠡ ᠬᠥᠳᠡᠭᠡ ᠶᠢᠨ （ ） ᠂ ᠬᠤᠷᠳᠤᠨ ᠮᠣᠷᠢᠨ ᠤ ᠢᠷᠡᠯᠵᠡᠨ ᠢᠷᠡᠬᠦ ᠡᠷ᠎ᠡ ᠬᠥᠮᠤᠨ ᠦ （ ） ᠂ ᠣᠢᠷᠡᠲᠤᠨ ᠦᠵᠡᠪᠡᠯ ᠬᠡᠳᠦᠨ ᠵᠠᠯᠠᠭᠤᠰ ᠮᠣᠷᠢ ᠲᠠᠷᠯᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠃",
+    "option": [
+      "ᠵᠢᠷᠪᠢᠬᠢᠨᠡᠬᠦ ᠂ ᠰᠣᠨᠢᠨ ᠂ ᠰᠦᠮᠡᠯᠵᠡᠬᠦ ᠂ ᠰᠡᠯᠡᠭᠦᠴᠡᠬᠦ ᠂ ᠴᠡᠩᠬᠡᠯ ᠂ ᠪᠠᠭᠲᠤᠯ",
+      "ᠴᠠᠢᠯᠵᠠᠬᠤ ᠂ ᠬᠠᠴᠢᠨ ᠂ ᠰᠦᠷᠲᠡᠭᠡᠨᠡᠬᠦ ᠂ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠂ ᠪᠠᠭᠳᠤᠯ ᠂ ᠴᠡᠩᠬᠡᠯ",
+      "ᠳᠣᠷᠣᠯᠵᠠᠬᠤ ᠂ ᠰᠠᠢᠬᠠᠨ ᠂ ᠪᠦᠷᠲᠦᠭᠡᠨᠡᠬᠦ ᠂ ᠰᠡᠯᠡᠭᠦᠴᠡᠬᠦ ᠂ ᠵᠢᠷᠭᠠᠯ ᠂ ᠪᠠᠬᠠᠲᠤᠯ",
+      "ᠵᠢᠷᠪᠢᠬᠢᠨᠡᠬᠦ ᠂ ᠬᠠᠴᠢᠨ ᠂ ᠬᠠᠷᠠᠭᠳᠠᠬᠤ ᠂ ᠲᠣᠭᠣᠷᠢᠬᠤ ᠂ ᠴᠡᠩᠬᠡᠯ ᠂ ᠵᠢᠷᠭᠠᠯ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_36",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠴᠥᠭᠡᠩᠬᠢᠷᠡᠬᠦ —— ᠴᠥᠭᠡᠨ + ᠬᠢ + ᠷᠡ + ᠬᠦ\nᠪᠢᠳᠡᠭᠦᠷᠡᠭᠦᠯᠬᠦ —— ᠪᠢᠳᠡᠭᠦᠦ + ᠷᠡ +ᠭᠦ᠋ᠯ + ᠬᠦ",
+      "ᠬᠠᠪᠴᠢᠶᠠᠷᠢᠲᠠᠢ —— ᠬᠠᠪᠴᠢ + ᠶ᠎ᠠ + ᠷᠢ + ᠳ᠋ᠠᠢ\nᠰᠡᠷᠭᠡᠢᠯᠡᠯᠲᠡ  ᠰᠡᠷᠭᠡᠢ + ᠯᠠ+ ‍ᠯᠲᠡ",
+      "ᠰᠡᠷᠪᠠᠯᠵᠡᠭᠦᠯᠦᠨ —— ᠰᠡᠷᠪᠠᠢ + ᠯᠵᠠ + ᠬᠥ᠍ᠯ + ‍ᠨ\nᠭᠠᠴᠢᠭ᠌ᠳᠠᠭᠤᠯᠬᠤ —— ᠭᠠᠴᠢ +᠎‍ᠭ᠋ + ᠳ᠋ᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠯ",
+      "ᠬᠥᠯᠳᠡᠭᠦᠰᠦ —— ᠬᠥᠯᠲᠡ + ᠬᠦ + ᠰᠦ᠋\nᠨᠡᠮᠡᠷᠢᠯᠡᠳᠡᠭ —— ᠨᠠᠮ + ᠷᠢ + ᠯᠠ + ᠳ᠋ᠡᠭ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_39",
+    "question": "ᠦᠭᠡ ᠶᠢᠨ ᠪᠦᠲᠦᠴᠡ ᠪᠠᠷ ᠵᠥᠪ ᠵᠠᠳᠠᠯᠤᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠲᠦᠯᠦᠪᠰᠢᠷᠡᠭᠦᠯᠭᠦ  ᠲᠥᠯᠤᠪ + ᠰᠢ + ᠷᠡ + ᠭᠦ᠋ᠯ + ᠬᠦ\nᠮᠤᠩᠬᠠᠷᠠᠭᠤᠯᠬᠤ  ᠮᠤᠩᠬᠠᠭ + ᠷᠠ + ‍ᠭ᠋ᠤᠯ + ‍ᠬᠤ᠋",
+      "ᠨᠢᠭᠦᠯᠡᠰᠦᠩᠭᠦᠢ  ᠨᠢᠭᠦᠯ + ‍ᠰ + ‍ᠩᠭᠦᠢ\nᠮᠥᠷᠭᠦᠯᠳᠦᠭᠦᠯᠬᠦ —— ᠮᠥᠷᠬᠦ + ‍ᠯ+ ᠳᠦ + ᠭᠦ᠋ᠯ + ᠬᠦ",
+      "ᠭᠣᠯᠣᠭᠳᠠᠮᠠᠯ —— ᠭᠤᠯᠤ + ‍ᠭᠳᠠ + ᠮᠠᠯ\nᠰᠣᠴᠢᠮᠠᠳᠠᠭᠠᠢ  ᠰᠣᠴᠢ + ᠮᠠᠭ + ᠳ᠋ᠠ + ‍ᠭ᠋ᠠᠢ",
+      "ᠰᠢᠯᠢᠳᠡᠭ᠍ᠵᠢᠭᠦᠯᠬᠦ —— ᠰᠢᠯᠢ + ᠳ᠋ᠡᠭ + ᠵᠢ +ᠭᠦ᠋ᠯ + ᠬᠦ\nᠡᠨᠳᠡᠭᠦᠷᠡᠯ —— ᠡᠨᠳᠡ + ᠬᠦ᠋ᠦ + ᠷᠠ + ‍ᠯ"
+    ],
+    "answer": "D",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_42",
+    "question": "ᠳᠦᠷᠪᠡᠯᠵᠢᠭ᠍ᠰᠡᠨ ᠦᠭᠡ ᠶᠢᠨ ᠤᠳᠬ᠎ᠠ  ᠶᠢ ᠬᠠᠭᠠᠯᠲᠠ ᠳᠤ ᠵᠥᠪ ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠭᠰᠠᠨ ᠨᠢ ᠄",
+    "option": [
+      "ᠠᠷᠤ ᠳᠤ ᠨᠢ ᠲᠣᠬᠣᠢ ᠶᠢᠨ ᠴᠢᠨᠡᠭᠡᠨ ᠪᠠᠷᠢ ᠠᠵᠢᠯ ᠢᠶᠠᠨ ᠭᠦᠢᠴᠡᠬᠦ ᠦᠭᠡᠢ ᠯᠡ ［ᠶᠠᠳᠠᠷᠠᠵᠤ］ ᠪᠠᠢᠬᠤ ᠶᠤᠮ ᠃ （ ᠶᠠᠳᠠᠷᠠᠵᠤ ）",
+      "《 ［ᠶᠠᠳᠠᠵᠤ］ ᠵᠢᠷᠤᠭ ᠢ ᠨᠢ ᠠᠪᠴᠤ ᠥᠭ᠍ᠭᠦᠶ᠎ᠡᠳᠠ 》 ᠭᠡᠵᠦ ᠪᠣᠳᠣᠯ᠎ᠠ ᠃ （ ᠳᠥᠩᠭᠡᠵᠦ ）",
+      "ᠲᠡᠭᠦᠨ ᠢ ᠪᠠᠷᠢᠮᠠᠷ ᠴᠠᠭᠳᠠᠭ᠎ᠠ ［ᠶᠠᠳᠠᠵᠤ］ ᠨᠢᠭᠡ ᠴᠦ ᠦᠭᠡᠢ ᠭᠡᠵᠦ ᠦᠦ ︖ （ ᠶᠠᠳᠠᠬᠤ  ᠳᠤ ᠪᠠᠨ ᠂ ᠨᠠᠭᠠᠲᠤ ᠵᠠᠭ᠎ᠠ ᠨᠢ ）",
+      "ᠤᠯᠤᠰ ᠤᠨ ᠰᠢᠯᠭᠠᠭᠤᠯᠢ ᠭᠡᠳ ᠰᠣᠷᠣᠭ᠌ᠴᠢᠳ ᠮᠢᠨᠢ ᠶᠣᠰᠤᠲᠠᠢ ［ᠶᠠᠳᠠᠵᠤ］ ᠪᠠᠢᠬᠤ ᠶᠤᠮ ᠃ （ ᠲᠦᠩᠭᠡᠵᠦ ）"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_43",
+    "question": "ᠲᠡᠰᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠯᠭᠡ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠵᠠᠩᠬᠢᠯᠠᠭ᠎ᠠ ᠶᠢᠨ ᠴᠠᠭ ᠂ ᠮᠠᠩᠨᠠᠢ ᠲᠡᠨᠢᠬᠦ ᠂ ᠡᠪᠳᠡᠵᠤ ᠪᠡᠯᠪᠠᠴᠢᠬᠤ",
+      "ᠲᠠᠰᠬᠠᠯ ᠲᠠᠭᠠᠭᠠᠯᠪᠤᠷᠢ ᠂ ᠰᠠᠳᠭᠢᠯ ᠬᠠᠩᠬᠤ ᠂ ᠸᠠᠭᠠᠷ ᠤᠨ ᠬᠡᠯᠲᠡᠷᠠᠬᠡᠢ",
+      "ᠨᠡᠭᠦᠳᠠᠯᠠᠨ ᠤᠳᠤᠷᠯᠠᠬᠤ ᠂ ᠬᠠᠰᠢᠷ ᠰᠤᠷᠮᠠᠭᠠᠢ ᠂ ᠴᠢᠭᠡᠵᠢ ᠪᠠᠷ ᠤᠩᠰᠢᠬᠤ",
+      "ᠮᠠᠰᠢ ᠴᠢᠬᠤᠯᠲᠠᠢ ᠂ ᠳᠤᠷᠠᠰᠤᠨ ᠮᠥᠷᠥᠭᠡᠳᠬᠦ ᠂ ᠣᠢᠯᠭᠠᠵᠤ ᠮᠡᠳᠡᠬᠦ"
+    ],
+    "answer": "A",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_84",
+    "question": "ᠴᠥᠮ ᠡᠰᠡᠷᠭᠦ ᠤᠳᠬ᠎ᠠ ᠲᠠᠢ ᠦᠭᠡ ᠪᠣᠯᠬᠤ ᠪᠦᠯᠦᠭ ᠨᠢ ᠄",
+    "option": [
+      "ᠡᠪᠦᠭᠡᠨ  ᠡᠮᠡᠭᠡᠨ ᠂ ᠡᠷᠡᠭ᠍ᠲᠡᠢ  ᠡᠮᠡᠭ᠍ᠲᠡᠢ ᠂ ᠮᠥᠨ  ᠪᠢᠰᠢ",
+      "ᠲᠡᠭ᠍ᠵᠢᠷᠡᠬᠦ —— ᠳᠣᠷᠣᠢᠳᠠᠬᠤ ᠂ ᠪᠠᠶᠠᠷᠯᠠᠬᠤ ᠵᠣᠪᠠᠬᠤ ᠂ ᠤᠬᠤᠷᠢᠬᠤ ᠤᠷᠣᠭᠰᠢᠯᠠᠬᠤ",
+      "ᠡᠪᠦᠯ —— ᠵᠣᠨ ᠂ ᠡᠭᠦᠳᠡ  ᠴᠤᠩᠬᠤ ᠂ ᠣᠷᠣᠭᠰᠢᠲᠠᠢ  ᠣᠷᠣᠭ᠌ᠰᠢ ᠦᠭᠡᠢ",
+      "ᠤᠯᠵᠠ  ᠭᠠᠷᠤᠵᠠ ᠂ ᠭᠠᠯ  ᠤᠰᠤ ᠂ ᠪᠠᠢᠨ᠎ᠠ  ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_94",
+    "question": "ᠨᠡᠷ᠎ᠡ ᠦᠭᠡ ᠶᠢᠨ ᠨᠥᠭᠦᠴᠡᠯ ᠢ ᠵᠥᠪ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ ᠥᠭᠦᠯᠡᠪᠦᠷᠢ ᠨᠢ ᠄",
+    "option": [
+      "ᠨᠢᠳᠤᠨᠤᠨ ᠡᠪᠦᠯ ᠪᠢ ᠠᠵᠢᠯ ᠤᠨ ᠲᠡᠰᠢᠷᠡᠮ ᠪᠠᠷ ᠬᠠᠷ᠎ᠠ ᠵᠠᠭ ᠲᠤ ᠬᠦᠷᠪᠡ ᠃",
+      "ᠪᠢᠯᠢᠭ ᠦᠨ ᠤᠯᠠᠷᠢᠯ ᠤᠨ ᠡᠪᠦᠯ ᠤᠨ ᠳᠤᠮᠳᠠ ᠰᠠᠷ᠎ᠠ ᠶᠢᠨ ᠰᠢᠨᠠᠳ ᠢᠶᠠᠷ ᠵᠢᠷᠠᠲᠠᠢ ᠶᠢᠨ ᠳᠠᠪᠤᠰᠤᠨ ᠨᠠᠭᠤᠷ ᠲᠤ ᠬᠦᠷᠥᠭ᠍ᠰᠡᠨ ᠪᠢᠯᠡ ᠃",
+      "ᠦᠨᠳᠤᠷ ᠬᠠᠳᠠᠨ ᠠᠴᠠ ᠳᠡᠭᠦᠯᠢᠨ ᠪᠠᠭᠤᠬᠤ ᠳᠤ ᠴᠢᠨᠦ᠎ᠠ  ᠤᠳ ᠵᠤᠤᠵᠠᠢ ᠬᠣᠯᠪᠣᠨ ᠬᠥᠬᠡᠭᠡᠭ᠍ᠰᠡᠭᠡᠷ ᠯᠠ ᠪᠠᠢᠪᠠ ᠃",
+      "ᠬᠦᠮᠤᠨ ᠠᠮᠠᠨ ᠤ ᠬᠡᠲᠦᠷᠬᠡᠢ ᠦᠰᠤᠯᠲᠡ ᠨᠢ ᠠᠮᠢ ᠠᠬᠤᠢ  ᠶᠢᠨ ᠡᠪᠳᠡᠭ᠍ᠳᠡᠯ ᠢ ᠲᠦᠷᠭᠡᠳᠭᠡᠵᠦ ᠪᠠᠢᠯ᠎ᠠ ᠃"
+    ],
+    "answer": "B",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "medium",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  },
+  {
+    "id": "chinese_minority_knowledge_tasks_minority_language_understanding_mn_38",
+    "question": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠯᠲᠠ ᠶᠢᠨ ᠵᠥᠪ ᠨᠢ ᠄",
+    "option": [
+      "《 ᠲᠡᠭ᠍ᠷᠢ 》 ᠪᠠ 《 ᠭᠠᠵᠠᠷ 》 ᠂ 《 ᠡᠷ᠎ᠡ 》 ᠪᠠ 《 ᠡᠮ᠎ᠡ 》 ᠪᠣᠯ ᠪᠦᠷ ᠡᠰᠡᠷᠭᠦ ᠤᠳᠬ᠎ᠠ ᠲᠠᠢ ᠦᠭᠡ ᠮᠥᠨ ᠃",
+      "《 ᠠᠯᠳᠠ 》 ᠪᠠ 《 ᠮᠥᠩᠭᠥ 》 ᠂ 《 ᠰᠠᠬᠢᠯᠭ᠎ᠠ 》 ᠪᠠ 《 ᠮᠣᠷᠠᠯ 》 ᠪᠣᠯ ᠪᠦᠷ ᠣᠢᠷᠠᠯᠴᠠᠭ᠎ᠠ ᠤᠳᠬ᠎ᠠ ᠲᠠᠢ ᠦᠭᠡ ᠮᠥᠨ ᠃",
+      "《 ᠳᠦᠷᠢ ᠲᠥᠷᠬᠦ 》 ᠂ 《 ᠤᠷᠤᠭ᠌ᠰᠢ ᠳᠦᠷᠢ 》 ᠬᠣᠶᠠᠷ ᠦᠨ 《 ᠳᠦᠷᠢ 》 ᠪᠣᠯ ᠳᠦᠷᠰᠦ ᠢᠵᠢᠯ ᠂ ᠳᠠᠭᠤᠳᠠᠯᠭ᠎ᠠ ᠪᠠ ᠤᠳᠬ᠎ᠠ ᠣᠨᠳᠣᠣ ᠦᠭᠡ ᠮᠥᠨ ᠃",
+      "《 ᠵᠠᠨᠤᠬᠤ 》 ᠪᠠ 《 ᠬᠣᠷᠣᠰᠬᠤ 》 ᠂ 《 ᠵᠠᠨᠴᠢᠬᠤ 》 ᠪᠠ 《 ᠴᠣᠬᠢᠬᠤ 》 ᠪᠣᠯ ᠪᠦᠷ ᠤᠳᠬ᠎ᠠ ᠢᠵᠢᠯ ᠦᠭᠡ ᠮᠥᠨ ᠃"
+    ],
+    "answer": "C",
+    "metadata": {
+      "language": "mn",
+      "difficulty": "easy",
+      "task_category": "Chinese Minority Knowledge Tasks",
+      "task_name": "Minority Language Understanding"
+    }
+  }
+]
