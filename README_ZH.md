@@ -310,3 +310,11 @@ comprehensive_results/
 - 综合排名概览
 - 各任务详细排名
 - 模型表现分析
+
+## 📚 引用方式（中文）
+
+如果您在科研工作中使用 CMiLBench 数据集，请引用以下内容：
+
+```bash
+李毅杰, 孙媛. CMiLBench: 中国少数民族语言分层多任务基准 [DS/OL]. V1. 科学数据银行, 2025 [2025-12-13]. https://cstr.cn/31253.11.sciencedb.29160.
+CSTR: 31253.11.sciencedb.29160.
