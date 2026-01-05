@@ -314,9 +314,3 @@ Human-readable ranking report text, including:
 - Overall ranking overview
 - Detailed rankings for each task
 - Model performance analysis
-
-## 📚 Citation
-
-If you use CMiLBench in your research, please cite the following dataset:
-```bash
-Yijie Li and Yuan Sun, “CMiLBench: A Hierarchical Multitask Benchmark for Low-Resource Minority Languages in China.” Science Data Bank, Oct. 09, 2025 [Online]. Available: https://doi.org/10.57760/sciencedb.29160. 
