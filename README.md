@@ -314,3 +314,12 @@ Human-readable ranking report text, including:
 - Overall ranking overview
 - Detailed rankings for each task
 - Model performance analysis
+
+## Data Access
+
+Due to the sensitive nature of the content, the **Safety Alignment Tasks** subset is not publicly released. To request access, please contact us at mucnlp@outlook.com with the following information:
+
+1. Personal and institutional details.
+2. Intended usage and purpose of the dataset.
+
+We will evaluate requests on a case-by-case basis and grant access in compliance with the relevant requirements.
